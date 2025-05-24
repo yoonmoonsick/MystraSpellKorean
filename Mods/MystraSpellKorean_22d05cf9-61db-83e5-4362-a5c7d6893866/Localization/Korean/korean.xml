@@ -1,0 +1,1739 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <content contentuid="h041de896gbb39ge13agabffgcc5189add816" version="1">화염의 손길</content>
+ <content contentuid="h76528c19g20c0ge9f3g5cafg497d4489505f" version="1">화염의 힘으로 적을 공격합니다. 해당 범위 내의 모든 대상은 [1]의 피해를 입고 시전자는 [2]의 생명력을 회복합니다.</content>
+ <content contentuid="haefd685egb98eg32d7g0285g47f976134d96" version="1">라를로크의 하급 흡수</content>
+ <content contentuid="h0a580d62gba20g9ad5g17b7g836eca2f3f45" version="2">대상의 생명력을 추출하고 생명력을 절반만큼 회복합니다.</content>
+ <content contentuid="hacd2cea9gddc8g1fa0gcf65g125cce547c28" version="1">죽음의 경종</content>
+ <content contentuid="h3270014dga1a6g5b0agd805g966b0d27e657" version="4">대상이 최대 생명력의 절반 이하인 경우 [2]의 피해를 입히고 그렇지 않은 경우 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h1d577e5cgf1f3ge88cg27aegdc9fb3f0ccfd" version="1">두려움 유발</content>
+ <content contentuid="hcea55c16g8fedgbfabge9fbgbece0cc00b29" version="2">대상을 두렵게 할 수 있습니다. 그들은 능력 판정와 명중 굴림에 불리 보정을 받고 움직일 수 없게 됩니다.</content>
+ <content contentuid="hb1605f58gf2ebgdb74gc4e4g14646ab4ec96" version="1">울리는 검</content>
+ <content contentuid="hfbb97b82g1c91g175cgfb9cge77e5aa7e314" version="1">[1] 추가 피해를 입힙니다.</content>
+ <content contentuid="h6cd9bde0g7108g3702g4890g251347fabdf7" version="1">동상</content>
+ <content contentuid="hf76578fcg9aefg0014g93b2g84a0f7eb52ca" version="1">명중 굴림에 불리 보정.</content>
+ <content contentuid="h95e18dc2g867cg1b50gea26g870ec71c14e7" version="1">동상</content>
+ <content contentuid="hfc4710aagf214g7ed3g5c73g6cd7ad8bc29c" version="2">명중 굴림에 불리 보정을 주는 마비성 서리를 입힙니다.</content>
+ <content contentuid="h7206704cg81c2gaae9g65e1g8bd838a2e3a0" version="2">녹색 불꽃의 검</content>
+ <content contentuid="hb829b7c8gafdega3abg0b1eg190a4a987331" version="4">녹색 화염을 퍼뜨려 근처 적을 불태울 수 있습니다. 이동하면 제거됩니다.</content>
+ <content contentuid="h658ad5e5ge441g7084g551dg78adfabd4202" version="2">녹색 불꽃의 검</content>
+ <content contentuid="h09009148g35b9gc346gd25eg2a54bcd66f34" version="8">대상에게 공격하여 추가 [1]를 줍니다. 공격이 적중하고 당신이 움직이지 않으면, 당신은 녹색 불꽃을 퍼뜨려 근처의 다른 생물을 [2]만큼 태울 수 있습니다.</content>
+ <content contentuid="h5b044d05gf028g5096g7cc1g51415d57907c" version="2">녹색 화염 퍼뜨리기.</content>
+ <content contentuid="h200a2a3cg7603gd049gb695g650df26ff7f5" version="2">다른 적을 [1]만큼 불태우세요.</content>
+ <content contentuid="hc95dd3e2gb97eg216cg5aedg1401932f33cb" version="2">녹색 화염 화상</content>
+ <content contentuid="hdcb9a76agaca2g6ec8g69ccga03523f4bbcc" version="1">녹색 불꽃의 검의 대상이 될 수 없습니다.</content>
+ <content contentuid="h44d3a5a5g42bdgc03fg26abg59c936baeb19" version="2">바람</content>
+ <content contentuid="h8e4fdb06g1c15gcc54g8667ge773585f3165" version="2">작은 바람의 흐름을 생성하여 대상을 [1] 밀어냅니다.</content>
+ <content contentuid="hd0f331e4g950bge183g4df3g5c7c138913b5" version="1">밀어내는 거리는 플레이어의 힘과 대상의 무게에 따라 달라집니다.</content>
+ <content contentuid="ha8e09f2dg00d5g28b5g08abg895fe3952989" version="1">광휘의 손길</content>
+ <content contentuid="h37f09afdg6af7g83d3gb8a6g969af4013abd" version="1">당신의 손에서 불타는 광채가 폭발하여 주변 생물에게 [1] 피해를 입힙니다.</content>
+ <content contentuid="h304ca85fgc45eg3282ge3fag543c10c75a6b" version="1">광휘의 손길</content>
+ <content contentuid="he0f1f92fgccb6gd1e0g071bg4cd6d212dcb5" version="1">당신의 손에서 불타는 빛이 솟아나와 주변 생물에게 피해를 입힙니다.</content>
+ <content contentuid="hb585ee1dg6084g69c5g8dfcg6634d00f0445" version="1">겁에 질림</content>
+ <content contentuid="h9bc8f91dgf1d8g6833ga1e3g3736c1172e56" version="1">움직일 수 없습니다. 겁먹은 존재는 능력 판정와 명중 굴림에도 불리 보정을 받습니다.</content>
+ <content contentuid="h868b9145g7f0dg5283g6d67g207448f19e30" version="2">울리는 에너지</content>
+ <content contentuid="h7c8cac60g051bg55d9gb916g3caa4a7beca7" version="2">이동 시 천둥 피해를 입습니다.</content>
+ <content contentuid="hfada4e61g2cf8g9fd5g4f34gf78868c05a45" version="1">울리는 검</content>
+ <content contentuid="h507f8336gce0fg490egc520gfb12ce686a20" version="4">대상에게 추가 [1]를 부여합니다. 공격이 적중하면 대상은 폭발하는 에너지에 싸이게 되며, 대상이 움직이면 [2]를 입힙니다.</content>
+ <content contentuid="h645decc9g86aag3716ge5e0gec70d22d606a" version="1">울리는 파동</content>
+ <content contentuid="h7378492bg3e65g85a4gce25g9e9885326d01" version="3">이동시 [1]를 입습니다.</content>
+ <content contentuid="h6a6e7c0cg8c40gca78gd2dcg5dd86607ffdc" version="1">번개 채찍</content>
+ <content contentuid="h68d3a440g112ag90f8gc216gd29464d2ac19" version="2">생물을 당신에게 [1] 더 가까이 끌어당깁니다.</content>
+ <content contentuid="he78cfb9fg329aga27agb96ag2a36a0ccc318" version="2">곤충 확산</content>
+ <content contentuid="hf3273b59gdd54geb5dgd7e0g97bbf053c16d" version="1">이동 속도가 [1]만큼 감소합니다.</content>
+ <content contentuid="h6380a825gcb97g21b3g5fa8gab2f1ab21885" version="1">곤충 확산</content>
+ <content contentuid="hc2d68295g20ccgbc25ge6b8ge708735a116e" version="2">기생충 떼를 소환하여 대상을 뒤로 밀어내고 이동 속도를 [1]만큼 감소시킵니다.</content>
+ <content contentuid="he6e6248cgab9dg2849g4a74gd1df7cfbc496" version="1">마법의 돌</content>
+ <content contentuid="hc23fd57bg1b33gc2f2g5725gb8a8e59b5d0a" version="1">마법의 돌을 던질 수 있음.</content>
+ <content contentuid="h10b54e36g9436gfb6dg0101gf846c0f4c1f8" version="1">마법의 돌</content>
+ <content contentuid="h22932a01g8858ge737gcfa8g974a940d126e" version="2">[1]의 피해를 입히는 마법의 돌을 변환하고, 명중 굴림에 주문 시전 능력을 사용합니다.</content>
+ <content contentuid="h7feeeeeag268ega50ag2882ga36dabe6a7fb" version="1">마법의 돌을 던지다</content>
+ <content contentuid="he6fecd2ag7140ga379gc106g51c3cf441908" version="1">적에게 마법의 돌을 던집니다.</content>
+ <content contentuid="h03c75ed2g89eeg53dfg3318g201df5086780" version="2">마인드 슬리버</content>
+ <content contentuid="h857cc048g7770g27c5gd227g3a265e0d8354" version="1">생물의 정신에 쐐기를 날려 내성 굴림에 -[1] 페널티를 부여합니다.</content>
+ <content contentuid="h2aac39f6g5af5gf63eg041cgeb77ebdbd825" version="2">마인드 슬리버</content>
+ <content contentuid="hb3005a12gce55g0120ga4cdg73f684529487" version="1">내성 굴림에 1d4 페널티가 있습니다.</content>
+ <content contentuid="h5b87e923gf15dgb14dg734egbe5b53f6a52a" version="1">진흙을 생성</content>
+ <content contentuid="h61105292g5831gd222gbd32g804a371365a1" version="1">진흙을 생성합니다.</content>
+ <content contentuid="h67658338gb95bgce11gbd4ag70bd2b064568" version="1">진흙 조형</content>
+ <content contentuid="h3bbdd7a0g9e1cgda09g3b6bgd176367a81f6" version="1">진흙을 생성하거나 제거합니다.</content>
+ <content contentuid="h4f134057g1678g4eacgc782gfb6969086da3" version="1">진흙을 제거</content>
+ <content contentuid="hedd78caegd19dg6c13g4332gb7d194794aca" version="1">진흙 기반 표면을 사라지게 합니다.</content>
+ <content contentuid="hbf64f6c8g819cg292bg0d16gf4592c3e0829" version="1">원시의 잔혹성</content>
+ <content contentuid="h3728519eg177fgfe00ge91fg94d6295342e6" version="2">부식성 발톱으로 대상을 공격합니다.</content>
+ <content contentuid="h6d76126fg42a5g584cg7dd9g3124da6c4c90" version="1">쇠약의 찌르기</content>
+ <content contentuid="hf4a777dcg88cdgfd0ag8af3g028d7ce26c56" version="1">대상의 근력을 약화시켜 넘어뜨립니다.</content>
+ <content contentuid="he9acce0egc4b3g20bbg85bdg42b423dd7409" version="1">검 폭발</content>
+ <content contentuid="hc20059fag356ag1950g8310g9017c0c28319" version="1">영체의 칼날이 당신 주위를 채찍쓸고 지나갑니다.</content>
+ <content contentuid="h37350451g518bg92f2g4adbg44d257cb8af5" version="1">광휘의 단어</content>
+ <content contentuid="h3ffa2416g2c3dgbb58g1d43g0d084f1a2150" version="1">신성한 단어를 외쳐 타오르는 광채를 불러냅니다.</content>
+ <content contentuid="had5f3d0bgbe08ge805g36e6gabd8ebb041af" version="2">공격 주문은 추가 공격과 중복되지 않으며 행동당 한 번만 시전할 수 있습니다. 이 주문은 침묵 상태인 동안에도 시전할 수 있습니다.</content>
+ <content contentuid="h89c631fag496fga73dg73a2g15b0d865642b" version="1">이 주문은 침묵 상태일 때도 시전할 수 있습니다.</content>
+ <content contentuid="h25851994gbb93gd31dg7067g4a23fb65dbae" version="1">이 주문은 침묵 상태일 때도 시전할 수 있습니다.</content>
+ <content contentuid="h75e87092gcde9gf5a5g1e5fgac3a3f40b12b" version="1">이 주문은 침묵 상태일 때도 시전할 수 있습니다.</content>
+ <content contentuid="h58a91b66gbb02g4a2dg2c3cg9efa6fe61444" version="1">천둥 박수</content>
+ <content contentuid="h000b1c39g064fg0620g23a8gefc361fc5505" version="1">천둥치는 듯한 소리를 만들어냅니다.</content>
+ <content contentuid="h481e6f2dg7e6eg6576g2e3fgb9fd69646bec" version="1">이 주문은 침묵 상태일 때도 시전할 수 있습니다.</content>
+ <content contentuid="hb46ce668g566fg9e96g44a5gb384c2f59866" version="1">원소 흡수</content>
+ <content contentuid="h90abafb4g489dg1844ga1d4ge9b6b44d2434" version="1">당신을 대상으로 하는 다음 원소 공격으로부터 절반의 피해를 입고, 다음 공격 시 해당 원소 유형의 추가 [1]를 입힙니다.</content>
+ <content contentuid="hf61ff839ge456g0fbcg9332gc1da0f928c7e" version="1">원소 흡수</content>
+ <content contentuid="h84b0d1aag5501g46ceg9221g20035edb58f5" version="1">당신을 대상으로 하는 다음 원소 공격으로부터 절반의 피해를 입고, 다음 공격 시 해당 원소 유형의 추가 [1]를 입힙니다.</content>
+ <content contentuid="hb84d402dg1893ged4dg4d74g6c2565ea9c30" version="2">원소 흡수 주문</content>
+ <content contentuid="hee24e5f5g9eb1g5900g9cbcg12d7fe3d12c4" version="3">주문. 당신을 대상으로 삼은 다음 원소 공격으로부터 절반의 피해를 입고, 다음 공격 시 해당 원소 유형의 추가 [1]를 입힙니다.</content>
+ <content contentuid="h29fcdf0agaae9gd322g80b5ge88cdec0794c" version="1">원소 흡수</content>
+ <content contentuid="h74889619ga73agef55g13a4g96a57f4e9a0c" version="1">짧은 휴식당 원소 피해를 한 번 흡수합니다. 자신을 대상으로 하는 다음 원소 공격에서 절반의 피해를 입고, 다음 공격에서 해당 원소 유형의 추가 [1]를 입힙니다.</content>
+ <content contentuid="h26184375ga2efg909dg79e6g069baf273d6c" version="1">원소 흡수</content>
+ <content contentuid="h729929f8g8fa5g33ebg5d2fg47d00333bf37" version="2">당신을 대상으로 하는 다음 원소 공격으로부터 절반의 피해를 입고, 다음 공격 시 해당 원소 유형의 추가 [1]를 입힙니다.</content>
+ <content contentuid="hd4a54c21g4111gc3f0g356cg1f1c5db30921" version="1">방패의 대가: 막기</content>
+ <content contentuid="hfee7de13g8487g500fg92b6gf872147fcb2e" version="1">주문 공격으로부터 자신을 보호합니다: 주문에 대한 민첩 내성 굴림에 실패하면 절반의 피해만 입습니다. 성공하면 피해를 입지 않습니다. </content>
+ <content contentuid="he8778181gd955g3066gbea5g71242b29c9b4" version="1">당신을 대상으로 하는 다음 원소 공격으로부터 절반의 피해를 입고, 다음 공격 시 해당 원소 유형의 추가 [1]를 입힙니다.</content>
+ <content contentuid="h7cc4fee5g3af3g4cecgf398g2ce765a391cf" version="2">원소 흡수</content>
+ <content contentuid="h4a82c887g1643g6057g1386g895eb48c09bd" version="1">당신을 대상으로 하는 다음 원소 공격으로부터 절반의 피해를 입고, 다음 공격 시 해당 원소 유형의 추가 [1]를 입힙니다.</content>
+ <content contentuid="h1ce33605ga159g3abeg9123g5656910811f3" version="1">원소 흡수: 화염 피해</content>
+ <content contentuid="h342f5d0bgfecbgec43g020agd41a24d0f140" version="3">화염 피해에 저항하며, 다음에 무기로 피해를 입힐 때 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h1c0d9098g38b1g60f9ga863g4c6240289c8c" version="1">요소 흡수: 산성 피해</content>
+ <content contentuid="h2fc96016gcbbcgdd6dg5f33g6761d45fd7e0" version="3">산성 피해에 대한 저항이 있으며, 다음에 무기로 피해를 입힐 때 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="hdd4382d4g886dg0384g3ce8g698403c5c7b3" version="1">원소 흡수: 냉기 피해</content>
+ <content contentuid="h4f565c94g3d10g26f0g046bg16a88673f6de" version="2">영향을 받은 개체는 냉기에 대한 저항을 가지며 다음에 무기로 피해를 입힐 때 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="hdfd902e4gbf10g47f2g13b2g70a71856e112" version="1">원소 흡수: 번개 피해</content>
+ <content contentuid="hf7174956ga2d1g9732g5769gf833b87664f7" version="3">번개 피해에 저항하며, 다음에 무기로 피해를 입힐 때 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="hbe62f07agf49ag6d6fgd433g50acb943efaa" version="1">원소 흡수: 천둥 피해</content>
+ <content contentuid="ha98bd3d1g937cga06fg61c1g244f72f478ec" version="3">천둥 피해에 대한 저항이 있으며, 다음에 무기로 피해를 입힐 때 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h4e18f73bg022fg29e6gb604g8e238ecfe1fe" version="1">냉기 피해에 대한 저항이 있으며, 다음에 무기로 피해를 입힐 때 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h9e54ccc4g2ea3g04d3g27c8g68ece880c943" version="1">산성 줄기</content>
+ <content contentuid="h3aa9d387ge835gb54fg8c27g10ff945d7355" version="2">턴 시작 시 [1]를 받습니다.</content>
+ <content contentuid="h430772c7g3177gbe5cgf70bgc7128d693f6e" version="1">산성 줄기</content>
+ <content contentuid="h8681f450g07b8g0973g9050gbf34b15e2be8" version="4">적을 [2]턴 동안 부식시켜 [1]를 입히는 산성 줄기를 소환합니다.</content>
+ <content contentuid="hfac98d25g964eg3145g03f4gd6f1c7e416eb" version="1">결계 문양: 수면</content>
+ <content contentuid="h50bdc6b8gc516ge172g5652g27fe717db22f" version="1">이 문양은 적이 밟았을 때 범위 내의 모든 사람을 잠들게 하는 진정시키는 마법을 내뿜습니다.</content>
+ <content contentuid="h53237934gddacgf072g141cg5c3a0c73166f" version="1">야수 결속</content>
+ <content contentuid="h642329e9gb41dg059fg88f7g7a0d93baab46" version="3">영향을 받은 개체는 아군 중 한 명이 대상 주위 [1] 이내에 있고 무력화되지 않은 경우 대상에 대한 명중 굴림에 유리 보정을 얻습니다.</content>
+ <content contentuid="hf2e9246fg86ebg4238gbcedga685f8782d7c" version="2">야수 결속</content>
+ <content contentuid="ha8dda4ceg3d10g5eefg550agf09d623599bd" version="4">대상의 아군 중 하나가 대상 주위 [1] 이내에 있고 무력화되지 않은 경우, 대상에 대한 명중 굴림에서 아군 야수에게 유리 보정을 부여합니다.</content>
+ <content contentuid="h6831ae52g1121g4e05g7628g90ebc425ce71" version="2">야수 결속</content>
+ <content contentuid="h297ac485gd257g6de2g55bfg851d1f045523" version="1">생물의 아군 중 한 명이 대상 주위 [1] 이내에 있고 무력화되지 않은 경우, 생물은 대상에 대한 명중 굴림에 유리 보정을 얻습니다.</content>
+ <content contentuid="h0ff7550cg52e0ga0fegc68bgc973a1dbfa10" version="1">투석기</content>
+ <content contentuid="h2b8382feg2cc4g9ae4gd55cg486cda307664" version="5">목표물에 가벼운 물체를 던집니다.</content>
+ <content contentuid="h508c1ab5gf4deg0c77g6739gc5b38a788b91" version="1">무거운 아이템일수록 더 큰 피해를 입힙니다.</content>
+ <content contentuid="h189db7a6g4f11gd709gf5e8g273d60a6ddd1" version="1">;</content>
+ <content contentuid="h892d4438gca4eg5070g10abg7238cc3fba7d" version="6">최대 중량은 5kg입니다. 던진 무기도 일반적인 피해를 입힙니다. 침묵 상태인 동안에도 이 주문을 시전할 수 있습니다.</content>
+ <content contentuid="h786917deg9898g9f4egf171g6c072a991627" version="1">속죄</content>
+ <content contentuid="h9fc96203g8371g83efgd72ag9a9d0619efbd" version="8">지혜를 사용한 능력 판정와 내성 굴림에서 대상에게 유리 보정을 부여합니다. 각 턴마다 대상은 난이도 20 지혜 내성 굴림에 통과해야 하며 실패하면 [1]를 받습니다.</content>
+ <content contentuid="hc5b7cc32gd27fg40c5g11bcg2f99711bb832" version="1">의식</content>
+ <content contentuid="h4dc1442ag3d07ga765g7905ga42a25a93096" version="3">여러 가지 유익한 종교 의식 중 하나를 거행해 보세요.</content>
+ <content contentuid="h8a58c77fg77dfg536fg4245g12e037858ed4" version="1">성수</content>
+ <content contentuid="h152ad5d1g710dg04acgd064g59bd09b9fd60" version="3">자신이나 동료의 인벤토리에 성수 한 병을 하나 만드세요.</content>
+ <content contentuid="h50f98a22g636fg8ad5g5adfg889bfa88d90a" version="1">속죄</content>
+ <content contentuid="hf39e045bgbf08g2d25gc160g52cad962e199" version="4">지혜를 사용한 능력 판정와 내성 굴림에 유리 보정을 받습니다. 각 턴마다 난이도 20 지혜 내성 굴림에 실패하면 [1]를 받습니다.</content>
+ <content contentuid="ha5104a52g85f4g3cb8g55d9gd49a5fe1772d" version="1">성인식</content>
+ <content contentuid="hb316657eg95acg90c8ga28fg2bf9e62f458e" version="1">능력 판정에 +[1] 보너스를 얻습니다.</content>
+ <content contentuid="h2759bf83g3ec0g70c5g3a1dg5db23dbc8adc" version="1">봉헌식</content>
+ <content contentuid="hfd44ae3eg4749ga6d9gf188g18a67ece10d0" version="1">내성 굴림에 +[1] 보너스를 얻습니다.</content>
+ <content contentuid="h9bbd163ege84eg70fcg0d3egae7afee27df0" version="1">성인식</content>
+ <content contentuid="h0812fc12g1e97g2c23g5993gacf2d3737610" version="1">대상에게 능력 판정에 +[1] 보너스를 부여합니다.</content>
+ <content contentuid="h47bc9996g9f2bg8334gb928g4a17ce37d4b3" version="1">봉헌식</content>
+ <content contentuid="h545ef05fg0cdeg2090gfecfg9f1fcf343269" version="1">대상에게 내성 굴림에 +[1] 보너스를 부여합니다.</content>
+ <content contentuid="h12e1678eg463cg5c51g4edag62ccecf5376a" version="1">장례식</content>
+ <content contentuid="he4afc542g14aagb6cfg9e20g1f645d4a1156" version="2">시체에 대한 장례식을 거행합니다.</content>
+ <content contentuid="h6f4899c0g78d4g681fg9434gca5062af040d" version="2">결혼식</content>
+ <content contentuid="h629765d4g182dg46c9gb781ge625e6b60c62" version="1">두 사람 사이의 결혼식을 축복합니다: [1] 내에 무력화되지 않은 동맹이 있는 동안 방어도를 2만큼 증가시킵니다.</content>
+ <content contentuid="h62a721dagb9cag3eafg6d56gfb2b33635a44" version="1">결혼식</content>
+ <content contentuid="h6e0dcadbgd75fge459ge15fgf6bb28bea090" version="2">행복한 결혼![1] 내의 아군 중 한 명이 무력화되지 않은 경우 방어도가 2만큼 증가합니다.</content>
+ <content contentuid="hbcf59522ga275g6074g9c7eg53dd63e05681" version="1">결혼식</content>
+ <content contentuid="he415a0fbga538g20f5g4782g0d4429442f75" version="1">행복한 결혼![1] 내의 아군 중 한 명이 무력화되지 않은 경우 방어도가 2만큼 증가합니다.</content>
+ <content contentuid="h06cdbdc8g4013gf8d3gda89ga024561737d3" version="1">혼돈의 화살</content>
+ <content contentuid="h8221fe7dg74deg66b8g2680gc572a300f714" version="9">무작위적인 피해 유형이 주입된 혼돈의 화살을 던질 수 있는 능력을 얻습니다. 이 화살은 다른 효과를 가할 수 있습니다.</content>
+ <content contentuid="h3cbb5174g24e5g78d3gf8b6g8b37018ddb21" version="3">혼돈의 화살: 산성</content>
+ <content contentuid="h6e356473g8aa1g5b2dg8b97gdc87585071ef" version="2">혼돈의 화살: 산성을 시전할 수 있습니다.</content>
+ <content contentuid="hac2102acgfdf8gfc7fg202bg42fb7fa36dae" version="1">혼돈의 화살: 화염</content>
+ <content contentuid="h1d75e2cfgf08eg723egb837g315c7af49aed" version="1">다른 혼돈의 화살의 대상이 될 수 없습니다.</content>
+ <content contentuid="hb3a5ee88g725bg722bg9d82g77f59fd66df2" version="2">혼돈의 화살: 산성</content>
+ <content contentuid="hcd188593gee2dg9a6eg9518g5637dcfc911a" version="6">혼돈스러운 부식성 에너지 화살을 발사합니다. 충격 시 산성 표면을 생성합니다.</content>
+ <content contentuid="h766bc602gfa5agb67eg9945g3b78b9572ce2" version="2">혼돈의 화살: 냉기</content>
+ <content contentuid="h751fdda8g4fc0g33bege0fag2a818d9217a3" version="1">혼돈의 화살: 화염</content>
+ <content contentuid="heaccd133g54c2g3269g7dc4g48ba774f3310" version="1">혼돈의 화살: 냉기를 시전할 수 있습니다.</content>
+ <content contentuid="h4b505bb7g3b33gfdb7gfc3dg05c413775793" version="1">혼돈의 화살: 화염을 시전할 수 있습니다.</content>
+ <content contentuid="hdd612bb7g4ca9g35eeg4e36g5435cbe6b3e0" version="1">혼돈의 화살: 역장을 시전할 수 있습니다.</content>
+ <content contentuid="h1282e3efg3ebeg05b0g56bfg5d8f66db0a5a" version="1">혼돈의 화살: 역장</content>
+ <content contentuid="h70d1f43egb6a2g749fgf795g4b7249d6b7cd" version="1">혼돈의 화살: 냉기</content>
+ <content contentuid="h956f64f9geb3ag0c42g46f2g74233bdf8be3" version="1">혼돈의 화살: 화염</content>
+ <content contentuid="hc55d5332gaf0bg3d7cg7ed8g339fc5b90cbb" version="1">혼돈의 화살: 역장</content>
+ <content contentuid="hd06eb9c4g3e02g5f72g0225g057ead26bd4b" version="1">혼돈의 화살: 번개를 시전할 수 있습니다.</content>
+ <content contentuid="hb975c017g728egf7e4g6318g0ba3327a7219" version="1">혼돈의 화살: 번개</content>
+ <content contentuid="h3484fa80g8a6bg7a55ge82dg27a101a510e3" version="1">혼돈의 화살: 독을 시전할 수 있습니다.</content>
+ <content contentuid="h2f85ef79gad7fgd3fag871cg414614bcae37" version="1">혼돈의 화살: 독</content>
+ <content contentuid="h5affbdf8gdf0cg058bg6267g162a0035ea76" version="1">혼돈의 화살: 정신을 시전할 수 있습니다.</content>
+ <content contentuid="h0283b658g35ddgd5a8g5bd3ged051796ff55" version="1">혼돈의 화살: 정신</content>
+ <content contentuid="h2fbf629bg876age5b8gb494g2fe8026da033" version="1">혼돈의 화살: 천둥을 시전할 수 있습니다.</content>
+ <content contentuid="hb5e3737ag8042g8b0agddf2g7111e46bd869" version="1">혼돈의 화살: 천둥</content>
+ <content contentuid="hfbf38176g7b3fg988agd80fg57f5a8c12102" version="1">혼돈의 화살: 역장</content>
+ <content contentuid="h699a9a70gb374ge698g9e10g968b72fb0a2d" version="1">혼돈의 화살: 번개</content>
+ <content contentuid="h1b859e8fg6c61g2af7gab3bge67bae563173" version="2">혼돈의 화살: 독</content>
+ <content contentuid="hf045319cg4f5fged2dgb410gf5eca1f23cf0" version="1">혼돈의 화살: 정신</content>
+ <content contentuid="h212d92a0ge76dg66dcg5183ge5668cb526fe" version="1">혼돈의 화살: 천둥</content>
+ <content contentuid="h4e150cedg0890g5b54g0af1g086d49a831a8" version="2">1.5%의 확률로 혼돈의 화살을 무료로 다시 시전할 수 있습니다.</content>
+ <content contentuid="hc0e854ccg7ba1gf132g0788g05b4664e5581" version="1">불타오르는 에너지의 혼란스러운 화살을 발사합니다. 충격 시 불타는 표면을 생성합니다.</content>
+ <content contentuid="h930891abg38d2gf226g3ac4g01577db71d7f" version="1">얼어붙는 에너지의 혼란스러운 화살을 발사합니다. 생물을 넘어뜨리는 얼음 표면을 생성합니다.</content>
+ <content contentuid="h3ac4ef3dg2ec1g1a64g1db1gcac9004e2386" version="1">강력한 에너지의 혼란스러운 화살을 발사합니다. 대상을 [1] 뒤로 밀어낼 수 있습니다.</content>
+ <content contentuid="hb9d329edg98cbgd9b4gfbfagbbf0e5053460" version="1">혼돈스러운 번개 에너지를 던집니다. 충격 시 전기 표면을 생성합니다.</content>
+ <content contentuid="h9fb0e5b3g086bg7c70ge749gb7c14e652d3f" version="1">독이 있는 에너지의 혼란스러운 화살을 발사합니다. 생물을 중독시킬 수 있는 거품이 나는 표면을 생성합니다.</content>
+ <content contentuid="hcd110f4fga857gc77fg90cag3f8da1c39642" version="1">혼돈스러운 정신 에너지의 화살을 발사합니다. 대상을 두렵게 할 수 있습니다: 능력 판정와 명중 굴림에 불리 보정을 부여하고 움직일 수 없습니다.</content>
+ <content contentuid="h43a00ad8g433dgd705g2427g8cf5bae6027b" version="1">혼돈스럽고 우레와 같은 에너지의 화살을 던지세요.</content>
+ <content contentuid="hb8da5d58ga9b5gb542g10bfg428b94951b51" version="1">혼돈의 화살: 산성</content>
+ <content contentuid="hcf9076f9gdb37g0e85gf826g583c7b389dd0" version="1">혼돈의 화살: 산을 시전할 수 있습니다.</content>
+ <content contentuid="h5360988dg6206g89acga02cgbb404e2d7265" version="1">혼돈의 화살: 냉기</content>
+ <content contentuid="he0f995acg65c1ge9c0geacfg4625ad5ae9b6" version="1">혼돈의 화살: 냉기를 시전할 수 있습니다.</content>
+ <content contentuid="h32242666g538fgd3e3g19c9gb56bf41aa7fb" version="1">혼돈의 화살: 화염을 시전할 수 있습니다.</content>
+ <content contentuid="h319e7bf1g9ee4g29acga685g869f96249a05" version="1">혼돈의 화살: 화염</content>
+ <content contentuid="h004990d9g8e31g9a95g053cga7364061d0e3" version="1">혼돈의 화살: 역장을 시전할 수 있습니다.</content>
+ <content contentuid="h9a99a693ga4bcg8e38g2447g08387eb164ef" version="1">혼돈의 화살: 역장</content>
+ <content contentuid="h0af078f8gf781gd804g09d1g0a27bb53f170" version="1">혼돈의 화살: 번개를 시전할 수 있습니다.</content>
+ <content contentuid="he781b976gff91g8107ga7eegca7378e7a07b" version="1">혼돈의 화살: 번개</content>
+ <content contentuid="h7c164601gc3bcg729agce7ag9ef76884c02b" version="1">혼돈의 화살: 독을 시전할 수 있습니다.</content>
+ <content contentuid="h56e0527egf973g3dbag1687g4a32569f9b3c" version="1">혼돈의 화살: 독</content>
+ <content contentuid="hd885092ag92d6g131bg88d1g1b3814edebcc" version="1">혼돈의 화살: 정신을 시전할 수 있습니다.</content>
+ <content contentuid="hd7536a61g4f9eg446fg80d0g322933b0518e" version="1">혼돈의 화살: 정신</content>
+ <content contentuid="h82c007d4g4b42g77eag16a3g456f55dc1d3e" version="1">혼돈의 화살: 천둥을 시전할 수 있습니다.</content>
+ <content contentuid="hee6ebcc7g5da9ge2c9g9b73gffe1492e24b9" version="1">혼돈의 화살: 천둥</content>
+ <content contentuid="h30c63658g66c4g9795g4eacg09090595facb" version="1">혼돈의 화살: 냉기</content>
+ <content contentuid="h01276aa8ge0ecg1869g5a09gdfce200e2e27" version="1">얼어붙는 에너지의 혼란스러운 화살을 발사합니다. 생물을 넘어뜨리는 얼음 표면을 생성합니다.</content>
+ <content contentuid="h15a2e4c6gc38bga527g6bbfg28ef89cbdc02" version="1">혼돈의 화살: 화염</content>
+ <content contentuid="h96cd2630g6065g9a6fg75b0g515acff2ea4b" version="1">불타오르는 에너지의 혼란스러운 화살을 발사합니다. 충격 시 불타는 표면을 생성합니다.</content>
+ <content contentuid="hc29fc11bg5f3age5efg4118g71a5bdbecd0c" version="1">혼돈의 화살: 역장</content>
+ <content contentuid="h0ede5842g01d7g0fe5g85b5g37e1e886257a" version="1">강력한 에너지의 혼란스러운 화살을 발사합니다. 대상을 뒤로 밀어낼 수 있습니다.[1]</content>
+ <content contentuid="hd48b5bc9g11a9g552eg3428gde0d1bb5e870" version="1">혼돈의 화살: 번개</content>
+ <content contentuid="hc4e797fbg4bbfg337fg3161g247a027e268a" version="1">혼돈스러운 번개 에너지를 던집니다. 충격 시 전기 표면을 생성합니다.</content>
+ <content contentuid="h684601dagee0cgd4e4g8ff2g2ce72bc8cc58" version="1">혼돈의 화살: 독</content>
+ <content contentuid="h2ac17c48gcc45gdb89g22ddg61773d0abcbe" version="1">독이 있는 에너지의 혼란스러운 화살을 발사합니다. 생물을 중독시킬 수 있는 거품이 나는 표면을 생성합니다.</content>
+ <content contentuid="h5a0ceb7eg5034g7144ga5c6g9994037042d6" version="1">혼돈의 화살: 독</content>
+ <content contentuid="hc7789bd6ga48fg149eg1935g1c78614065bc" version="1">독이 있는 에너지의 혼란스러운 화살을 발사합니다. 생물을 중독시킬 수 있는 거품이 나는 표면을 생성합니다.</content>
+ <content contentuid="h0979054bg7e4cg81d9g5debgba08d7994b1e" version="1">혼돈의 화살: 정신</content>
+ <content contentuid="hbc41ac50g7928g2059gfe70g0d79b6f11130" version="1">혼돈스러운 정신 에너지의 화살을 발사합니다. 대상을 두렵게 할 수 있습니다: 능력 판정와 명중 굴림에 불리 보정을 부여하고 움직일 수 없다.</content>
+ <content contentuid="h00938877g74cfg57b1g23dfg7d3a1aa48649" version="1">혼돈의 화살: 천둥</content>
+ <content contentuid="h48d8a4c4gf54eg527eg2ecagd429a508826b" version="1">혼돈스럽고 우레와 같은 에너지의 화살을 던지세요.</content>
+ <content contentuid="h8eafb8d4gbfc3ga3fag3400g2eff13ffea44" version="4">독성 가시</content>
+ <content contentuid="h3fe53021ge17bgc073g9f4cg38ba8c270145" version="1">독성 가시</content>
+ <content contentuid="h37bbbcebgb92dg315fge12ag01d7d8b04a80" version="6">근접 공격은 추가로 [1]의 피해를 입히고 2턴 동안 난이도 13의 &lt;LSTag Type="Status" Tooltip="VENOMOUS_BARBS_CONDITION"&gt;치명적 독소&lt;/LSTag&gt; 상태를 가할 수 있습니다.</content>
+ <content contentuid="hc347dd07gd874g1bcaga67bg7c08e87c155d" version="1">독성 가시</content>
+ <content contentuid="hee0e7727g1dabg219cgb77fg1850672c111a" version="3">아군 동물의 근접 공격에 적을 [2] 동안 중독시킬 수 있는 추가 [1]를 부여합니다.</content>
+ <content contentuid="h3ab96231g4491ga9c3g052ege832d4d805a8" version="1">치명적 독소</content>
+ <content contentuid="hdd232ad5gbfeag5cdfgcd21g886ab12241e0" version="5">영향을 받은 개체는 턴마다 [1]를 얻습니다.</content>
+ <content contentuid="h873be039gfe61g0838gb449gce3359ae337e" version="5">근접 공격은 추가로 [1]의 피해를 입히고 2턴 동안 난이도 18 &lt;LSTag Type="Status" Tooltip="VENOMOUS_BARBS_CONDITION"&gt;치명적 독소&lt;/LSTag&gt;를 가할 수 있습니다.</content>
+ <content contentuid="h18262d32g9273g80a9g9c3ega916158ded60" version="1">아군 동물의 근접 공격에 추가로 [1]를 부여하고, 적을 턴당 [2]만큼 중독시키는 &lt;LSTag Type="Status" Tooltip="VENOMOUS_BARBS_CONDITION"&gt;치명적 독소&lt;/LSTag&gt;를 대상에게 가할 수 있습니다.</content>
+ <content contentuid="h01325414ga001gd422g772fgedebe530e3d7" version="1">아군 동물의 근접 공격에 적을 [2] 동안 중독시킬 수 있는 추가 [1]를 부여합니다.</content>
+ <content contentuid="he8ec1be4g85c3ge6a9g2c07gadf997fd4fdc" version="3">영향을 받은 개체는 난이도 18 건강 내성 굴림에 성공하지 않는 한 턴이 끝날 때 [1]를 받습니다.</content>
+ <content contentuid="hddaf9845g306egdbceg6311g4a36e4b36229" version="3">영향을 받은 개체는 난이도 18 건강 내성 굴림에 성공하지 않는 한 턴이 끝날 때 [1]를 받습니다.</content>
+ <content contentuid="heb239887g7200g7e84ge956g343ffee987f2" version="5">대상이 난이도 13 건강 내성 굴림에 실패하면 2턴 동안 &lt;LSTag Type="Status" Tooltip="VENOMOUS_BARBS_CONDITION"&gt;치명적 독소&lt;/LSTag&gt;을 부여합니다.</content>
+ <content contentuid="hc43f509bg2794g2165ga2ccgd5ee224364d7" version="2">대상이 난이도 18 건강 내성 굴림에 실패하면 2턴 동안 &lt;LSTag Type="Status" Tooltip="VENOMOUS_BARBS_CONDITION"&gt;치명적 독소&lt;/LSTag&gt;을 부여합니다.</content>
+ <content contentuid="hd04a8346ga84egfb7cg6d4fga10fa03bcf48" version="1">울리는 검: 대응</content>
+ <content contentuid="h600748feg841aga1c5g02f0g10aaaaabebd3" version="1">신성한 강타: 대응</content>
+ <content contentuid="h58f278f8g4cf9g2d53g5203gdc9ebae8ee0e" version="1">울리는 검</content>
+ <content contentuid="hdc7a3f50g5b5ag45fagcc61gee5ac88219e3" version="1">목표물을 공격하여, 그들이 기꺼이 움직이면 [1]의 피해를 입히는 폭발적인 에너지로 그들을 덮칩니다.</content>
+ <content contentuid="h3751b5ecgea4bg6e61g94fcge521a8aad881" version="1">이 대응은 치명타에는 적용되지 않습니다. </content>
+ <content contentuid="h9222338ag50b2g9d02g2dc4gca9fc5e44b98" version="1">울리는 검</content>
+ <content contentuid="hdd12579bgbe99g2333g9b7eg58adf1a2608c" version="1">목표물을 공격하여, 그들이 기꺼이 움직이면 [1]의 피해를 입히는 폭발적인 에너지로 그들을 덮칩니다.</content>
+ <content contentuid="h857e6e55ge419g0784g7201g61a8af8988b4" version="1">이 대응은 치명타에는 적용되지 않습니다. </content>
+ <content contentuid="h576965b8gb0c9g23cag66c4gd8b4ed531a24" version="1">울리는 검 (치명타)</content>
+ <content contentuid="he69a3b57gcfaeg0ca8g53e3g1230c0eb898d" version="1">울리는 검</content>
+ <content contentuid="hebcef78ag6decgcc47g0edbg0265788d6b64" version="1">목표물을 공격하여, 그들이 기꺼이 움직이면 [1]의 피해를 입히는 폭발적인 에너지로 그들을 덮칩니다.</content>
+ <content contentuid="h14bd550aga55bg0475g10d1gbbb567113dc2" version="1">이 대응은 치명타에는 적용되지 않습니다. </content>
+ <content contentuid="h3a6e59a9g968fge02bgc62bg635d3112d638" version="1">울리는 검 (치명타): 대응</content>
+ <content contentuid="h5803586ag6f25g4093g36d3g0dd36ebd205e" version="1">울리는 검 (치명타)</content>
+ <content contentuid="h5c337a77gbd64g7ddbgf954g855d46d19502" version="2">녹색 불꽃의 검: 대응</content>
+ <content contentuid="h71297c84g400agbfe9g5804g839fea9ee20e" version="2">녹색 불꽃의 검 (치명타): 대응</content>
+ <content contentuid="h2dd75d1egbcd1gda95gf539gb79385087c40" version="2">녹색 불꽃의 검</content>
+ <content contentuid="h701028begffa3g56b2g1889g95c302bf14d9" version="1">대상에게 보너스 [1]를 줍니다. 공격이 적중하고 정지 상태를 유지하면 녹색 불꽃을 퍼뜨려 다른 불꽃을 [2]만큼 태울 수 있습니다.</content>
+ <content contentuid="h814e8376g207cg51e5g67dbgceedbc3b140b" version="1">이 대응은 치명타에는 적용되지 않습니다. </content>
+ <content contentuid="ha416a789g3b5ege1c5g14cagb5b41bf75c83" version="2">녹색 불꽃의 검 (치명타)</content>
+ <content contentuid="hfdb211dfgd4bag45c8gf5aag76a2d2f6817d" version="1">지진</content>
+ <content contentuid="h65d5f789g8a7agb0b9g3d19g621517dc6f1c" version="1">지면을 진동시켜 주변 지역을 진한 진흙으로 덮고 주변 생물을 넘어뜨릴 수 있습니다.</content>
+ <content contentuid="h08666fbag9e84g050cgf85bg54b5712ea232" version="1">서리 손가락</content>
+ <content contentuid="hc36296a4g4bcbg4b9cgdb3dg78406287d246" version="1">손끝에서 얼어붙는 듯한 차가운 공기가 분사됩니다.</content>
+ <content contentuid="hd0cb3178gacdcgba8ag9ee4gcdde654649df" version="1">민첩의 선물</content>
+ <content contentuid="h6cda55dfga119gb2cagdb65g3acb70b05121" version="3">생물에게 선제권에 +[1] 보너스를 부여합니다.</content>
+ <content contentuid="he860416bg3a4eg7355ga6dbg56c60f3b8c34" version="1">민첩의 선물</content>
+ <content contentuid="h75a93558g597bgd28bg2dfbg7f1fa435df1c" version="1">선제권에 +[1] 보너스를 얻습니다.</content>
+ <content contentuid="h1abc2529g9c86g6331g5414g6d9ae342958d" version="1">치유의 비약</content>
+ <content contentuid="he99fdc14g7fbag32ecga420gd1a0922e1b0e" version="5">자신이나 동료의 인벤토리에 [1]개의 치유 물약을 생성합니다.</content>
+ <content contentuid="h4583b21egfbe5g2453gb94bgcae63b4ec3f3" version="1">암시</content>
+ <content contentuid="hfc89a516gddc8g7d02gcd87g0fde1a414a54" version="5">영향을 받은 개체는 이동하거나 행동, 보조 행동 또는 대응을 취할 수 없습니다. 각 턴이 끝날 때 개체는 [1]를 취하고 효과를 벗어나기 위해 2번의 내성 굴림을 시도할 수 있습니다.</content>
+ <content contentuid="h42c990bfg012dg291ag21d8g8e12c8fa937e" version="1">암시</content>
+ <content contentuid="h59e33aa0ge380gdf81g68b5gd71bf953e6da" version="1">상충되는 욕망의 폭풍으로 생명체에게 피해를 입혀 무력화시킵니다.</content>
+ <content contentuid="h1b1e88eag5cdcg829ag1080g74ea41147343" version="1">그 생물은 아직 움직일 수 있습니다.</content>
+ <content contentuid="h4c3742afg577agf3e4g6f2bgd59d2d85bb8f" version="1">무기력함</content>
+ <content contentuid="h020174ceg6b0bg3f8dgec62g10e134f90c9d" version="2">영향을 받은 개체는 이동하거나 행동, 보조 행동 또는 대응을 취할 수 없습니다.</content>
+ <content contentuid="hf72b39c3gbb08g68b9g75fdg2b8194f7662e" version="1">상충되는 욕망의 폭풍으로 생명체에게 피해를 입혀 무력화시킵니다.</content>
+ <content contentuid="h4ae81cc4ga449geb5ag8b33g65b9020dbbe8" version="1">상충되는 욕망의 폭풍으로 생명체에게 피해를 입혀 무력화시킵니다.</content>
+ <content contentuid="h44894154g176cg0ec4gfaa5g5bd7c0b32cd2" version="1">상충되는 욕망의 폭풍으로 생명체에게 피해를 입혀 무력화시킵니다.</content>
+ <content contentuid="h143e8b65ge936gcf90g8fccg50eb000b0234" version="1">상충되는 욕망의 폭풍으로 생명체에게 피해를 입혀 무력화시킵니다.</content>
+ <content contentuid="h53a094a8gb579gc895g22eeg540b6060c718" version="1">상충되는 욕망의 폭풍으로 생명체에게 피해를 입혀 무력화시킵니다.</content>
+ <content contentuid="h1c479615gcaa0gf434g106egf942dd25a2b4" version="1">중력 확대</content>
+ <content contentuid="h3f09ffd0gaf72g5d5bg7b60g90afc2e4c84f" version="1">해당 지역의 중력을 증가시키고 생물들의 이동 속도를 절반으로 감소시킵니다.</content>
+ <content contentuid="hb596e894ge939g59begabecg9743a850408a" version="1">중력 확대</content>
+ <content contentuid="h048122eag5a90ge462g7ee2gc091d92587cc" version="1">영향을 받은 개체의 이동 속도가 절반으로 줄어듭니다.</content>
+ <content contentuid="h16f5a702gba50g4beeg37d1g95fcb5adb0b7" version="1">중력 확대</content>
+ <content contentuid="h0fb0a348g7a4ag9153g8a9ag341f3de81acd" version="1">해당 지역의 중력을 증가시키고 생물들의 이동 속도를 절반으로 감소시킵니다.</content>
+ <content contentuid="h2ed0e929gd719g4863g472eg4d537f9c4090" version="1">중력 확대</content>
+ <content contentuid="hb9d429ecg0c6dg65adgd6abgdd617a1a6e03" version="1">해당 지역의 중력을 증가시키고 생물들의 이동 속도를 절반으로 감소시킵니다.</content>
+ <content contentuid="hb84440a5gfc25gbacfg0c83g9ccdac697976" version="2">은빛 가시: 교란</content>
+ <content contentuid="h892852dcgec10g2dc4g8859gf8bd3f74059d" version="3">적에게 명중 굴림이나 내성 굴림를 다시 굴리도록 강요합니다. 그런 다음 아군 생물에게 다음 명중 굴림, 능력 판정 또는 내성 굴림에서 유리 보정을 줄 수 있는 능력을 얻습니다.</content>
+ <content contentuid="h7939fabdgca34g25d2g4b7ege9b28f5c50e3" version="1">보너스와 패널티가 여전히 적용됩니다.</content>
+ <content contentuid="h56a1d6aag1650g579cg13a2gfa26b8cefab0" version="1">은빛 가시</content>
+ <content contentuid="h9fb61eb0g720dg5479g4ff1gb2f771438523" version="1">적이 명중 굴림이나 내성 굴림에 성공했을 때, 이를 다시 굴리도록 강요합니다.</content>
+ <content contentuid="h1846d900gc9b7g08f5g20ddg238e2c982854" version="2">은빛 행운의 영향을 받고 있는 동안에는 다시 사용할 수 없습니다.</content>
+ <content contentuid="hb60fd4a5g54a0g9a42g71e3g6915df3cee7f" version="5">적에게 명중 굴림이나 내성 굴림를 다시 굴리도록 강요합니다. 다음 턴이 끝날 때까지 실버리 럭을 얻어 아군 생물에게 다음 명중 굴림이나 내성 굴림에서 유리 보정을 줄 수 있습니다.</content>
+ <content contentuid="h47ae014dg24eeg914cg8863gf8539d84ee29" version="1">적에게 명중 굴림이나 내성 굴림를 다시 굴리도록 강요합니다. 다음 턴이 끝날 때까지 아군 생물에게 유리 보정을 줄 수 있는 능력을 얻습니다.</content>
+ <content contentuid="h0a0e5225gfc51g3d9cg8952gae14b09a4a47" version="2">은빛 행운</content>
+ <content contentuid="h62cb863cgdb99g63f3g24f5gfa4f71f20642" version="4">근처에 있는 아군 생물 하나에게 다음 명중 굴림이나 내성 굴림 시 유리 보정을 줄 수 있습니다. 사용 후 제거됩니다.</content>
+ <content contentuid="h678552a3g42acgd51bg152eg48a87051f2d6" version="2">적에게 명중 굴림이나 내성 굴림를 다시 굴리도록 강요합니다. 다음 턴이 끝날 때까지 아군 생물에게 다음 명중 굴림이나 내성 굴림에서 유리 보정을 줄 수 있는 능력을 얻습니다.</content>
+ <content contentuid="hc9bed92dg7213g21d9g84cbg5d0cb1cbe23f" version="1">은빛 가시: 유리 보정</content>
+ <content contentuid="h11570804g898bg89b4gfe25gf234185d6102" version="1">아군 생물에게 다음 명중 굴림이나 내성 굴림에서 유리 보정을 줍니다.</content>
+ <content contentuid="hd3b46e9dg75f1g0a96gccd0g23ba5e82fce3" version="1">신속 기상</content>
+ <content contentuid="hdddb4736g55d9g2899gc36fg0cf85aaad118" version="2">잠자는 아군 생물을 깨우고, 넘어진 생물을 이동력을 소모하지 않고 일으켜 세웁니다.</content>
+ <content contentuid="hec2202e8gd3f8g6bacg293fg54a89af66ce0" version="1">타샤의 부식성 줄기</content>
+ <content contentuid="hbc971e8eg3c82g3041g5b4bgbad9bc84629b" version="1">적을 [1] 동안 부식시키는 산성 줄기를 소환합니다.</content>
+ <content contentuid="h646d92ccg4762gea3dg7fadg804d7302b743" version="1">서풍의 일격</content>
+ <content contentuid="h4d2cfb89g1e6agb95cgce6eg7e8c47dc97a5" version="4">당신은 바람처럼 움직이며 더 이상 허점 공격을 유발하지 않습니다. 주문이 끝나기 전에, 당신은 서풍의 일격을 한 번 수행할 수 있습니다.</content>
+ <content contentuid="h16787cbbg3fd8g8adbgfa29g790cb758ece7" version="1">신속한 후퇴</content>
+ <content contentuid="hba34e652gee07gf3f8g05eeg6c51c42dd302" version="1">이 주문이 끝날 때까지 매 턴마다 보조 행동으로 돌진 능력을 얻습니다.</content>
+ <content contentuid="h43f15c6dg9db5g0e70g24a0g0c430e42f597" version="2">서풍의 일격: 공격</content>
+ <content contentuid="h335a9f96g4c20gee68g20cbg730bba8a6b38" version="2">서풍의 일격을 한 번 시전할 수 있습니다.</content>
+ <content contentuid="h8ca194bag56a1g4a62gb6e4gd7400d630f5d" version="1">서풍의 일격</content>
+ <content contentuid="hedee88e5gaed0g089ag3762g409be2ce50ec" version="1">허점 공격을 유발하지 않고 이동할 수 있습니다.</content>
+ <content contentuid="ha275c34dge21ag8195g1d5cg33e1cde9ccdd" version="1">서풍의 일격(근접)</content>
+ <content contentuid="h2e65851cg66c9g225bge148g88936db302c0" version="5">다음 명중 굴림에 유리 보정을 얻고 대상에게 보너스 [1]를 줍니다.명중 여부에 관계없이 턴이 끝날 때까지 이동 속도가 [2] 증가합니다.</content>
+ <content contentuid="h7227a314gc5a6g4318g5a63gd20707b22896" version="1">속박의 일격(근접)</content>
+ <content contentuid="h001e6e06g96e1g8105gbd2eg1c4049fc6906" version="1">공격 시 가시덩굴을 소환하여 대상을 사로잡을 수 있습니다.</content>
+ <content contentuid="h340cc689g56d6g7e0bg2136gc004bb7a7faf" version="1">서풍의 일격: 달리기</content>
+ <content contentuid="h56a23576g3ca7g773dg286dgac1a7f88d732" version="1">이동 속도가 [1] 증가합니다.</content>
+ <content contentuid="h85049466g6290g7011g36caga1d4f5624dee" version="1">서풍의 일격(근접)</content>
+ <content contentuid="h08087e37g2fb0gc68ag2da1g28e3c505b276" version="1">대상에게 보너스 [1]를 줍니다. 공격이 적중하든 적중하지 않든, 이동 속도가 [2] 증가합니다.</content>
+ <content contentuid="hb468a8d6g8cd5g6d57g0591gba4d2287625f" version="1">서풍의 일격</content>
+ <content contentuid="h8bc4f7afgbc54gd6e4g178fg2ac8c248684d" version="1">서풍의 일격(원거리)</content>
+ <content contentuid="h447d99e0g95f4g2560g1bb9g0beb851a103d" version="1">대상에게 보너스 [1]를 줍니다. 명중 여부와 관계없이 이동 속도가 [2] 증가합니다.</content>
+ <content contentuid="h040899aag0e6fg8f8ag81cegfc033975a981" version="1">다음 명중 굴림에 유리 보정을 얻고 대상에게 보너스 [1]를 줍니다. 적중 여부와 관계없이 이동 속도가 [2] 증가합니다.</content>
+ <content contentuid="hd0de217age572g2d74g841bge713cbb08c56" version="1">서풍의 일격</content>
+ <content contentuid="hb41a284egf466gcb16g708egbde6b92d4bd7" version="1">다음 명중 굴림에 유리 보정을 얻고 대상에게 보너스 [1]를 줍니다. 명중 여부에 관계없이 이동 속도가 [2] 증가합니다.</content>
+ <content contentuid="he2d930acgd001gf496g29c1gc6547d1096da" version="1">다음 명중 굴림에 유리 보정을 얻고 대상에게 보너스 [1]를 줍니다.명중 여부에 관계없이 턴이 끝날 때까지 이동 속도가 [2] 증가합니다.</content>
+ <content contentuid="h645cc576g0710g3c9agfaf0g7413e86462b2" version="1">아가나자르 화염</content>
+ <content contentuid="h808f5b5agb37bgdd91g74f2gecf6473e1651" version="3">적을 [1] 동안 태우는 화염의 줄기를 소환합니다.</content>
+ <content contentuid="h70e67689gd860g9573gd22fga2e6668cee3a" version="1">아가나자르 화염</content>
+ <content contentuid="h101389f4g7bdcg3fe0g3e02g9b109700442c" version="1">[1] 범위 내에 있는 모든 사람에게 [2]의 피해를 입히는 타오르는 불길의 벽.</content>
+ <content contentuid="h007b7d17g9e52ga68dg33ffg1ad410e68608" version="1">아가나자르 화염: 오라</content>
+ <content contentuid="h5f0a765dg2c05g0920gc610g3e7a94d8b8ce" version="1">타오르는 불길의 벽에 채찍싸입니다. 영향을 받는 개체는 불 [1] 범위 내에 머무르는 동안 턴당 [2]를 받습니다.</content>
+ <content contentuid="h2eb6d316g736bg5bb9g1b7ag7dd1d4eaa679" version="1">%%% 비어 있는</content>
+ <content contentuid="hdb630f2dgaea7g539bge7b3g2bff0533cb56" version="3">야수의 성장</content>
+ <content contentuid="hfa3c6fd4g26a3ge72bg2932gb44cefc93059" version="13">당신은 비무장 공격이 마법적 공격으로 간주될 수 있게 해주는 발굽, 척추 또는 발톱을 몸에서 자라게 하여 비마법적 피해에 대한 저항과 면역을 극복할 목적으로 사용합니다. 또한 명중 굴림에 +[1] 보너스와 1d6+1의 타격, 관통 또는 참격 피해를 부여합니다.</content>
+ <content contentuid="h2f83e49ege8dcg5bfdgaf56gcc6714c7475f" version="3">야수의 성장: 발굽</content>
+ <content contentuid="h2e1e0b99g6608g9f4dg098agac3ba5100ee7" version="4">비무장 공격은 비마법적 피해에 대한 저항과 면역을 극복하는 목적으로 마법적 공격으로 간주됩니다.명중 굴림에 +[1] 보너스를 얻고 추가로 [2]를 입힙니다.</content>
+ <content contentuid="hf5329baeg071bg12e3g3223g1f5e9c5ad360" version="1">자기 변형: 척추</content>
+ <content contentuid="h471fe6c1g2b9egc4c5gc351gbc4859ba8dac" version="3">야수의 성장: 발톱</content>
+ <content contentuid="h44f95771ge785gacd8ga797gfd930f7e061d" version="2">야수의 성장: 발굽</content>
+ <content contentuid="hc87d26f5ga6f3gcd81gb36cg4e5e9720c890" version="2">야수의 성장: 척추</content>
+ <content contentuid="h4bd05997ge232g9d4cgfd0fgf8e5e3fbc5fe" version="2">야수의 성장: 발톱</content>
+ <content contentuid="ha00d09abg5c9fg530cgf2adgbd66aa881804" version="2">야수의 성장: 척추</content>
+ <content contentuid="h3601cfe7ge066gf86dg67e0ga748ec0dd855" version="4">당신은 비무장 공격이 비마법적 피해에 대한 저항과 면역을 극복하는 목적으로 마법적인 것으로 간주될 수 있도록 하는 발굽을 몸에서 키웁니다.또한 명중 굴림에 +[1] 보너스와 [2]를 부여합니다.</content>
+ <content contentuid="h696809a6g10c6g294dg638cg59bb218b5449" version="4">당신은 무장하지 않은 공격이 비마법적 피해에 대한 저항과 면역을 극복하는 목적으로 마법적인 것으로 간주될 수 있도록 하는 척추를 몸에서 키웁니다.또한 명중 굴림에 +[1] 보너스와 [2] 보너스를 부여합니다.</content>
+ <content contentuid="hd56088beg3bf6gd8b0g117ag9301f9553d4d" version="4">당신은 비무장 공격이 비마법적 피해에 대한 저항과 면역을 극복하는 목적으로 마법적 공격으로 간주될 수 있도록 하는 발톱을 몸에서 키웁니다.또한 명중 굴림에 +[1] 보너스와 [2] 보너스를 부여합니다.</content>
+ <content contentuid="hbc574d52gbf3dg83f3g1cc9g41c1481bb471" version="1">빌려온 지식: 곡예</content>
+ <content contentuid="h6786d830gb318gde0ag8f6fg6ee5c3cbf545" version="1">빌려온 지식</content>
+ <content contentuid="h1e05c910g2e43geea6geb82ge57fc7a42094" version="2">한 가지 기술에 숙련됩니다.</content>
+ <content contentuid="h2ec4198eg2595ge717g3760g1adff2800c77" version="1">빌려온 지식: 운동</content>
+ <content contentuid="h2a1ddbc8gf013gbbf5ge4cbgc9b3ba7ae784" version="2">[1]에 능숙해지세요.</content>
+ <content contentuid="h1e24773bgeebfg03e7gf826g3abcf4c0d041" version="1">빌려온 지식: 손재주</content>
+ <content contentuid="h2980855dgf2feg74ebgc806g354e2542ea90" version="1">빌려온 지식: 은신</content>
+ <content contentuid="hb77e686dg8a25g3eb2g1167g953db1fabcb5" version="1">빌려온 지식: 비전</content>
+ <content contentuid="h36a897f1g7c6bg623bgc43fg29144ecc282c" version="1">빌려온 지식: 역사</content>
+ <content contentuid="h6899b548g47a8g8b25ge68cg101d4bef3c17" version="1">빌려온 지식: 조사</content>
+ <content contentuid="h85ad558agd9e8g0adfgb6b8g6387de4fbc24" version="1">빌려온 지식: 자연</content>
+ <content contentuid="h62a7916fg9cb8gd95ag6e1bgc95919e31b80" version="1">빌려온 지식: 종교</content>
+ <content contentuid="hec19ac27ga285g273agd352g86e4217f6ad7" version="1">빌려온 지식: 동물 조련</content>
+ <content contentuid="h0bb57881g0d6agd464ga3cdgafd57f767040" version="1">빌려온 지식: 통찰</content>
+ <content contentuid="h59316ef6g834fgee38gc0fagcc852c8891ad" version="1">빌려온 지식: 의학</content>
+ <content contentuid="h5757c615g9076g9643gf4ebg9658e6d06d06" version="1">빌려온 지식: 기만</content>
+ <content contentuid="h2772b3ffg5f6ag3279ge4bcg4df3445eb1f5" version="1">빌려온 지식: 생존</content>
+ <content contentuid="h878866a0g3ee8gc62cg0ae8g27154d828399" version="1">빌려온 지식: 기만</content>
+ <content contentuid="h00cf9cbcg0191g4efcg6e0egae818b5cc257" version="1">빌려온 지식: 위협</content>
+ <content contentuid="h3f8d3d7bg0b98g0232g51dag4c3a69d7d065" version="1">빌려온 지식: 공연</content>
+ <content contentuid="ha99c8b54g363dg4addg7541gdf6891de4145" version="1">빌려온 지식: 설득</content>
+ <content contentuid="h52cb7117g65efg6e04g9741g51134218eb4f" version="1">빌려온 지식: 곡예</content>
+ <content contentuid="he4d2a984gcbf0g593fgeb78gb3e65cd62884" version="1">빌려온 지식: 운동</content>
+ <content contentuid="h31d9338ag22c1ged04ge95eg25522a98d713" version="1">[1]에 능숙합니다.</content>
+ <content contentuid="h11645e5ag1961g4bdegf87bg8daa1edf3ee7" version="1">빌려온 지식: 손재주</content>
+ <content contentuid="hab3ba31cg5a75gbce0g0da3gaa105933189f" version="1">빌려온 지식: 은신</content>
+ <content contentuid="h1b3015b7g0744g9197gc05bg09f6cdd571ca" version="1">빌려온 지식: 비전</content>
+ <content contentuid="ha9f4ef26g953bg6908g5d92g3015527130b8" version="1">빌려온 지식: 역사</content>
+ <content contentuid="hc2bb41d7g7c5dg968bgcab8g42694b465c4c" version="1">빌려온 지식: 조사</content>
+ <content contentuid="hcd85c7c0g591cgf3cag0c56gb31d753f76f8" version="1">빌려온 지식: 자연</content>
+ <content contentuid="h696f7497ge86cgf3f6g9207g2a0ebf7c9d3b" version="1">빌려온 지식: 종교</content>
+ <content contentuid="hf29020f2g29d8g4457ge07ag2b1119a0390b" version="1">빌려온 지식: 동물 조련</content>
+ <content contentuid="h61d1a023g0056g6bc4gcfc3g22be65b3f1d8" version="1">빌려온 지식: 통찰</content>
+ <content contentuid="h78e5a097g03f3gfda6gbb95gf912918a126a" version="1">빌려온 지식: 의학</content>
+ <content contentuid="h71cda5f8gebfeg670eg5531g4f4494b519b1" version="1">빌려온 지식: 기만</content>
+ <content contentuid="hf93c904dgd962gbc80gec2dg35798e1bdae5" version="1">빌려온 지식: 생존</content>
+ <content contentuid="hc0cf6f6cgd789gaee2g6108ga1355e718803" version="1">빌려온 지식: 기만</content>
+ <content contentuid="h583d952ag1424gf667ge402g9a60529e0b48" version="1">빌려온 지식: 위협</content>
+ <content contentuid="h2f5d44b1gbbb6g166fg810eg05c3c03a98a3" version="1">빌려온 지식: 공연</content>
+ <content contentuid="h605e8301gc41eg5958g8a12g1b5dbf316be7" version="1">빌려온 지식: 설득</content>
+ <content contentuid="hf4200c17g7ef3gc70bg6ebdg4841fd6f8ab9" version="1">일제사격</content>
+ <content contentuid="h16c534f4g04a2g143eg7911g64e2f5e2c185" version="1">각각 [2]의 피해를 입히는 [1]개의 화살을 발사합니다.</content>
+ <content contentuid="h6871de63g7bfdg84ebgd33dg0ee0ea9b4448" version="1">최대 2개의 다른 대상을 공격할 수 있습니다.</content>
+ <content contentuid="h0f0ec782gfcf7gb392gb35cg72e5d6c60d18" version="1">먼지 악마</content>
+ <content contentuid="h2a1236f0g9127g31ddgac56g12c3901d3ade" version="5">[2] 내의 다른 모든 생물에게 [1]의 피해를 입히는 회오리 먼지로 자신을 둘러쌉니다. 각 턴이 끝날 때마다 자신 주변에 안개 구름을 생성하여 그 안에 있는 생물을 실명시키고 완전히 가립니다.</content>
+ <content contentuid="h9979f678g7270g0236g9abdg7145b48cb51e" version="1">먼지 악마</content>
+ <content contentuid="hbc25d0aeg28c2g0156g66dfgbf922fe1cf76" version="3">먼지가 해당 개체를 뒤흔듭니다.각 턴이 끝날 때마다 [1]를 받습니다. 내성 굴림에 성공해도 절반의 피해를 입습니다. 해당 지역을 벗어나면 제거됩니다.</content>
+ <content contentuid="h4cc9d7f3g5c0ag685ag83e7ge273d0430817" version="1">먼지 악마 오라</content>
+ <content contentuid="h7d567cdbg419ag1a66gad45g50be13cf3d13" version="6">소용돌이치는 먼지가 해당 개체를 감싸며 [2] 내의 다른 모든 생물에게 [1]의 피해를 입힙니다.성공적인 세이브 시 대상은 여전히 절반의 피해를 입습니다.각 턴이 끝날 때마다 자신 주변에 안개 구름을 생성하여 그 안에 있는 생물을 실명시키고 완전히 가립니다.시전자는 이 주문에 집중하는 동안 투명 상태가 될 수 없습니다.</content>
+ <content contentuid="hf8549227g43d3gf537ga06bgea7d89b60617" version="1">%%% 비어 있는</content>
+ <content contentuid="h9eb8fd37g2c36g0771gda7fg277132fd67d2" version="1">지면 속박</content>
+ <content contentuid="h9fe668aagdbfbg1371gaba1g8701eca92391" version="4">생물을 묶어 이동하지 못하게 합니다. 매 턴마다 [1]를 입습니다.</content>
+ <content contentuid="h1f305c18g8c98g7f0eg81a9g430280ddfb36" version="1">지면 속박</content>
+ <content contentuid="h31592dbfg18dcgdfe0g3101g95ee4b2aeacc" version="3">영향을 받은 개체는 움직일 수 없으며 매 턴 [1]를 입습니다. 이에 대한 명중 굴림은 유리 보정이 있는 반면, 명중 굴림과 민첩 내성 굴림은 불리 보정을 받습니다.</content>
+ <content contentuid="h0b639fa9g01b4gb3deg9fc1g4f65ed17f662" version="1">동력 전환</content>
+ <content contentuid="haa712b4eg648cgabcbg8397g7717ed3b0732" version="2">이동 속도가 [1]만큼 증가하고 이동이 더 이상 허점 공격을 유발하지 않습니다. </content>
+ <content contentuid="h3de6c95bg7565g6275gbcfdg6c341a179317" version="1">동력 전환</content>
+ <content contentuid="h752a20b3g8247gabddgfbf9g0fcbad1e5b16" version="1">이동 속도가 [1]만큼 증가하고 이동이 더 이상 허점 공격을 유발하지 않습니다. </content>
+ <content contentuid="hac84f359g1fecgf1a9g7ae8gebb685fcf4f7" version="1">정신의 방벽</content>
+ <content contentuid="hb3758fb1gde68gdaa1g6f76g88af8267c330" version="1">지능, 지혜, 매력 내성 굴림에 실패하면, 다음 턴이 시작될 때까지 해당 내성 굴림에 대한 유리 보정과 정신 피해에 대한 저항을 얻습니다.</content>
+ <content contentuid="h373a858eg862eg0eabge57eg7100b1b0aaf5" version="1">정신의 방벽</content>
+ <content contentuid="hc32365bfg388eg4977g1283gd10bd31ef4d7" version="1">다음 턴이 시작될 때까지 지능, 지혜, 매력 내성 굴림에 유리 보정과 정신 피해 저항을 얻습니다.</content>
+ <content contentuid="h3a0b75c0g22b0ga8a1g223cgdeab29351cca" version="1">정신의 방벽</content>
+ <content contentuid="hecd93bb5g8df4g8491g6870g291434f85e7c" version="2">다음 턴이 시작될 때까지 지능, 지혜, 매력 내성 굴림에 유리 보정을 받으며, 정신 피해에 대한 저항을 얻습니다.</content>
+ <content contentuid="hf716dd4fgf536g6e4ag4b33gc3c4847cdf3b" version="1">정신 쐐기</content>
+ <content contentuid="h632717e3g1393ga940g91d5gca81d740f23e" version="1">대상의 정신을 침입하여 그들이 보이지 않게 되는 것을 막습니다.</content>
+ <content contentuid="h226d1b3bg6de4gfcf0g3132gbc34a97bb59b" version="1">정신 쐐기</content>
+ <content contentuid="hb50c083eg48f5ge62fgb049g9153b8b54fa1" version="1">투명해질 수 없습니다.</content>
+ <content contentuid="h806e7c99g7389g4d8bg1bd3g1d1ea146dfa9" version="1">네이어의 장난</content>
+ <content contentuid="haf64a579geb2dgc6bdg4076g220088e74586" version="6">해당 개체가 내성 굴림에 성공할 때까지 매 턴 다음 중 하나의 영향을 받습니다: 매혹, 실명, 무력화, 이동 속도 감소.</content>
+ <content contentuid="hef6620c6g8a36gc18cg86e2ga4349086aa9f" version="1">네이어의 장난</content>
+ <content contentuid="h5d553d3dg16dagfcceg5032g2138f89cce50" version="2">각 턴이 시작될 때마다 대상은 무작위로 약화 효과를 받습니다.</content>
+ <content contentuid="hf95f322dg86b6g750eg0ff3gd8b8b1a05cab" version="1">%%% 비어 있는</content>
+ <content contentuid="hd3b9e77ag4c7eg1511g6845g08543e24c5a3" version="1">네이어의 실명</content>
+ <content contentuid="hcac69919g7094g50a7gc027g0afe81b49fbf" version="1">명중 굴림에 불리 보정을 받습니다. 공격 및 주문 범위가 [1]로 감소합니다. 눈이 먼 생물에 대한 명중 굴림에는 유리 보정이 있습니다.</content>
+ <content contentuid="h81bf91feg76fcgb0abgd312ga7be7d52726d" version="1">네이어의 매력</content>
+ <content contentuid="ha11aff96gc757gfdb4gae53g05eeca6b3acf" version="1">주문사를 공격할 수 없습니다. 주문사는 대화에서 매력 판정에 유리 보정을 받습니다.</content>
+ <content contentuid="hafd65bdbg9288gb695g521bg008e8da49e41" version="1">네이어의 웃음</content>
+ <content contentuid="hb5f9a16ag3cafg12begd441g2e2d00c48a30" version="1">네이어의 미끄러움</content>
+ <content contentuid="hf9ab1f88g7345g633fg7c47g53a8dba40a64" version="1">험난한 지형을 걷는 것처럼 이동 속도가 절반으로 줄어듭니다.</content>
+ <content contentuid="ha92bae3dg8a4ag4b3bg3416g3f753e2de676" version="2">불꽃놀이</content>
+ <content contentuid="h0b249fc5g5d37g0dbcg9ca1g24adeacc65d5" version="1">반경 [1]를 밝힙니다.</content>
+ <content contentuid="h24081375ga795g9ac0g3ab2gf03fb1a8fe3a" version="1">불꽃놀이: 화염꽃놀이</content>
+ <content contentuid="h6d966447g8ecbg0eddg15e1g28856249f32e" version="3">해당 지역의 모든 생물을 실명시키는 폭죽을 생성합니다.</content>
+ <content contentuid="h1e44da56gf26agd17eg6fa9g87ebfcf5bc24" version="3">눈을 멀게 하는 불꽃놀이나, 완전히 가리는 연기를 선택합니다.</content>
+ <content contentuid="h0b9013d1g1e79g5af7g18e7g0fb68d157fc5" version="1">불꽃놀이: 연기</content>
+ <content contentuid="h71d70756g48dbg979cg1faeg1fa70df9abc4" version="2">해당 지역에 있는 모든 생물의 시야를 크게 가리는 연기를 생성합니다.</content>
+ <content contentuid="h97bdd589g0810g67e2g24bbgad72c6ac3495" version="3">실명</content>
+ <content contentuid="h1dad719agee58g8a0dg9f2ag889cac3e63f9" version="1">그림자 칼</content>
+ <content contentuid="h00ada260gec76g26ebg866dg79510ef56ed1" version="1">손에 [1]의 피해를 입히는 어둠의 단검을 쥐고 있습니다.</content>
+ <content contentuid="h038a8202ga9b4g5e2dg3244gf13a1d152fab" version="1">희미한 빛이나 어둠 속에 있는 대상을 공격하기 위해 검을 사용할 경우, 명중 굴림에 유리 보정을 얻습니다. 그림자 칼날은 장착 해제하고 다시 장착할 수 있지만, 주문을 시전하는 사람이 반드시 가지고 있어야 합니다.</content>
+ <content contentuid="he3d2cb36g66a4gb19fg636bg159d15ad5889" version="1">그림자 칼</content>
+ <content contentuid="h05f01d63g0c9agd620geb91gbd45703648ee" version="1">손에 [1]의 피해를 입히는 어둠의 단검을 쥐고 있습니다.</content>
+ <content contentuid="h2a80fab5g26aegd503g8a36g8d1282160a48" version="2">희미한 빛이나 어둠 속에 있는 대상을 공격하기 위해 검을 사용할 경우, 명중 굴림에 유리 보정을 얻습니다. 그림자 칼날은 장착 해제하고 다시 장착할 수 있지만, 반드시 주문을 시전하는 사람이 소지하고 있어야 합니다. 당신은 해당 무기를 능숙하게 다룰 수 있는 것으로 간주됩니다.</content>
+ <content contentuid="h6dbcea46gedf9gebeegd7ddgdc7bc5c51725" version="2">그림자 칼</content>
+ <content contentuid="h03c3b364g6cfcg2acbg72c8g522ca50e1803" version="2">그림자 모양의 발톱이 칼날의 길고 가는 면을 휘감고 있습니다.</content>
+ <content contentuid="h194353a2g511cg4492g4e8eg55bf3346ceac" version="1">그림자 칼</content>
+ <content contentuid="h994bf846g532cgf187g5c37g4b6735407422" version="1">그림자 모양의 발톱이 칼날의 길고 가는 면을 휘감고 있습니다.</content>
+ <content contentuid="h84e2d9e1ga9deg3e7fg68d6g8aa4ed1c11b7" version="1">그림자 칼</content>
+ <content contentuid="h63862d21g730fgbeffg9fb1g8d6b69b5560f" version="1">이 칼날을 사용하는 동안 사용자는 가볍게 또는 완전히 가려진 대상에 대한 명중 굴림에 유리 보정을 받습니다.</content>
+ <content contentuid="h5c0fe4edgc624g03cfg73cag039882eec606" version="1">스닐록의 눈덩이 폭풍</content>
+ <content contentuid="h9e22410fgf6a0g57f9g9afagf1fdb0321979" version="1">목표 지점에서 마법의 눈덩이가 폭발하여 범위 내의 모든 물체와 생물을 공격합니다.</content>
+ <content contentuid="h29797391gd9d2gfcb2g1d1bg9cffefc92142" version="2">그림자 일격</content>
+ <content contentuid="hd8d762bfg6182g370ag9a76g508eba25009b" version="2">원거리 대상을 바로 옆에서 공격하는 것처럼 공격합니다.</content>
+ <content contentuid="he21022degc38eg1f00g7269g6882812a5e73" version="1">언데드와 인공물은 벌어진 상처를 입을 수 없습니다.</content>
+ <content contentuid="h7d843ecegdda5gc635g6fbcgb604dc60b840" version="3">그림자를 뚫고 희미한 빛이나 어둠에 싸인 적에게 근접 공격을 가합니다.</content>
+ <content contentuid="hc51d19e0g6103ge07fg71f3g4101a1a4255e" version="3">그림자 칼</content>
+ <content contentuid="he179da47g03d7ged20gdd0eg4d358f924e50" version="3">그림자 모양의 발톱이 칼날의 길고 가는 면을 휘감고 있습니다.</content>
+ <content contentuid="hca6560d9gf47bg5995g3e09ge2c566f1b244" version="2">카드 날리기</content>
+ <content contentuid="h476d0da4gae21g58bdgcca6gf58481ded901" version="3">실명을 유발하는 영혼의 카드를 원뿔 모양으로 뿌립니다.</content>
+ <content contentuid="hac353de3g2002g3c30gb5dfg0069aae23b60" version="1">타샤의 정신 채찍</content>
+ <content contentuid="h27a2bea6g1030g90e0g8c85g9abf3c98b5b8" version="1">대상에게 정신적으로 공격을 가해 1턴 동안 보조 행동이나 대응을 하지 못하게 합니다.</content>
+ <content contentuid="h14f9a29eg554agb2cag5586g224331f049a8" version="1">정신 채찍</content>
+ <content contentuid="hee02161eg381cgaa3bg267fgf6085570227b" version="1">보조 행동이나 대응을 취할 수 없습니다.</content>
+ <content contentuid="h465c8b10g844eg835ag893fg455b2da1c47f" version="1">소용돌이 워프</content>
+ <content contentuid="ha7b70d66ge2a4gcb12g1147ge9f005b74837" version="3">다른 생물을 순간이동시킵니다.</content>
+ <content contentuid="h3e821a5fgc876ge618gb71cg44c17ee8146d" version="1">아군 생물은 내성 굴림을 할 필요가 없습니다.</content>
+ <content contentuid="h0290a1f7gcf2bg63a4gb7e9gcd8c0bdce130" version="1">시들고 꽃피다</content>
+ <content contentuid="h868f3e90ga06cg0beegf0f7gf41fb87625e8" version="3">대상 하나당 시전자의 생명력을 [1]만큼 회복시키기 위해 해당 지역의 생명력을 소모합니다. 식물은 이 주문으로 인한 최대 피해를 입습니다.</content>
+ <content contentuid="ha4cdc219ged23g9db9g70d3gd58682c27b83" version="1">적의</content>
+ <content contentuid="hec38d93fg3c2egbe66g5ba8g3e98c15cedf3" version="1">명중 굴림에 불리 보정이 있으며 대응을 취할 수 없습니다.</content>
+ <content contentuid="hb835ec55gc49fg1ee5g7aeag402fd98d4e72" version="1">적의</content>
+ <content contentuid="h26c1873cgcc2bg0a7fg447bg73bba7f5c354" version="1">생물에게 적대감을 심어주면 명중 굴림에 불리 보정을 받고 대응을 사용할 수 없습니다.</content>
+ <content contentuid="h5abe5cb7g61a5g002fgaa0bge80ec032f296" version="1">아샤달론의 걸음걸이</content>
+ <content contentuid="h582ac042gacbcg0c35gb6ccg8e36f6713c31" version="4">[1] 동안 주변 개체를 태우는 불길로 자신을 둘러쌉니다. 이동 속도가 [2]만큼 증가하고 이동이 더 이상 허점 공격을 유발하지 않는다.</content>
+ <content contentuid="h9e688c89ga939gb64bgf509g7b2256cb44b0" version="1">아샤달론의 걸음걸이</content>
+ <content contentuid="hae1f4182g45bdg3041gf3a7g30a4ecdbf975" version="1">이번 턴에 이미 아샤르달론의 걸음걸이로 인해 피해를 입었습니다.</content>
+ <content contentuid="h2651ba1fgbfeag0f7cg4c9dg12804650b3d4" version="1">아샤달론의 걸음걸이: 오라</content>
+ <content contentuid="h57e5d519g91a1g1285gcda1gec4b9f9f6427" version="4">[1] 동안 주변 개체를 태우는 치솟는 불꽃에 둘러싸여 있습니다. 이동 속도가 [2]만큼 증가하고 이동이 더 이상 허점 공격을 유발하지 않습니다. </content>
+ <content contentuid="hea31b6fbg4e2cg4113g9734g42c426c8cb40" version="1">%%% 비어 있는</content>
+ <content contentuid="ha97f493bgffb8g8991g6b25g60275ffe8c38" version="3">턴당 [1]. 해당 지역을 벗어나면 제거됩니다.</content>
+ <content contentuid="hb2d4da88g5e69gd4b2ged72ga32abe5b76a1" version="1">물건이 손상될 수도 있습니다.</content>
+ <content contentuid="h84a8ed93g3e15g8019gd1e8gd1f1d384da37" version="2">선잠</content>
+ <content contentuid="h6c184d97gc372gd82fg25e7g5bc69844335a" version="3">최대 [1]명의 아군을 잠재웁니다. 깨어나면 짧은 휴식 효과를 받고 1, 2, 3레벨 주문 슬롯이 모두 복구됩니다. 대상은 긴 휴식당 한 번만 영향을 받을 수 있습니다. 지속 시간이 만료되기 전에 방해를 받으면 효과가 적용되지 않습니다. </content>
+ <content contentuid="he20df139g34b7g8e3dg7121g6486be4aae08" version="1">선잠</content>
+ <content contentuid="h33393bcdgbcbag54b2gbeddge52080fa4164" version="3">영향을 받은 개체는 2라운드 동안 잠이 듭니다. 깨어나면 짧은 휴식의 효과를 받고 1, 2, 3레벨 주문 슬롯이 모두 복구됩니다. 지속 시간이 만료되기 전에 방해를 받으면 효과가 적용되지 않습니다. </content>
+ <content contentuid="hdfc7ad4bg8eb7gbbf8g25a5ga27d3397e8c4" version="1">%%% 비어 있는</content>
+ <content contentuid="h653a0f78g0fa3g2de5ge181gbc7b566ac17d" version="2">음식과 물 생성</content>
+ <content contentuid="hb89ff1b0g2c0agfbdegf228g929a07460178" version="3">임시 식량과 영구적으로 보관할 수 있는 물을 생성합니다</content>
+ <content contentuid="h2127ce82g9e32ge8efgee72g570e8a419295" version="1">넘쳐나는 적</content>
+ <content contentuid="ha82789ceg3d85g70a6g0567gfaed263970ea" version="2">적을 혼란스럽게 만들어 무작위로 공격하게 하고, 아무 목적 없이 돌아다니게 합니다.</content>
+ <content contentuid="hd2f1c301gda9eg09f4g3275gaa7e6cee9377" version="1">넘쳐나는 적</content>
+ <content contentuid="hb34a947dgc735g19d0g87b0ge9863d2f60e8" version="2">영향을 받은 개체는 모든 사람에게 적대적이 되며, 목적 없이 돌아다닐 수 있습니다. 피해를 입으면 해당 개체는 그 효과를 떨쳐내려고 시도합니다.</content>
+ <content contentuid="hf490f39dg3196g0966g8e35g8dd72a62e0fa" version="1">폭발하는 대지</content>
+ <content contentuid="hfd5c59cdg4f6dg6927g2b4dg4560c356a297" version="2">땅에서 흙이 터져나오며 그 안의 생물들이 느려집니다.</content>
+ <content contentuid="heef0ec41g89ddg5553g36deg4390dea468d1" version="1">화염 화살</content>
+ <content contentuid="hf508030fge2a2g3e8cga08bga68a7cb03d3e" version="5">[2]개의 탄약에 불타는 힘을 부여합니다. 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="hcd3ef270g14b6g1065gf121gbe958845c6c0" version="1">화염 화살</content>
+ <content contentuid="h267433afgdabfg2e62gce41ge8b7e3ba6514" version="2">원거리 무기는 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h3259fbb7gd1acg5aa1g3ef7g1b5771d7a2c3" version="2">화염 화살</content>
+ <content contentuid="hec669c73g53bfgd1a0g6961g48d1139d8242" version="3">화염 화살</content>
+ <content contentuid="h9d1b0d4fg8cffg4af3g197bg896eb334387c" version="2">원거리 무기는 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h42db8e9bg4076ge602g7c16g5d426c36cc22" version="2">화염 화살</content>
+ <content contentuid="h5fd8adcbge062gd312g1ed6gd48a606fdaa9" version="1">%%% 비어 있는</content>
+ <content contentuid="h7c92dd4cg5accg1051g9ef9gc5376657b982" version="1">화염 화살</content>
+ <content contentuid="hdb312aacg112aga7c1ga044ged3478ba0bfa" version="1">원거리 무기는 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="hf971c592g702fg293dg9e35g8b14c9a2b65d" version="1">화염 화살</content>
+ <content contentuid="ha3afe2adga0d0gda77g62f6gd6e2fc6e1fe7" version="1">원거리 무기는 추가적인 화염 피해를 입힙니다.</content>
+ <content contentuid="h511eeb91g9305g80e0g7183g16c7e1fac2ca" version="1">파도의 자유</content>
+ <content contentuid="he8e7eff6g5aa0ga5d0g50b2gebc70e94f1f0" version="2">적을 넘어뜨리는 바닷물 덩어리를 불러냅니다.그런 다음 가까운 물 표면으로 순간이동할 수 있습니다.</content>
+ <content contentuid="hdea7bc36g3cd5geb2fgc916g1e27f760d21a" version="1">파도의 자유: 순간이동</content>
+ <content contentuid="ha9937a07g0456gfb8bg925agf60f4d56d3d1" version="1">가까운 물 표면으로 순간이동합니다.</content>
+ <content contentuid="h0addd6aegd595g0583g005fg20193fce3471" version="1">파도의 자유</content>
+ <content contentuid="h22145fd8gc652gd16fga387g639ad2efbf88" version="1">근처 물 표면으로 순간이동할 수 있습니다.</content>
+ <content contentuid="hefbad5c9ge280g3894g9ad0gce42a4a51af0" version="1">욕망의 매혹</content>
+ <content contentuid="h8d5ead38g9868gb40fg46edg7fcda77de85a" version="1">근처의 모든 생물을 매혹하여 평화롭게 당신에게 다가오도록 합니다.</content>
+ <content contentuid="ha9e56162gdff9g3d3bg3f51gd46c623295be" version="1">욕망의 매혹</content>
+ <content contentuid="hc68671c0gb344gc8fbgbd05g277b9c1ecd73" version="2">영향을 받은 개체는 가능한 가장 짧은 경로를 사용하여 주문 시전자를 향해 이동해야 하며 다른 행동이나 보조 행동을 취할 수 없습니다.각 턴이 끝날 때 피해를 입거나 지혜 내성 굴림에 성공하면 제거됩니다.</content>
+ <content contentuid="h8038da23g4effge0a7gc31ag49bfd76260e4" version="1">지성 요새</content>
+ <content contentuid="h6c88d1f1g37dag0481g1338g4648aac76771" version="1">자신이나 대상에게 정신 피해에 대한 저항을 부여하고, 지능, 지혜, 매력 내성 굴림에 유리 보정을 부여합니다.</content>
+ <content contentuid="h4bbdaa74g4136g3267g0e15g4325904371a3" version="1">지성 요새</content>
+ <content contentuid="hed56a379gd0e2g1165g5815gcaff566d431f" version="3">지능, 지혜, 매력 내성 굴림에 유리 보정을 받으며, 정신 피해에 대한 저항을 얻습니다.</content>
+ <content contentuid="h27248c0dg1c19ga1e2g324dg589d96900f5d" version="1">생명력 전환</content>
+ <content contentuid="hc98a80f1g3c32g8160g97d7g8b39f07c38a6" version="4">다른 생명체의 부상을 치료하기 위해 자신의 생명력을 희생합니다. 자신에게 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h8f6f1b47g39ffg880fg70e4gdb529cb64b64" version="1">상처 치료</content>
+ <content contentuid="hd33cd0bcgceecgb9bag7d5ag77653d0ceee7" version="1">만질 수 있는 생물을 치료합니다.</content>
+ <content contentuid="h16bdb27eg61e2gf8e7g4f8dgb05423a65560" version="1">시전자는 사령 피해에 저항이 있거나 면역이 되어서는 안 됩니다.</content>
+ <content contentuid="hb68b825agf05cge857g84e6gb0a004ed5e1a" version="1">멜프의 소형 유성</content>
+ <content contentuid="he9e1d010gd0d2g48f8g91b1g49d103134ba8" version="1">적에게 던져 [1]의 피해를 입힐 수 있는 [2]개의 불타는 유성을 생성합니다.</content>
+ <content contentuid="ha785fc92g442dg8f18gf4c8g115bda549ab9" version="1">멜프의 소형 유성</content>
+ <content contentuid="h33f67305g974eg1a8fgff3dgd4f2c0a58a7b" version="1">적에게 작은 유성을 던질 수 있습니다.</content>
+ <content contentuid="h9740fb09g50dcg54f2g66f3g11949796556c" version="1">멜프의 소형 유성</content>
+ <content contentuid="h2f481cfbg6f34g0493gf7e7g8123d1e8bfed" version="1">적에게 작은 유성을 던질 수 있습니다.</content>
+ <content contentuid="h1f265b48gc68dgdc53gb5f2g553895878072" version="2">멜프의 소형 유성(보너스)</content>
+ <content contentuid="h2f4d92d8gbe40g2cbcgb176gaf8a140fa7f3" version="1">목표물에 작은 유성을 던집니다.</content>
+ <content contentuid="h3fe0e198gc928gd061g4965gf08db5c18a4d" version="1">멜프의 미닛 유성(무료)</content>
+ <content contentuid="h2f753524g21bfg88dage58dgdd19529c2e84" version="1">멜프의 소형 유성</content>
+ <content contentuid="h405f1153g7202g345fgba40g62f6ad16dc3f" version="1">적에게 무료로 작은 유성을 던질 수 있습니다.</content>
+ <content contentuid="h1a034193g7318g30bbga1e2g4b9aa563b365" version="1">멜프의 소형 유성</content>
+ <content contentuid="hd96b5d55g731dg1ca9gce63gcef63d4497b3" version="1">적에게 작은 유성을 던질 수 있습니다.</content>
+ <content contentuid="h0fba3845g045cg6cb3g3383gb138c7e5d20e" version="2">동기 부여 연설</content>
+ <content contentuid="h1d39fed6g31fbg21c9g6068g9783f21e133f" version="3">최대 5마리의 생물을 동기를 부여합니다. 그들은 지혜 내성 굴림에 +[1]과 유리 보정을 얻습니다. 영향을 받는 개체가 공격을 받으면 다음 명중 굴림에 유리 보정을 얻습니다.</content>
+ <content contentuid="hae774d17g7873ged57g0192g63a0ff10520f" version="1">동기 부여 연설</content>
+ <content contentuid="h4b9cdc80g0a8fg9f77g3642gd2a0f221c86c" version="3">[1]의 임시 생명력과 지혜 내성 굴림에서 유리 보정을 얻습니다. 공격을 받으면 다음 명중 굴림에 유리 보정을 얻습니다.</content>
+ <content contentuid="h02b2d78age3adg9bb3g6384gc31881d8e020" version="3">동기 부여 연설: 공격</content>
+ <content contentuid="h6ea0ef8fg4814ga8f3ga86ag2d307cd46b82" version="1">다음 명중 굴림에 유리 보정을 받습니다.</content>
+ <content contentuid="h71a8cde3g9846gc65bg2d35gb5ee241b7296" version="2">동기 부여 연설</content>
+ <content contentuid="h31b7345bg8261g91efg9551gbe61d33528e6" version="1">동기 부여 연설</content>
+ <content contentuid="h3e02f68bg1debgb3dcg22eagb3cce4066fd2" version="1">[1]의 임시 생명력과 지혜 내성 굴림에서 유리 보정을 얻습니다. 공격을 받으면 다음 명중 굴림에 유리 보정을 얻습니다.</content>
+ <content contentuid="h8f279dffg6146g21cfg56a4g8d584a05412d" version="1">동기 부여 연설</content>
+ <content contentuid="h42b0a7b2gb16bga2ebg8431g22eacc4f0277" version="1">[1]의 임시 생명력과 지혜 내성 굴림에서 유리 보정을 얻습니다. 공격을 받으면 다음 명중 굴림에 유리 보정을 얻습니다.</content>
+ <content contentuid="h5759ce07gd190gf8dagfd5bg6545752af588" version="1">동기 부여 연설</content>
+ <content contentuid="h268f1556g6a8cg4a3fgc995g613770205505" version="1">[1]의 임시 생명력과 지혜 내성 굴림에서 유리 보정을 얻습니다. 공격을 받으면 다음 명중 굴림에 유리 보정을 얻습니다.</content>
+ <content contentuid="hd578a41eg1cd4gd5cdgdbf3g5dddaeee579a" version="1">정신의 파동</content>
+ <content contentuid="h72f20998gd8b5ged4fg3727g058fc70b1f78" version="2">모든 생물과 물체를 밀어내고 넘어뜨리는 파괴적인 정신력의 파동을 풀어냅니다.</content>
+ <content contentuid="h56276993g5c35g3ac4ge25fg6327671984f0" version="1">파동 방출: 밀기</content>
+ <content contentuid="h4dfe7cf3g5e75g3721gc4c3g774da34bd420" version="1">생물과 물체를 끌어당기는 강렬한 압력을 생성합니다.</content>
+ <content contentuid="h3505f4a6g6395gf0c1g6f1dg2860e30f0e83" version="1">파동 방출</content>
+ <content contentuid="h715aa66cg229ag287egb138g8d291c264817" version="1">해당 지역 내의 생물이나 물체를 밀거나 당기는 강렬한 압력을 생성합니다.</content>
+ <content contentuid="h7c77d80dg16e3g5952g0f79g1e47611a424b" version="1">파동 방출 : 당기기</content>
+ <content contentuid="h652c381bg0067g38d6g1232g7b5b314337c0" version="1">생물이나 물체를 밀어내는 강렬한 압력을 만듭니다.</content>
+ <content contentuid="h6dca0860ga3d9ge55dg54d8gf72320d543ca" version="1">영혼의 수의</content>
+ <content contentuid="h8f5ceadag04fdge406g7790g4f1b62e31967" version="6">영혼을 불러내어 싸우게 합니다. 근처의 적에게 [1]의 이동 속도가 감소합니다. 근처의 적을 공격하면 추가로 [2] 또는 [3] 또는 [4]를 입히고 다음 턴까지 적의 생명력을 회복하지 못하게 합니다.</content>
+ <content contentuid="h46b8601fga50dgfb61g3924g0cbe979f4302" version="2">영혼의 수의: 광휘</content>
+ <content contentuid="hdec3b7aag41fdg1534g3ccfg91165599aed0" version="2">근처 적에게는 [1]의 이동 속도가 감소합니다. 근처 적을 공격하면 추가로 [2]의 피해를 입히고 다음 턴까지 적의 생명력을 회복하지 못하게 합니다.</content>
+ <content contentuid="h3f09552dg71bcga311g7d32g62306427b214" version="1">영혼의 수의: 취약</content>
+ <content contentuid="hd484197ag23d4g63a4g53d1g1d2483f6c0ba" version="2">영혼의 수의의 근원으로부터 공격을 받으면 추가 피해를 입습니다.</content>
+ <content contentuid="h49c1a4e0gc524gd597gecc8g78e7bfe3de5b" version="2">영혼의 수의: 광휘</content>
+ <content contentuid="had96a748gd904gc05fgde41gcf98d988f128" version="1">영혼의 수의: 사령</content>
+ <content contentuid="h78c7a3ecg3953g314bg26e6g02d730bcac17" version="1">영혼의 수의: 광휘</content>
+ <content contentuid="h0834e27eg7cb7g9784gcb75gdceb6f842bf7" version="1">영혼을 불러내어 싸웁니다. 근처 적의 이동 속도가 [2] 감소하고, 다음 턴까지 생명력을 회복할 수 없으며, 공격 시 [1]의 추가 피해를 입습니다.</content>
+ <content contentuid="hba92c893g3ec4ga35cg4a1ag61ae51304d5a" version="1">영혼의 수의: 냉기</content>
+ <content contentuid="h5fd28eacg9f44gb448g5654g145eb3987b68" version="3">영혼을 불러내어 싸우게 합니다. 근처 적의 이동 속도가 [1] 감소합니다. 근처 적을 공격하면 추가로 [2]의 피해를 입히고 다음 턴까지 적의 생명력을 회복하지 못하게 합니다.</content>
+ <content contentuid="hc937b506ga87fg6930g7e9fg5fe8e0a9d5af" version="1">영혼의 수의: 사령</content>
+ <content contentuid="hddb29463gd28fg8a7cg4bc8g4d60a55cec14" version="1">영혼의 수의: 냉기</content>
+ <content contentuid="h3dd28fcege882g504dg5963g98166b8e6b06" version="1">영혼의 수의: 사령</content>
+ <content contentuid="h05939d90gf26cge1e4g93b0gd764346acb95" version="1">영혼의 수의: 냉기</content>
+ <content contentuid="h92612203g9339g2bedg500ag184c4e281d1b" version="1">영혼의 수의: 사령</content>
+ <content contentuid="h303b7c93g06dcgb20fg97f9ge3c453f7d14a" version="1">영혼의 수의: 냉기</content>
+ <content contentuid="hea9c0c71g72e1gad29gd880g19d3c58e8e5c" version="2">영혼의 수의: 냉각</content>
+ <content contentuid="hbcdd29f4g2665gec29gf256g1d47acff01e4" version="2">생명력을 회복할 수 없습니다.</content>
+ <content contentuid="hf9b10db4g0c0agbe21g1db3g59ce04cbc16f" version="1">영혼의 수의</content>
+ <content contentuid="hd9eea0e5gcc6dgf569gad2ag7f11dc0bc887" version="1">해일</content>
+ <content contentuid="h0c60b84eg90a2g6dcag842bg4372249f1309" version="1">적을 넘어지게 하는 물의 파도를 불러냅니다.</content>
+ <content contentuid="hf4f2a5b3g25d7g7f4cg41cfgca5fc8e96179" version="1">생명의 오라</content>
+ <content contentuid="h152ffb6dgdb36gb4fegca87g3fb36d8e7629" version="4">근처 아군 모두에게 사령 피해에 대한 저항을 부여하는 오라를 방출합니다. 쓰러진 아군은 생명력 1점을 회복합니다.</content>
+ <content contentuid="hd57e5c8cg728cg13b9g58b6g4b8916ea345d" version="2">생명의 오라</content>
+ <content contentuid="h6340f3e7gc550g5a42ga9abg5696953fd435" version="1">영향을 받은 개체는 활력 회복을 사용하여 자신이나 근처 아군을 치료할 수 있습니다.</content>
+ <content contentuid="h6196e9dfg8ed1g6e53g7a5bgc25b7d9f9f02" version="2">근처 아군 모두에게 사령 피해에 대한 저항을 부여하는 오라를 방출합니다. 쓰러진 아군은 생명력 1점을 회복합니다.</content>
+ <content contentuid="h6ff5aafcg9d18gf5e5ge4f1g8ab94dbc74ac" version="1">생명의 오라</content>
+ <content contentuid="hacf09405g8c14g7b34gfefcg358d9b5e3726" version="2">사령 피해에 대한 저항을 얻습니다. 쓰러졌을 때 생명력 1점을 회복합니다.</content>
+ <content contentuid="hfe67e3f3gb3d3g9b79gee8egfb1dc9cc7c25" version="1">정화의 오라</content>
+ <content contentuid="h7404946fg97f3g1026g9500g51657f9cab96" version="2">주변 모든 아군에게 독 피해에 대한 저항과 건강 내성 굴림에 유리 보정을 주는 오라를 발산합니다.</content>
+ <content contentuid="h2a9ece75g648fg80e0g6f50g768f1341a548" version="1">정화의 오라</content>
+ <content contentuid="haece53b4g7c5eg1027g1536g5cd5b88e088e" version="2">주변 모든 아군에게 독 피해에 대한 저항과 건강 내성 굴림에 유리 보정을 주는 오라를 발산합니다.</content>
+ <content contentuid="hd4f7606eg1109g13bcg0f76g48a6ec4cffef" version="1">정화의 오라</content>
+ <content contentuid="h283b72f5gb545g6a6dgdba1g7aac991bbda8" version="2">독 피해에 대한 저항이 있으며 건강 내성 굴림에 유리 보정을 받습니다.</content>
+ <content contentuid="hdc123ab9g7e83gc7c2gecf9g227da02a87e6" version="1">자아 채찍</content>
+ <content contentuid="hf2ea1fceg237egeb3eg9d2fg4bc7afdb3162" version="1">대상의 정신을 침범하여 절망으로 채웁니다. 대상은 명중 굴림, 능력 판정, 내성 굴림에 불리 보정을 가지고 있으며 주문을 시전할 수 없습니다.</content>
+ <content contentuid="h931660bcgc349g15c5g67c1ge2d433a99bd4" version="1">자아 채찍</content>
+ <content contentuid="hf6cdb497g7d5fg3d83g9f5cg72b7e8ae0f64" version="1">절망으로 가득 차 있습니다. 명중 굴림, 능력 판정, 내성 굴림에 불리하며 주문을 시전할 수 없다.</content>
+ <content contentuid="h87427671gdabag2764g89d3gf64809e09655" version="1">괴물형 매혹</content>
+ <content contentuid="h927e9fdfg7fd8g661fg0c5cg0e22f309863c" version="1">생물을 매혹하여 공격하지 못하게 합니다. 대화에서 매력 판정에 유리 보정을 받습니다.</content>
+ <content contentuid="h85b6babfg57abg2c64gb1cfg125763ed4da1" version="1">적은 매혹당하는 것에 대한 내성 굴림에 유리 보정을 받습니다.</content>
+ <content contentuid="h078e54b7g120eg88a9g1522g866568b488fd" version="1">중력 싱크홀</content>
+ <content contentuid="h4f64334ag25dag940bgcf45g4b0734698beb" version="2">적을 끌어당기는 파괴력의 구체를 생성합니다.</content>
+ <content contentuid="h80c40265g0516g5fdbgc416ge92127d954c8" version="1">정신 창</content>
+ <content contentuid="h2e6b352bgcdcdg1735g6b64g1be00de13b80" version="2">라울로심의 정신 창</content>
+ <content contentuid="h6911a7b2g3542g138agea9egca1299401b09" version="1">대상의 정신을 정신적으로 공격하여 무력화시킵니다.</content>
+ <content contentuid="h698eb271gbaeegb03dg28b9gff44c8ce54aa" version="2">달의 칼(불)</content>
+ <content contentuid="h1f46e5ffg2529g27fdg0803g74575ad39c89" version="6">[1]의 추가 피해를 입히고 [2] 반경 내에 밝은 빛을 뿌리는 +[3]의 마법의 불타는 단검을 소환합니다.</content>
+ <content contentuid="he692b584g3797gf6c8ga334g2f2ef5b3cb24" version="3">주문을 시전하면 다양한 방식으로 무기가 업그레이드됩니다.</content>
+ <content contentuid="hc7812500g42e8ga40fg452cg61ef55a9a43b" version="2">단검 +2</content>
+ <content contentuid="h53a991f5gf010g106cgc381gdc95a6f7b381" version="2">이 강력한 무기는 고대 드래너의 대장장이가 만들었습니다. 달의 칼은 에버밋 섬의 통치자를 선택하는 긴 의식에서 사용됩니다.</content>
+ <content contentuid="h42d6e700gb2e6gc8c1gd674gb5f4f125a10f" version="10">달의 칼</content>
+ <content contentuid="h02edad25g8ca3g2075g132dg04fd092033bb" version="10">달의 칼은 에버밋 섬의 통치자를 선택하는 긴 과정에 사용됩니다.</content>
+ <content contentuid="h9b4dedfbgd577g2a54g5930g4d23442fa013" version="1">꺼지지 않음</content>
+ <content contentuid="hb39634e2gfc0fg2482gd274gfcdf038d27bb" version="1">꺼질 수 없는 신비한 불꽃 입니다.</content>
+ <content contentuid="hb6df9c88gb91ag88eag88fag45d20dcd5e11" version="3">달의 칼(불)</content>
+ <content contentuid="h8b6c6a95g0950g5b03g7f39g7686856b373d" version="4">칼집에서 칼날이 뽑히면 푸른 불꽃에 채찍싸인다.</content>
+ <content contentuid="h3896c629g91b3g908bg7613g2d905572c31d" version="1">달의 칼</content>
+ <content contentuid="hc686f04fgb46ag1bc7g3488gd2bf0431b031" version="1">달의 칼</content>
+ <content contentuid="h935d6af2g5270gb935g330eg990f0946d029" version="1">화염 피해에 대한 저항을 얻습니다.</content>
+ <content contentuid="h2be746bbgec19g6e16g590bgac0b0456386b" version="2">방어도가 1 증가합니다.</content>
+ <content contentuid="hc0515b93g0884gc80bga4a8g54ef56fd479f" version="2">[1]의 추가 피해를 입히고 [2] 반경 내에 밝은 빛을 뿌리는 +[3]의 마법의 불타는 단검을 소환합니다. 방어도가 1 증가합니다.</content>
+ <content contentuid="h50e75110gdac4g2f3ag2cc3g110fbb69f70a" version="2">[1]의 추가 피해를 입히고 [2] 반경 내에 밝은 빛을 뿌리는 +[3]의 마법의 불타는 단검을 소환합니다. 방어도가 1 증가합니다.</content>
+ <content contentuid="h7cf2a6dag1799gc9d8g08fag68408ac6d549" version="2">[1]의 추가 피해를 입히고 [2] 반경 내에 밝은 빛을 뿌리는 +[3]의 마법의 불타는 단검을 소환합니다.방어도가 1 증가합니다. 화염 피해에 대한 저항이 부여됩니다.</content>
+ <content contentuid="h666b1dd1g40fag60c0g706cg5fe1a1a20a9e" version="1">달의 칼: 방어도</content>
+ <content contentuid="h39c1f9d1ge402g1d07g7776g01f6f384ad90" version="1">방어도가 1 증가합니다.</content>
+ <content contentuid="hdc415ab0g664ag981bg5463g13b559ec5e5f" version="1">달의 칼: 저항</content>
+ <content contentuid="hff7d41edg3ef1g17begacbcg332e1f1beac6" version="1">화염 피해에 대한 저항을 부여합니다.</content>
+ <content contentuid="h3c8b0d4fg8270g689cgc09cg31864595ed19" version="3">반경 [2] 내에 밝은 빛을 뿌리는 +[3]의 마법의 불타는 단검을 소환합니다. 추가 [1]를 입힙니다.방어도가 1 증가합니다.화염 피해에 대한 저항을 부여합니다.</content>
+ <content contentuid="h7d546258g10dcg57d7g977agbec96eadfff6" version="3">달의 칼 베기 (냉기)</content>
+ <content contentuid="hf64270d7gc84dg1834g3064g219881ff4f6d" version="4">불타는 듯한 화려한 퍼포먼스를 선보입니다.</content>
+ <content contentuid="h73adc5abga7c5gbafegb8e0g29df79b4a357" version="1">달의 칼 소환</content>
+ <content contentuid="h202779e1ga1d9g3a06gb1f8g97507703deb6" version="4">[2] 반경 내에 밝은 빛을 뿌리는 +[3] 마법의 화염 또는 냉기 단검을 소환합니다.추가 화염 또는 냉기 피해를 입힙니다.방어도가 1 증가합니다.화염 또는 냉기 피해에 대한 저항을 부여합니다.</content>
+ <content contentuid="h1748052eg087eg08c5g7944ga9b8892b5a64" version="2">달의 칼 소환(냉기)</content>
+ <content contentuid="h3703df10g0476gd135g2b08g865e9d7709c2" version="2">반경 [2] 내에 밝은 빛을 뿌리는 +[3]의 마법의 냉기 단검을 소환합니다.보너스 [1]를 입힙니다.방어도가 1 증가합니다.냉기 피해에 대한 저항을 부여합니다.</content>
+ <content contentuid="h83ef90b0gc928g4886g36abg2883921b842c" version="4">달의 칼</content>
+ <content contentuid="hf12888c3g45ceg5a5ag758agddb34b86da57" version="4">달의 칼은 에버밋 섬의 통치자를 선택하는 의식에서 사용됩니다.</content>
+ <content contentuid="hceea2313g44c6g26ffg9720g785d4ccc3f8a" version="3">달의 칼 베기(냉기)</content>
+ <content contentuid="h6250a6b3g5355g96c9g9469ga06418acbfda" version="2">이동 속도를 [1]만큼 감소시키는 오싹한 기술을 시전합니다.</content>
+ <content contentuid="hba308e00gebbag1a2eg2bacg77ac308954de" version="1">달의 칼(냉기)</content>
+ <content contentuid="h1a6bfbd1g4c47g2441gaeb5g4f1289558c64" version="1">칼집에서 뽑히는 순간, 칼날은 푸른 서리에 채찍싸인다.</content>
+ <content contentuid="hd6e48c03g241egf957g2db7g69123d0a4b0b" version="1">달의 칼 베기(불)</content>
+ <content contentuid="hff34b1fbge915g9001g647ag469c87513699" version="1">원소 액운</content>
+ <content contentuid="h7f02cb43g1ee9g9b6eg0f5cgb81fad2241bb" version="2">매 턴 처음으로 대상이 선택한 유형의 피해를 입을 때 해당 유형의 추가 [1]를 입습니다. 대상은 선택한 피해 유형에 대한 저항을 잃습니다.</content>
+ <content contentuid="ha5fec75bg4ba6gd19dg5743g5d7bbf20e764" version="1">원소 액운: 냉기</content>
+ <content contentuid="h916a54d4gee67gdfd2gc353g2046e29808af" version="1">매 턴 처음으로 대상이 냉기 피해를 입으면 추가 [1]를 입습니다. 대상은 선택한 피해 유형에 대한 저항을 잃습니다.</content>
+ <content contentuid="h372729a9g700fg0b22g49ecgd2ad8762ddb2" version="1">원소 액운: 산성</content>
+ <content contentuid="h49141c43gad38gf2ecgb0f3ga5fedd82fb45" version="1">각 턴에서 대상이 처음으로 산성 피해를 입으면 추가로 [1]를 입습니다. 대상은 선택한 피해 유형에 대한 저항을 잃습니다.</content>
+ <content contentuid="h328d2f52gd601gba65g77ccg10e5952295ac" version="1">원소 액운: 화염</content>
+ <content contentuid="h611ecac7gec60g6f0eg183ege6a18cf3ae77" version="1">매 턴 처음으로 대상이 화염 피해를 입으면 추가 [1]를 입습니다. 대상은 선택한 피해 유형에 대한 저항을 잃습니다.</content>
+ <content contentuid="h39051ef3gdbe8g3ac2g329dgefef87d12627" version="1">원소 액운: 번개</content>
+ <content contentuid="hddb4171bg08c5gd698gf349ga1491278148b" version="1">매 턴 처음으로 대상이 번개 피해를 입으면 추가로 [1]의 피해를 입습니다.대상은 선택한 피해 유형에 대한 저항을 잃습니다.</content>
+ <content contentuid="hf54a1acag5efag36bdg87f1gbb5221ea608b" version="1">원소 액운: 천둥</content>
+ <content contentuid="ha1bfc0f2g31f4ge28eg3629g2f19812edf79" version="1">매 턴 처음으로 대상이 천둥 피해를 입으면 추가로 [1]를 입습니다. 대상은 선택한 피해 유형에 대한 저항을 잃습니다.</content>
+ <content contentuid="h5c96d9a6g8be9gc216gfe15gee46eded3535" version="1">원소 액운: 산성</content>
+ <content contentuid="hc8a5ed73g35dfg66fbg4e03g2f852aebe3e7" version="3">[2] 저항을 제거합니다. 각 턴 처음으로 대상이 [2]의 피해를 입을 때 추가로 [1]의 피해를 입습니다.</content>
+ <content contentuid="h7611a398g2ee8gbe7bg83deg78ca286e85a2" version="1">원소 액운: 산성</content>
+ <content contentuid="hc07c213dga7f9g958bg755cg90f9ea34b7b8" version="1">원소 액운: 냉기</content>
+ <content contentuid="h54c77483g6c5cg5125g51edge25829cc34b1" version="1">원소 액운: 화염</content>
+ <content contentuid="h3ed4cbeag6fa9gceb1g09d2ge61b0e68f27b" version="1">원소 액운: 번개</content>
+ <content contentuid="h72a553d2g099cg45aag8e12g59c11a9b62bf" version="1">원소 액운: 천둥</content>
+ <content contentuid="h645695ccgcb41g1c08gfdb2g380aac4c1c7a" version="1">원소 액운: 산성</content>
+ <content contentuid="hb4bb0aa4gcd4bg3a2dgd70eg0083df7fb900" version="1">다음 [2]회의 추가 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h0f3c5523gc217g8a74gfc54ga3536c2318bf" version="1">원소 액운: 냉기</content>
+ <content contentuid="h5232629cg02acg5968g4c7dg19f8187d3249" version="1">원소 액운: 화염</content>
+ <content contentuid="h710c4c9agf965g8086g31d4g4e784fe591e9" version="1">원소 액운: 번개</content>
+ <content contentuid="he851d156g219egfea2g8227g249cae178a7b" version="1">원소 액운: 천둥</content>
+ <content contentuid="h014ba0a8g6e31g0c01g4b7cg4a262907ba74" version="1">화염의 거미줄</content>
+ <content contentuid="h751e154dg0b69ge5b5g87a0gb1f204d0d3fe" version="1">[1] 화염 뱀의 일격을 다른 적에게 퍼붓습니다. 각 일격은 [2]의 피해를 입힙니다. 대신 모든 일격을 한 명의 적에게 집중하여 [3]의 피해를 입힐 수 있습니다.</content>
+ <content contentuid="hf77b2565g00d5g22e4g5b63g1ac83d39212a" version="1">화염의 거미줄 (다중)</content>
+ <content contentuid="h246c5e02gd62dgd1f7g37ffgab52ba96bcfd" version="1">[1] 화염 뱀의 줄무늬가 다른 적을 향해 퍼붓습니다. 각 줄기는 [2]의 피해를 입힙니다.</content>
+ <content contentuid="h78890867gd437g5f67gb66eg702f4b54eec0" version="1">화염의 거미줄 (단일)</content>
+ <content contentuid="h7a9c02f9g044eg0a40g45b9gb6bd539b7367" version="1">[1] 대상을 향해 화염 뱀의 줄기를 뻗어 [3]을 공격합니다.</content>
+ <content contentuid="h82b19e2fg7e87g919fg29a5g7396627c14b0" version="1">생명 탐지</content>
+ <content contentuid="h4570889fg9d62gda4bgceebg1f0c735b7051" version="4">[1]내의 모든 적의 약점을 감지합니다. 감지된 적을 공격하면 명중 굴림에 +[2] 보너스를 얻고, 치명타에 보너스 [3]을 입히고, 치명타에 필요한 굴림을 1만큼 줄입니다.</content>
+ <content contentuid="h3c9c20b5g5089g95d3g6a0bge5fe08ad0080" version="1">이 주문을 시전하는 동안 숨겨진 상태를 유지할 수 있습니다. 침묵 상태인 동안에도 이 주문을 시전할 수 있습니다.</content>
+ <content contentuid="h588068c0gfa78g501cgea22ge16a410e412a" version="2">생명 탐지</content>
+ <content contentuid="hbe8c46acgbeaeg0c29g7154g9d8a27f05153" version="3">[1] 내의 적 감지. 감지된 적을 공격하면 명중 굴림에 +[2] 보너스를 얻고, 치명타에 보너스 [3]을 입히고, 치명타에 필요한 굴림을 1만큼 줄입니다.</content>
+ <content contentuid="h8660c281g1bd5g21c0gc2d9gef5fc696bbfc" version="1">생명 탐지</content>
+ <content contentuid="h59dbcb0fg9b4cg6073gda31g8f972dde2794" version="1">감지됨. 시전자의 공격은 명중 굴림에 +[2] 보너스를 얻고, 치명타에 보너스 [3]을 입히고, 치명타에 필요한 굴림을 1만큼 줄입니다.</content>
+ <content contentuid="h2808f1b8gcfc1gdc13g0868g1be19ce5ab2e" version="3">기괴한 폭발</content>
+ <content contentuid="he6ac9674g2decgff09g5c76gc48d9a2f36c9" version="5">시체나 언데드의 몸에서 사령 에너지가 폭발적으로 뿜어져 나옵니다.</content>
+ <content contentuid="h13128b6bg0610g9172gb8cfgf4aa7b254c18" version="1">꿈</content>
+ <content contentuid="h05890060gcbd1gb2ecgdebcg0384fe7df44a" version="1">대상의 마음을 강타하여 마법의 잠에 빠지게 합니다.</content>
+ <content contentuid="h0d587092gb412g784dgd17cg33abb505ede4" version="1">쇠약</content>
+ <content contentuid="h6f5f8dcdg37c7gbb50g85c2g4623454c6fc9" version="1">어둠의 촉수로 대상과 연결합니다. 활성화하면 턴당 추가로 [1]의 피해를 입히고 입힌 피해의 절반에 해당하는 생명력을 회복합니다.</content>
+ <content contentuid="h2dc47e7ag6f64gf22dg0bb6gfde6b31fe93d" version="2">쇠약 활성화</content>
+ <content contentuid="h2d7c4d72g462bge3ddg21abg7ac41f9c9de4" version="2">기력을 활성화하고 [1]를 입힙니다.</content>
+ <content contentuid="hfe791463gaf8eg2e45gef38g7ec0448b5490" version="1">쇠약 시전자</content>
+ <content contentuid="hd641c170ga8efga79dg462cg0e9365fbaf5b" version="1">쇠약 활성화 잠금 해제</content>
+ <content contentuid="h0d1a7014g9cebgad63g4dbeg8a1fc23ca0af" version="2">쇠약</content>
+ <content contentuid="h93c7702cg02b2g1204g1688gb3bce9273bbc" version="2">주문 시전자는 이 생물과 연결된 촉수를 활성화해 자동으로 4d8의 사령 피해를 입힐 수 있습니다.</content>
+ <content contentuid="h194fe559g786cg37f3g98b5g75a9029c0b8d" version="1">%%% 비어 있는</content>
+ <content contentuid="h3dcc8e03g67d5g40b6g5d80g3ab794768c9a" version="1">쇠약 활성화</content>
+ <content contentuid="h288ebef1g8fd3g2903g1734g078148fa28af" version="2">기력을 활성화하고 [1]를 입힙니다.</content>
+ <content contentuid="haa889aa4g77d4g2d86g295ag92847839ff6f" version="1">쇠약 시전자</content>
+ <content contentuid="h3ea38074g063cgc200gaca7gd07ca74188ed" version="1">쇠약 활성화 잠금 해제</content>
+ <content contentuid="haa97688eg7888g5bc5gfa4fged9f35a5320a" version="1">주문 시전자는 이 생물과 연결된 촉수를 활성화해 자동으로 5d8의 사령 피해를 입힐 수 있습니다.</content>
+ <content contentuid="h5b6de96dg8f22gabceg9ac4g7912dd81eaf5" version="1">축지법</content>
+ <content contentuid="h075aeffdge5dcg68d2g2b8eg321d25347067" version="2">눈에 보이는 비어있는 공간으로 순간이동 합니다.</content>
+ <content contentuid="h6ba4b0f6gaa70gfc97gb0edg16b4dd5fa3d3" version="1">축지법</content>
+ <content contentuid="h6ba207a7gb8f2gf0c3g987ag586af4475e7a" version="1">매 턴마다 순간이동이 가능합니다.</content>
+ <content contentuid="h36977af5gab0fg14e5ge1f5ga9826aac3c2c" version="1">10턴 동안은 추가 주문 슬롯을 소모하지 않고도 다시 축지법을 사용할 수 있습니다.</content>
+ <content contentuid="h8973df4cg6603gf1cagc3abg522fb4ad9033" version="1">축지법</content>
+ <content contentuid="hdefaa94fga56bg9151g1cc4gf15b3e6f8e42" version="1">눈에 보이는 비어있는 공간으로 순간이동 합니다.</content>
+ <content contentuid="hd784d337gb5bfg21bbg250eg2e2cd7593602" version="1">축지법</content>
+ <content contentuid="hfbb986e3ge582ga7e4gb9b5g08696856608b" version="1">눈에 보이는 비어있는 공간으로 순간이동 합니다.</content>
+ <content contentuid="hbec80ee7g5777gaae0gdf32g500f492bf937" version="1">10턴 동안은 추가 주문 슬롯을 소모하지 않고도 다시 축지법을 사용할 수 있습니다.</content>
+ <content contentuid="h3a67b318g4b45g74eegde58g4d4f4f5bbb8d" version="1">신성 무기</content>
+ <content contentuid="hde1f3761g52f7gec3dg1f0bg7a7b2f7477a8" version="1">무기에 신성한 힘을 부여하여 추가로 [1]의 피해를 입힙니다. 이 무기는 비마법적 피해에 대한 저항과 면역을 극복하는 목적으로 마법 무기로 간주됩니다. 또한 [2] 위로 밝은 빛을 방출합니다.</content>
+ <content contentuid="h11cdcee8gafedg866cgf669gae98d76d40d4" version="1">보조 행동을 통해 [1]의 피해와 실명을 입히는 빛의 폭발을 방출하여 효과를 해제할 수 있습니다.</content>
+ <content contentuid="h59e6cce2g7f37geae8gc5e3g40e4a9f2d1ab" version="1">신성 무기</content>
+ <content contentuid="hf8c7bbc9gb178ged5dg0354g72a77d1d7a9b" version="1">무기에 신성한 힘을 부여하여 추가로 [1]의 피해를 입힙니다. 무기는 비마법적 피해에 대한 저항과 면역을 극복하기 위해 마법적으로 변합니다. 또한 [2] 위로 밝은 빛을 방출합니다.</content>
+ <content contentuid="h8eda5494g5b30g7dc6ga2a3g3d87c67c0f67" version="3">보조 행동으로 [1]의 피해를 입히고 적에게 실명을 유발하는 빛의 폭발을 방출할 수 있습니다.</content>
+ <content contentuid="h653b30ffg8b2cgc9d0g3619g4ebb228ebce5" version="1">신성 무기</content>
+ <content contentuid="h4152ad19g13aeg3006g4e3dgeda108525524" version="1">무기가 마법적으로 변하여 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="heaaa8562g912fg00a7g05a8g2dbbbdf11f8f" version="2">신성 방출</content>
+ <content contentuid="h0f40bc66g96c5g587fga5d1g5b75a08e09a6" version="1">당신의 무기에서 불타는 빛이 솟아나와 주변 생물에게 피해를 입힙니다.</content>
+ <content contentuid="h4a110923g257ag5161g9f3bgbf905e263c70" version="1">신성 무기 방출</content>
+ <content contentuid="h81d7a94cgb8eagb5e2g4966g5ff864602792" version="1">[1]의 피해를 입히고 적에게 실명을 유발하는 빛의 폭발을 방출합니다.</content>
+ <content contentuid="h5e2bd695gafaega312g2986geb6039e88920" version="1">신성 방출</content>
+ <content contentuid="h03b4b5f0g14f4g0029g6e55ge30cc7f95628" version="1">[1]의 피해를 입히고 적에게 실명을 유발하는 빛의 폭발을 방출할 수 있습니다.</content>
+ <content contentuid="hf6fa8be6g1da2gc2efg273eg59feb1f64008" version="1">실명</content>
+ <content contentuid="hec1b4f76g53f0g5031g50ffg181f4e3011f8" version="1">명중 굴림에 불리 보정이 있습니다. 공격과 주문의 범위가 [1]로 감소합니다. 눈이 먼 생물에 대한 명중 굴림에는 유리 보정이 있습니다. 효과를 종료하기 위해 매 턴 내성 굴림을 수행합니다.</content>
+ <content contentuid="hbaa97bdag35f5g6465g9024g51abde4d3bff" version="1">제물 희생</content>
+ <content contentuid="h7be3c478g9aa5g9719ga280gd50f635c2d5c" version="2">목표물을 가리키고 불을 지르며 매 턴 [1]의 피해를 입히고 불태웁니다.</content>
+ <content contentuid="h4531a63egd9b4g33beg6befg1bcfec115211" version="1">제물 희생</content>
+ <content contentuid="ha380ce3cg5fbege37bgfa19gc0e96f7972bd" version="5">꺼지지 않는 불꽃이 각 턴 [1] 동안 개체를 태웁니다. 각 턴이 끝날 때 민첩 내성 굴림을 성공하면 제거됩니다.</content>
+ <content contentuid="hae231395g9332g4e6ag1237g41aaa8ab1d6b" version="2">목표물을 가리키고 불을 지르며 매 턴 [1]의 피해를 입히고 불태웁니다.</content>
+ <content contentuid="h3a3fe8c2g480egb47dg17b6gc3c9436522ec" version="1">강철 바람 일격</content>
+ <content contentuid="h887acff3g0cecg2f4fgab80g36b38ddc58f6" version="2">바람 속으로 사라져 [1]개의 다른 대상을 공격합니다. 그런 다음 그 중 하나 옆으로 순간이동합니다.</content>
+ <content contentuid="h6ee1b5a2g86dcg6cbag1d57g8d4ad2ff3827" version="1">강철 바람 일격</content>
+ <content contentuid="h28e6256ag579dg2f98gade7ge9653af81cb2" version="2">정지해 있는 동안 강철 바람 일격에 맞은 대상으로 순간이동할 수 있습니다.</content>
+ <content contentuid="h99682e40g2523g3fd6gce2fgf97e7d91d98d" version="2">강철 바람 일격 대상</content>
+ <content contentuid="hf7d76ef2ge95ag2549g8601g49e2c7a8dde2" version="2">강철 바람 일격을 시전한 후 순간이동할 수 있습니다.</content>
+ <content contentuid="h95316902g78fag8d11gf41egb28ef36e7057" version="1">스틸 윈드 일격: 순간이동</content>
+ <content contentuid="hb1514cdbge04ag0564gb932g9e50210b113f" version="2">강철 바람 일격의 대상 옆으로 순간이동합니다.</content>
+ <content contentuid="h95ef0b31g1512g401cg2394g0881c84cdd01" version="1">신경 정전기</content>
+ <content contentuid="h6aa13215g08f9g85a1g116egeb115e3a1997" version="3">명중 굴림, 능력 판정, 건강 내성 굴림에 -1d6 페널티를 부여하는 정신 에너지를 폭발시킵니다.</content>
+ <content contentuid="h2ed4e95cg1db1gc06cgd788gefa1aea8381a" version="1">지능이 2 미만인 생물에게는 영향을 미치지 않습니다. </content>
+ <content contentuid="h4bedaf3egfb9eg3f76gaa5bg9ef0c93c2063" version="1">신경 정전기</content>
+ <content contentuid="h66c9c768g3fb9g8aeegb3bfg6e94082d5680" version="3">명중 굴림, 능력 판정, 건강 내성 굴림에 -1d6 페널티가 있습니다. 매 턴마다 지능 내성 굴림를 해서 자유로워집니다.</content>
+ <content contentuid="hb644457dg7e58g81e0g089cgfe060a0530d6" version="1">추방</content>
+ <content contentuid="hd29a807fg6420g6a35g9affgcd8d5ec1eb69" version="1">일시적으로 대상을 다른 차원으로 추방합니다.</content>
+ <content contentuid="h55ee3361g611fgd5e1g420ag0eacb8ce33af" version="1">대응으로 다른 생물의 주문을 무효화합니다. 주문은 3레벨 이하여야 합니다. 더 높은 경우, 무효화하기 위해 판정에 성공해야 하며, 판정의 난이도는 주문의 레벨에 따라 달라집니다.</content>
+ <content contentuid="h611136b6ge81egb165gdb59g0fa890e73e99" version="1">주문 방해 실패</content>
+ <content contentuid="h81759f73g0e60g2965g2065g7d6648a9bd98" version="2">영계 분리</content>
+ <content contentuid="h2d4c4c51g2fa9g977eg27ffg1829312260d5" version="2">적의 공격이나 주문을 일시적으로 다른 차원으로 추방하여 막습니다.</content>
+ <content contentuid="h19c863d4g18ffgc82dg0dc3g24690aee36fb" version="1">주문 방해에 사용한 주문 슬롯보다 레벨이 높으면 주문 시전 능력을 사용하여 방지를 위해 판정를 해야 합니다. 판정의 난이도는 [1]에 방해하려는 주문 레벨을 더한 값과 같습니다.</content>
+ <content contentuid="h7b5b7616g8140g52eag71c9gb888569d0b07" version="1">영계 분리</content>
+ <content contentuid="hf70575e7g92ecg10f3g3508g4fd85734baf3" version="2">공격하거나 주문을 시전하는 생물을 다음 턴이 시작될 때까지 추방합니다.</content>
+ <content contentuid="h7a564a8dg49b9g3f4dg2b8agdc245dd50cde" version="1">추방</content>
+ <content contentuid="h7a5d8665g9d26g8d51g676ag354b8ca51141" version="1">일시적으로 대상을 다른 차원으로 추방합니다.</content>
+ <content contentuid="h813773d1gc666g2d15ge9f5g3345e8190edc" version="1">영계 분리 실패</content>
+ <content contentuid="hf88a9d06gb724gce55g863egb4c828f1ca3e" version="1">적의 공격이나 주문을 일시적으로 다른 차원으로 추방하여 막습니다.</content>
+ <content contentuid="he181b1d3g9196g0d6dg5b4bgdf192c14413a" version="1">영계 분리</content>
+ <content contentuid="h9bc6283ag1ecag96d8g2d87ge1143deb5f09" version="1">적의 공격이나 주문을 일시적으로 다른 차원으로 추방하여 막습니다.</content>
+ <content contentuid="hfec3f7cbg0b81gf851g93dag2cab1e6b1c92" version="1">균열</content>
+ <content contentuid="h54107b0fgb939g1fdega452gf3e1709a7a5f" version="4">땅을 가르며 생물들을 넘어뜨립니다.</content>
+ <content contentuid="h47287382g61a6gc196gb96eg47ba315bbc86" version="1">빅비의 손</content>
+ <content contentuid="h3ee9e50bg2894g2e2ega83agf543ce51663e" version="1">적을 공격하고, 밀고, 붙잡을 수 있는 반투명한 힘의 마법의 손을 만듭니다.</content>
+ <content contentuid="hb280f6deg02fdg020eg5266g8230ad4ad504" version="1">꽉 쥐어진 주먹</content>
+ <content contentuid="h0565cc0aga9feg4429g6cc3g94ec0d6d9187" version="2">강력한 주먹으로 대상을 공격합니다.</content>
+ <content contentuid="h2e1a7485g1568g89ffgba63g9f1905a0892e" version="2">빅비의 손</content>
+ <content contentuid="h3a171bdbg31dcg70a3ge4abg10fe230aaddb" version="1">꽉 쥐어진 주먹</content>
+ <content contentuid="h2e7e10bcg2a5fgfdddgda97g993668e39316" version="2">움켜쥐기</content>
+ <content contentuid="hbe745b6dgba33g0ac1g503bgb9a9ebfccf6a" version="3">크거나 작은 동물을 움켜쥡니다.</content>
+ <content contentuid="h31fe1b28gb198ga69egf7f6g5c96fc46906c" version="1">방해하는 손</content>
+ <content contentuid="h6e1a2352g837ag44cdgd146g042e39c7a430" version="2">생물의 움직임을 방해합니다.</content>
+ <content contentuid="hb4e8e12bgbff4gc614g6286g3167e1e2c0d6" version="1">분쇄하는 손</content>
+ <content contentuid="h87aff197g8f43g63b1g5bf1gd85203d93ec8" version="1">생물을 짓밟고 쓰러뜨립니다.</content>
+ <content contentuid="h0bc72c63gdf6cg8057g072eg38e407736f6b" version="1">방해</content>
+ <content contentuid="hb9ce6a7fg3909g9403g040bg28f2158bdd79" version="1">이동 속도가 [1] 감소했습니다.</content>
+ <content contentuid="h13b72722gb3a5gfdc4g14bbg96d780db552f" version="1">움켜쥠</content>
+ <content contentuid="h3b897c72g7352ge86cg9f8fgae87ddb7cb2d" version="1">영향을 받은 개체는 움직일 수 없습니다. 명중 굴림에는 유리 보정이 있지만, 명중 굴림과 민첩 내성 굴림에는 불리 보정이 있습니다.</content>
+ <content contentuid="hd4a672e0gc19fg2a37ge68cg89c38b55cb7c" version="2">빅비의 손</content>
+ <content contentuid="hff469a2bg64a6g61e5g3985g3139aa5c6957" version="1">빅비의 손</content>
+ <content contentuid="h69032c36gfe6dg7195gc5dbg7462b3105040" version="1">빅비의 손</content>
+ <content contentuid="hdaf42a4cgda54g54b0g051bge6e6a8e1e910" version="1">하급 악마 소환</content>
+ <content contentuid="hf17320bfgbcf4g3b45g1160gddc1ad621ba4" version="1">임프와 콰짓을 소환합니다.</content>
+ <content contentuid="ha3d1e02cg7a6bg64d7g7869g6706c03b569b" version="1">공포의 광란</content>
+ <content contentuid="h5474f989gcb85gaa22g8511g6e5c75d28cd0" version="1">두려움에 사로잡힌 대상에 대한 공격은 유리 보정을 받습니다.</content>
+ <content contentuid="h4788ca21gf885g2d0fg8abdgbaa57b3390c4" version="1">슬픔의 무게</content>
+ <content contentuid="hef9399dbg56c9g3c3agc3c5g979d0ca5942e" version="1">[1]내 적의 이동 속도가 [2]만큼 감소합니다.</content>
+ <content contentuid="hcca1bf07g5d88gc77bg78aagf56f32d50db1" version="1">슬픔의 무게: 오라</content>
+ <content contentuid="h59de4930gc5a4g8768g52f2g681e3f3f78a0" version="1">[1]내 적의 이동 속도가 [2]만큼 감소합니다.</content>
+ <content contentuid="h56604a44g95c7g7002g49b5g2ca23b2ae21b" version="1">슬픔의 무게</content>
+ <content contentuid="h2ce1a24eg1e42g57eagad47g9465a4402031" version="2">이동 속도가 [1]만큼 감소했습니다.</content>
+ <content contentuid="h1bb2deb9g0d18gdb01g027bgea5c3ddacb01" version="1">그림자 은신: 숨기기</content>
+ <content contentuid="hcbdc524ag440dg0a72g8d0bg71832539e6e1" version="1">그림자 존재 소환</content>
+ <content contentuid="h061475b6gffafgad5ag77c2g98e204a639ce" version="1">분노, 절망, 두려움의 그림자 영혼을 소환합니다.</content>
+ <content contentuid="hf9ddf262g901cg0c70g536fga78b882bb5fa" version="1">차가운 손길</content>
+ <content contentuid="h31b8dc1dg2a83g03c7g2a4dg6da624514750" version="2">얼음처럼 차가운 공격으로 목표물을 공격합니다.</content>
+ <content contentuid="hd12fe6feg6723gfc1aga51cg5ca99d0e02b5" version="1">그림자 발톱</content>
+ <content contentuid="h26198344ga14cg54ceg62a7g316f0e8a9b16" version="2">치명적인 발톱으로 공격합니다.</content>
+ <content contentuid="hc574a649g2a2cgf54dgde28ge00616393f74" version="1">공포의 비명</content>
+ <content contentuid="h50a96e4bg143cg1ee2gb4b6g7839146e59ad" version="1">주변 생물에게 두려움을 심어줍니다.</content>
+ <content contentuid="hf6e087d8gd3dfg4ca3g9362ga020920e07ef" version="1">겁에 질림</content>
+ <content contentuid="h1c1794e5gda2eg1f0fgc14fgec8a6f8b5d29" version="1">움직일 수 없습니다. 겁먹은 존재는 능력 판정와 명중 굴림에도 불리 보정을 받습니다.</content>
+ <content contentuid="hd0879462gbdabg9890gfaa4g616b1e6c8374" version="3">두려움의 그림자</content>
+ <content contentuid="h476e2a64g3257g2410gae40g4ada2f4fd2a8" version="3">분노의 그림자</content>
+ <content contentuid="hb0df386dg094fg4382g1cdfg28c151e7ff4d" version="3">절망의 그림자</content>
+ <content contentuid="hdb43b64cg758eg1a62g89f1g692a68b0ae28" version="1">분노의 그림자의 존재 소환</content>
+ <content contentuid="h3b7d1f20g6450ge933g68fag87a7767909d3" version="1">두려움에 질린 생물에 대한 명중 굴림에 유리 보정을 주는 격노의 그림자 영혼을 소환합니다.</content>
+ <content contentuid="h4bd16300g8604gf101g0a6ag1cba6d925b05" version="1">절망의 그림자의 존재 소환</content>
+ <content contentuid="hc12ea166ge57ag17b6ga902g839adbfaacff" version="1">주변의 적을 느리게 만드는 절망의 그림자 영혼을 소환합니다.</content>
+ <content contentuid="h2500a190gcc91g27aaga741ga15e3907c524" version="1">공포의 그림자의 존재 소환</content>
+ <content contentuid="h10fbf35cg9fafga90cgb85eg3ee772d63a0d" version="1">보조 행동으로 희미한 빛이나 어둠 속에 숨을 수 있는 두려움의 그림자 영혼을 소환합니다.</content>
+ <content contentuid="hf8271bcegd785g6835g9eb5gd6b2b6bebb4f" version="1">여러 번의 발톱 공격을 가합니다.</content>
+ <content contentuid="h5adcb7f8gc840g5105g22b4g38bc13021376" version="1">여러 번의 발톱 공격을 가합니다.</content>
+ <content contentuid="h6e8deb0agbe1cgd9e6ge6a3ge427feda512f" version="2">두려움의 그림자</content>
+ <content contentuid="hcc0246c3g3e33gb86cgc553gc0054debe366" version="2">절망의 그림자</content>
+ <content contentuid="h859e3d40g8eefg4836g1481gce27ffc57afe" version="2">분노의 그림자</content>
+ <content contentuid="ha53b06e6gc3e0g1553g3831gafe9b5066a57" version="2">절망의 그림자</content>
+ <content contentuid="h52a43942g91f6gd635g916agcb07ce4a26b1" version="2">두려움의 그림자</content>
+ <content contentuid="hf2b07e57g24ecg8158g9f32g9a2df21d6367" version="2">분노의 그림자</content>
+ <content contentuid="h6a1d0e2dgef8fgeae0gbe7fg26a7e14945c3" version="2">절망의 그림자</content>
+ <content contentuid="h5c1d086aga47agb9f4g8ea5g28e4e0a1c00f" version="2">두려움의 그림자</content>
+ <content contentuid="hb74514bdg2184gd24dg23b3gbd330263204f" version="2">분노의 그림자</content>
+ <content contentuid="hdbdff708g60b1g6af9g723fg5ad600d292c3" version="1">임프 두 마리와 콰짓 두 마리를 소환합니다.</content>
+ <content contentuid="h5863acdbgc540g0b95g5213gf878b2715360" version="1">적을 발톱으로 핥큅니다. 대상은 생명력이 60% 미만이어야 한다.</content>
+ <content contentuid="hfb7663d0g6ae5g88e5g2956gdde05f6d66ce" version="1">다중 공격</content>
+ <content contentuid="h308bdde9g6bd9gc828g7ad8g249dd3e540d9" version="2">불협화음 멜로디 재시전</content>
+ <content contentuid="h72e88cb1g7dc9gb972geaffg29c63d707d76" version="1">요란한 천둥소리로 충격파를 생성합니다.</content>
+ <content contentuid="hf59dc53cgd4b9gf0b0g6adag6ca7782f168a" version="1">불협화음의 멜로디</content>
+ <content contentuid="h1cefa08bg85eeg0ad3g9a29g04ae6c0d7d06" version="1">요란한 천둥소리로 충격파를 생성합니다.</content>
+ <content contentuid="h72cc5522gcf5bg5f1egc70cg3b5e4b96fe3c" version="2">5턴 동안은 추가 주문 슬롯을 소모하지 않고도 불협화음의 멜로디를 다시 사용할 수 있습니다.</content>
+ <content contentuid="h5b87f50ag2520g2ef6gebddg603a1fa9a129" version="1">불협화음의 멜로디</content>
+ <content contentuid="hd13d62acgc395g0a19gac02g2135b0e63a08" version="1">불협화음적인 멜로디를 무료로 연주할 수 있습니다.</content>
+ <content contentuid="h6bac0374gec4egc5f7gaf6fg0786bd923a4d" version="1">불협화음의 멜로디</content>
+ <content contentuid="h51c1917egdf30g7c27g1173g7b38329996dc" version="1">5턴 동안은 추가 주문 슬롯을 소모하지 않고도 불협화음의 멜로디를 다시 사용할 수 있습니다.</content>
+ <content contentuid="he3d3116cg5a53gdd85g07d7ga6ffb2a089d7" version="1">불협화음의 멜로디</content>
+ <content contentuid="h79906a39g6df5gc900ga7eaga89e9e804d67" version="1">5턴 동안은 추가 주문 슬롯을 소모하지 않고도 불협화음의 멜로디를 다시 사용할 수 있습니다.</content>
+ <content contentuid="hb79bf241ge09fg3a44g8bdcgc05668713400" version="1">불협화음의 멜로디</content>
+ <content contentuid="h0b8d13cfg4e52gd7b4g68f4g785528c3540a" version="1">5턴 동안은 추가 주문 슬롯을 소모하지 않고도 불협화음의 멜로디를 다시 사용할 수 있습니다.</content>
+ <content contentuid="h1c2ef37bg8d19g6597g0e62g5c999f39fe63" version="1">5턴 동안은 추가 주문 슬롯을 소모하지 않고도 불협화음의 멜로디를 다시 사용할 수 있습니다.</content>
+ <content contentuid="hf391653fg11c6g9ac9g19b3gf2c4aac585d3" version="1">5턴 동안은 추가 주문 슬롯을 소모하지 않고도 불협화음의 멜로디를 다시 사용할 수 있습니다.</content>
+ <content contentuid="h18bb01f5g62f7gfd6bgfa23g0ea999013c11" version="1">5턴 동안은 추가 주문 슬롯을 소모하지 않고도 불협화음의 멜로디를 다시 사용할 수 있습니다.</content>
+ <content contentuid="h3e1f3dbfg0b18g05d1g313bg741679fbf688" version="1">메스머의 자장가</content>
+ <content contentuid="ha32b409eg4081g5c36g8ce3g37f5fccb96ba" version="3">근처에서 턴을 시작하는 적에게 최면을 걸기 위해 노래를 재생합니다.</content>
+ <content contentuid="h3a5b3c90g8e00g95eege783g1d0d2b1ca589" version="1">메스머의 자장가: 오라</content>
+ <content contentuid="h0d30077fg0bbag6ed8gcbb8g42b784708f2e" version="1">근처 적을 무력화시키는 최면 노래를 재생합니다.</content>
+ <content contentuid="hccc4b73dgf773gd6a9g6475g212b86dff952" version="1">메스머의 자장가</content>
+ <content contentuid="h4a9d9551gb10fg7451g56f1g2960d7d32c16" version="1">이동 속도가 [1]만큼 감소했습니다.</content>
+ <content contentuid="h4a8c73deg788dg12c3g4fd6g6f14c5d50c34" version="1">메스머의 자장가</content>
+ <content contentuid="hc99e6b81g91b1g4bdbgd441gf05f555b6276" version="1">이동하거나 행동, 보조 행동 또는 대응을 취할 수 없습니다. 피해를 입거나 도움을 받으면 제거됩니다.</content>
+ <content contentuid="hd1c6672dg834fg16a3gd4dcg348ca6b3c5a5" version="1">근처에서 턴을 시작하는 적에게 최면을 걸기 위해 노래를 재생합니다.</content>
+ <content contentuid="ha0f3df48ge6d0gbf1bg16f4g15a3957e8968" version="2">메스머의 자장가 면역</content>
+ <content contentuid="hc090e18cg94d3gcddagddf9g7ce423d205c0" version="2">메스머의 자장가의 시전자</content>
+ <content contentuid="h353484b6g5c2cg4aa3g5578g1033c72f64f8" version="3">자장가 소리가 나는 곳 근처에 있으면 최면에 걸렸을 가능성이 있습니다.</content>
+ <content contentuid="h55d0c2b8ga866g4178g01cbg0e369a776bf5" version="1">메스머의 자장가에 면역입니다.</content>
+ <content contentuid="h6f05dc0dgf05eg6298g7facg734b468e06ba" version="1">원소 수여</content>
+ <content contentuid="h687a4edagd7eegf717gd3fcg3d9017121175" version="1">당신이 선택한 원소로 자신을 구현해 면역, 저항 및 기타 원소 능력을 얻으세요.</content>
+ <content contentuid="h4e085fc1gf467g1e4cg3dbfgd50000280002" version="1">얼음의 수여</content>
+ <content contentuid="hb99ef997g435dge485g7ad9g44e2b7d3101c" version="7">몸이 얼음으로 뒤덮입니다.</content>
+ <content contentuid="h225acd6egc59bg809bg4453g32c0a00306e1" version="1">불의 수여</content>
+ <content contentuid="hfdc892aag0debg370dg3a52g2ee9e71b2416" version="4">당신의 몸을 불길 속으로 던져 넣으세요.</content>
+ <content contentuid="hc52b25e5g1d40g828cg8e37g67e8c3a130a2" version="1">바위의 수여</content>
+ <content contentuid="h1c944e23ged87g4afdg2359g1a35f9c2b3d3" version="5">몸을 바위로 감싸세요.</content>
+ <content contentuid="he304288agda7agd773gcebfg8242ffa18f8d" version="1">바람의 수여</content>
+ <content contentuid="h641c6244g9a37ge29fg6c60gce87a02ec6d7" version="5">마법의 바람으로 당신의 몸을 감싸보세요.</content>
+ <content contentuid="h165b4ec6ga4acgb833g8d7cgf3b129543544" version="1">불꽃의 수여</content>
+ <content contentuid="h2e5b94e1g0e20gfbf7g8366g1cf207924c2e" version="4">불꽃에 휩싸입니다. 방어도가 [4] 증가합니다. 화염에 대한 면역과 냉기에 대한 저항을 얻습니다. 추가 이동을 소모하지 않고도 험난한 지형을 이동할 수 있으며 엎드리지 않습니다. [1] 내의 적에게 [2]의 피해를 입힙니다.[3]의 피해를 입히는 화선을 폭발시키는 능력을 얻습니다.</content>
+ <content contentuid="h40ce6dbfg4587g59f8g5c32g43d32316883b" version="1">불꽃의 수여</content>
+ <content contentuid="habb8cda7g0aa9g101dg8d2bgb3d3fcf9523f" version="1">불꽃에 휩싸입니다. 화염에 대한 면역과 냉기에 대한 저항을 얻습니다.내부의 적에게 [1]만큼의 피해를 입힙니다.화염을 폭발시켜 [3]만큼의 피해를 입힙니다.</content>
+ <content contentuid="h6f875938gbec0gcbe1gdd39gc818c2092b51" version="1">턴당 [1] 소모. 해당 지역을 벗어나면 제거됩니다.</content>
+ <content contentuid="h9e564379g1c60gff56g0a5bgb251258162c5" version="2">화염 폭발</content>
+ <content contentuid="hb56f6743g4c31gd360gf8deg48e433ec7ca1" version="1">적을 [1] 동안 태우는 화염의 줄기를 소환합니다.</content>
+ <content contentuid="h8f774321gc58egd77dgcb38gaf6a6d8e206b" version="1">얼음의 수여</content>
+ <content contentuid="h1c0d84a0geb9dg0fd7g0390gad05d8e20549" version="4">얼음으로 덮습니다.방어도가 [3] 증가합니다. 추위에 대한 면역과 화염에 대한 저항을 얻습니다. 추가 이동을 소모하지 않고도 험난한 지형을 이동할 수 있으며 엎드려 쓰러지지 않습니다. 각 턴이 끝날 때마다 반경 [1]에 얼음 표면을 생성합니다.[2]의 피해를 입히는 얼어붙는 바람을 불러일으킬 수 있는 능력을 얻습니다.</content>
+ <content contentuid="hd79657adg74e2g37fdg484ag367bdc62682e" version="2">바위의 수여</content>
+ <content contentuid="hec7d1eb0g3c42g7b15ge5c4gaccb4b0e7f75" version="3">돌에 싸여 있습니다.방어도가 [2] 증가합니다. 비마법 무기로 인한 타격, 관통, 참격 피해에 대한 저항을 얻습니다. 추가 이동을 소모하지 않고도 험난한 지형을 이동할 수 있으며 엎드려 쓰러지지 않습니다. [1]만큼 땅을 내리칠 수 있는 능력을 얻고 근처 생물을 엎드려 넘어뜨릴 수 있습니다.</content>
+ <content contentuid="h6c406088gf1bdga16eg8a08g81afc8d1d65b" version="1">바람의 수여</content>
+ <content contentuid="h4956ff90ge9cbg732ega610gc8c4f67fcb10" version="3">마법의 바람으로 몸을 감싼다.방어도가 [3] 증가합니다. 원거리 무기 공격은 불리한 위치에 있습니다. 추가 이동을 소모하지 않고도 험난한 지형을 이동할 수 있으며 엎드려 쓰러지지 않습니다. 날 수 있는 능력을 얻습니다.적을 밀어내고 [2]의 피해를 입히는 능력을 얻습니다.</content>
+ <content contentuid="hae3b82b9gc4aege58fg919ag56de2f94d3ad" version="1">얼음 파동</content>
+ <content contentuid="h0d3bf560g2d65gfcdfg2b23gb9297efb1ff2" version="1">손에서 얼어붙을 듯한 차가운 공기가 분출됩니다.</content>
+ <content contentuid="h0fda73a8g872fg438eg3425gcaad8c63d970" version="2">바위 쐐기 파동</content>
+ <content contentuid="h4a7dc828g0191gdc59gfe1bg11f4c8d60ad0" version="1">땅을 가르고 주변 생물을 넘어뜨릴 수 있습니다.</content>
+ <content contentuid="h2dde9760gc9c2g1b68g770cgda56cf1a9e43" version="1">바람 파동</content>
+ <content contentuid="h6b2acd51g525eg75c3gf01dg0803d8e480ac" version="1">공기 폭발로 적을 밀어냅니다.</content>
+ <content contentuid="hd3ce3ae5gdf55g7a59g398cg89a7c8b0711d" version="1">바람 파동</content>
+ <content contentuid="h6fbc97a9ga4f8gd1e5ga5f8gf11afb08f9e7" version="1">공기 폭발로 적을 밀어냅니다.</content>
+ <content contentuid="h4d45db6bgca8agff52gdcd2g5121c221de00" version="1">원소 수여: 얼음 오라</content>
+ <content contentuid="h7d440199g5634gd024g4b6cgf00be935feca" version="2">각 턴이 끝날 때마다 얼음 표면을 만듭니다.</content>
+ <content contentuid="h17052f0bgd1a7g2050ge5bfg2d6654f8420e" version="1">텐서의 변형</content>
+ <content contentuid="hf47f1331gb878ga72fg6304gb8c985fb0081" version="5">완벽한 전사로 변신합니다.</content>
+ <content contentuid="h8e1d0471ge3c5g63e1g18c3g27b1c90e28ca" version="1">텐서의 변형</content>
+ <content contentuid="hb8597edcg7daaga7b4gf0bbgd038d12af9af" version="1">[1] 얻습니다. 무기 명중 굴림에 유리 보정을 얻습니다. 무기 공격은 추가로 [2]를 입힙니다. 비무장 또는 무기 공격을 한 후 추가 공격을 할 수 있습니다. 두 개 이상의 직업에서 추가 공격 기능을 얻은 경우 합산되지 않습니다. 모든 무기, 갑옷 및 방패에 대한 숙련를 얻습니다. 근력과 건강 내성 굴림에 유리 보정을 얻습니다.</content>
+ <content contentuid="h2800a2degdd3dg3e3ag1113g635fd0da55df" version="1">텐서의 변형: 변신술</content>
+ <content contentuid="ha31b6865g265dg0e36g2248g7d17d6aa8e64" version="2">방어도가 [1] 증가합니다. 이동 속도가 [2] 증가합니다. 운동 및 곡예에 숙련됩니다.</content>
+ <content contentuid="h1aa5deb7g55c6g0776g79ebgc319e77d3098" version="3">변신술을 익힌 변신 마법사는 이 주문을 시전할 때 추가 효과를 얻습니다. 조건이 끝나면 난이도 15 건강 판정에 통과하지 못하면 무기력증에 걸립니다.</content>
+ <content contentuid="h8bf69686ge218g4c84gfa8fg5e44a26f223e" version="2">주문을 시전할 수 없습니다.[1]를 얻습니다.무기 공격은 명중 굴림에 유리 보정을 얻고 추가로 [2]를 입힙니다.무장 또는 무기 공격을 한 후 추가 공격을 할 수 있습니다. 이 추가 공격은 다른 원천과 중첩되지 않습니다. 모든 무기, 갑옷 및 방패에 대한 숙련를 얻습니다. 근력과 건강 내성 굴림에서 유리 보정을 얻습니다.</content>
+ <content contentuid="ha3e8acc7g875cg0912gb19eg66c13c1efd58" version="1">진시야</content>
+ <content contentuid="hdd6bad06g35beg1b6eg20adgb4f7d8f99b4f" version="1">대상이 [1] 안에 있는 모든 것을 실제 그대로 볼 수 있도록 합니다. 또한 기만 판정에 +20 보너스를 얻습니다.</content>
+ <content contentuid="he330aca3g3716gd2d6g61ccgd64e997f9aeb" version="1">진시야</content>
+ <content contentuid="h391d7b66gf4c8g1638g8449gdb5916e53058" version="1">[1] 내부의 모든 것을 실제 그대로 볼 수 있습니다. 기만 판정에 +20 보너스를 얻습니다.</content>
+ <content contentuid="hca8b503bg43c3ga43bgefa2g72871eaed8e9" version="1">꿰뚫어봄</content>
+ <content contentuid="hddd4d4b2gd227g0b2cg3008g0d485f7466f8" version="1">%%% 비어 있는</content>
+ <content contentuid="h7ca26edfga6a0gff6bgf909g55e948865cc9" version="1">밝혀짐</content>
+ <content contentuid="hc0b38e65g0210g4e9egcc68g68f9afe591d5" version="2">영향을 받은 개체는 진시야 효과로 인해 투명화 능력을 잃었습니다.</content>
+ <content contentuid="h75a01b08g1d66g9792ge9bdgb9fd949c7636" version="1">정신 파쇄</content>
+ <content contentuid="hce6ed758gce69g09bag9736g3ca0fcd446a4" version="1">생물의 정신에 과부하를 줍니다.</content>
+ <content contentuid="hafc6547eg10eeg1123gd430gd53d835ac67a" version="2">정신 파쇄</content>
+ <content contentuid="h7dd63474ga439g9411gf3ffgb2abc9f77984" version="2">이동하거나 행동, 보조 행동 또는 대응을 취할 수 없습니다. 각 턴의 끝에 지능 내성 굴림를 성공하면 제거됩니다.</content>
+ <content contentuid="h22b61442gc953g43ecge9d0g64e3a3dce337" version="2">하급 재생</content>
+ <content contentuid="h5d3b9b05gcebagc83fgbfbag45ed1b2f952b" version="2">대상은 최근에 산성 또는 화염 피해를 입지 않은 한, 각 턴 시작 시 지속적으로 [1]를 회복합니다.</content>
+ <content contentuid="h17dc2be3ge338gf0e7g93c2g22ddb103d3cc" version="1">하급 재생</content>
+ <content contentuid="h61b91cccgc7fag4a46g88fcg343c29491910" version="2">최근에 산성 또는 화염 피해를 입지 않은 한, 각 턴 시작 시 [1]를 회복합니다.</content>
+ <content contentuid="h16bd545bgab15g92aegc939g12e71802b4a7" version="1">하위 재생 불가능</content>
+ <content contentuid="h9cc9b5c3gc134g8bb7ge80egada4bdaf8643" version="2">산성 또는 화염 피해를 입었으며 다음 턴이 시작될 때 재생되지 않습니다. </content>
+ <content contentuid="hd85f5883g177ag3c13ge7dcgf9fefe2a04c6" version="2">하급 재생</content>
+ <content contentuid="hb5e200feg4629g2042g1a2agcb3a941bd1ec" version="5">캠비온</content>
+ <content contentuid="h1bfbb89ag5f81gfb76gc2e6g6464d58a0300" version="2">지옥의 통제</content>
+ <content contentuid="h7bfd24fdg1633g2988gf727gb6732efd0d23" version="1">무기 공격은 추가로 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h797d335eg1915gf33cgaeecgc97e8bbfa4fb" version="1">당신과 함께 싸울 사악한 캠비온을 소환합니다. 그것은 악마의 매력, 배수하는 키스, 불의 광선을 시전할 수 있습니다.</content>
+ <content contentuid="h2fb0a4f6ge240g4addgc55dg98a0eaf54d54" version="1">이차원인 동료: 캠비온</content>
+ <content contentuid="h8bc77a9dg072bg7e2eg9516g5f093db9a93f" version="2">사악한 캠비온을 소환하여 당신과 함께 싸우게 합니다. 악마의 매력, 배수의 키스, 불의 광선을 시전할 수 있습니다.</content>
+ <content contentuid="h1e15e44cg10e5gbf4ag996egb71514c0dee4" version="1">지옥의 부름</content>
+ <content contentuid="h8cafdbe4gdf73g4388gf29bg1b86e59eb735" version="3">10턴이 지나면 캠비온은 매 턴 지혜 내성 굴림에 성공해야 하며, 실패하면 모든 사람에게 적대적이 됩니다.</content>
+ <content contentuid="h8ebc14fdge6cfg3b45ga0ccgb865460978ff" version="4">캠비온</content>
+ <content contentuid="h62171aa6g1a97g8eabgfcecgeac6453bdefc" version="2">지옥의 통제</content>
+ <content contentuid="h2b5605e6g9cb0g1bb3ga66cg3c6d0613e1bb" version="2">10턴이 지나면 해당 개체는 매 턴 지혜 내성 굴림에 성공해야 하며, 실패하면 모든 사람에게 적대적인 태도를 취하게 됩니다.</content>
+ <content contentuid="h26fe5510g5ef4g0a57g6451gaeee60979ffa" version="1">지옥의 통제</content>
+ <content contentuid="h3ec1fc1eg184ag3664geceage4b0f4ee365c" version="1">개체는 매 턴 지혜 내성 굴림에 통과해야 하며, 통과하지 못하면 모든 사람에게 적대적인 태도를 취하게 됩니다.</content>
+ <content contentuid="hfcb9042eg58daga884gf729gc284d60d066f" version="1">지옥의 적대감</content>
+ <content contentuid="he7a9df0cgad96gbaceg62ccg163ded1b1086" version="1">해당 개체는 모든 사람에게 적대적입니다.</content>
+ <content contentuid="h0fcbaf3eg5d01g9eebg1070g406a6c24fd03" version="1">기체 형태 해제</content>
+ <content contentuid="h10a2bfb5g3441g9be8g3201g281cd5074b2a" version="1">기체 상태를 해제하고 원래 모습으로 돌아갑니다.</content>
+ <content contentuid="h5513d9f7g16dbge242g0a5ege9ccc9b1b406" version="1">텐서의 변형을 해제하다</content>
+ <content contentuid="hba3360f9g5731gb5b0g4e81g5e4427712af1" version="1">텐서의 변형을 해제하고 원래 모습으로 돌아갑니다.</content>
+ <content contentuid="h2d48a856g951egc027g8eb8g72ef32e30cba" version="1">페이 생물을 소환합니다.</content>
+ <content contentuid="h6c8023c5g0b4ag1d8dge28dg7cea49d99996" version="1">페이 소환</content>
+ <content contentuid="h07b759c8g3a12g900agb48agf92c09676ef6" version="2">황혼의 해그를 소환합니다. 꿈, 수면, 최면 문양, 악몽의 손길를 시전할 수 있습니다. 주문 저항을 얻습니다.</content>
+ <content contentuid="hab2df0f1g8e80gb997gd935g8c71d4a880ee" version="2">페이 소환: 황혼의 해그</content>
+ <content contentuid="heb7a7acbg8fdag41c4gaa69g2ef72f1a9fe4" version="1">잠</content>
+ <content contentuid="h3f75e57ag743aged9fgd391g25d2c048d880" version="1">생물을 마법의 잠에 빠뜨립니다. 최대 [1]개의 합산된 대상을 선택합니다.</content>
+ <content contentuid="hf74d49b5gf47cgfbc4g479cg0043497d0ecc" version="1">꿈</content>
+ <content contentuid="hf532f8c9ga59fg1511g334fg2aef34146ffd" version="1">대상의 마음을 강타하여 마법의 잠에 빠지게 합니다.</content>
+ <content contentuid="h2ca2736fgc159g9787geac8g337034f77adc" version="1">최면 문양</content>
+ <content contentuid="h69e8235dgb21cgea34g51aagf51f91cdde9e" version="1">문양을 볼 수 있는 생물을 최면에 걸리게 합니다. 그들은 당신을 공격할 수 없습니다. 그들은 움직이거나 행동할 수 없습니다.</content>
+ <content contentuid="h6fb48a87gdb15g8f0eg16f4g949040f05688" version="1">이 주문은 침묵 상태일 때도 시전할 수 있습니다.</content>
+ <content contentuid="h86e78bd9g5aa8gcf0fgb7fag70a0d346f9d3" version="1">악몽의 손길</content>
+ <content contentuid="hb8cc04d3geea4g721fg7ee7g1c0a19c1f516" version="2">적에게 악몽을 심어줍니다. 의식을 잃은 대상은 추가로 [1]를 소모합니다.</content>
+ <content contentuid="hfe786f77g0363g5f93g0587ge5eb249d6230" version="4">황혼의 마녀</content>
+ <content contentuid="hb6dc8a58g20bdge705geeedga4944ff9f804" version="1">다중 공격</content>
+ <content contentuid="h5b58d75eg093cg98abg7575g1ce40204cd35" version="2">적에게 여러 악몽을 심어줍니다. 의식을 잃은 대상은 추가로 [1]를 소모합니다.</content>
+ <content contentuid="h0aa02bafg32e1g9927g329fgc77ddf87383b" version="1">상처 벌리기</content>
+ <content contentuid="h0ef249fagb196gdc4bg5978g0f509e25bb9a" version="1">생물의 살을 찢어 피를 흘리게 합니다.</content>
+ <content contentuid="h8054bcdbgc98bg7f31g5a50gb0aa99713074" version="1">집요한 추격</content>
+ <content contentuid="hd9b3bbb9gab19g8195g22d1g38a4777c5630" version="1">대상을 [1] 뒤로 밀어내고 넘어뜨리리는 날아차기를 수행합니다.</content>
+ <content contentuid="hc2ec6d75g32a3g1037g4d43g69fcb7397222" version="5">상급 레드캡</content>
+ <content contentuid="h3fe9d530gfecag820bg4cbag664b16c6296c" version="3">상급 레드캡을 소환합니다. 상처 벌리기, 붉은 모자, 집요한 추격을 시전할 수 있습니다.</content>
+ <content contentuid="h66ecfad8gf782g85d7gdec5g123ca8b6aa7c" version="2">페이 소환: 상급 레드캡</content>
+ <content contentuid="he8986b59gb870g91c0g8a48g6a56f6717f30" version="1">붉은 모자</content>
+ <content contentuid="h7ee3bbfdge9e6gcfe7g4831gc3e0caf43f82" version="3">명중 굴림에 +[1] 보너스를 얻고 추가로 [2]를 입힙니다. 치명타를 가하면 [3]을 회복합니다.</content>
+ <content contentuid="hb8bf1111gcabcge1cbg9503g313ff6297da2" version="1">붉은 모자</content>
+ <content contentuid="h04e9094egc89dg4194gb4f2g9beeb26754ea" version="1">출혈 중인 대상의 피에 모자를 담가 레드캡의 힘을 강화합니다.</content>
+ <content contentuid="h228c4939g11dag184ag47b1gcff11321114c" version="1">붉은 모자</content>
+ <content contentuid="h27f1071bg4a06g483dg8479gdd23389fabe6" version="1">집요한 추격</content>
+ <content contentuid="he7d5342ag2cddg0484ge2ebg65fd2672e14c" version="1">대상을 뒤로 밀어내고[1] 넘어뜨리는 날아차기를 수행합니다.</content>
+ <content contentuid="h42775adfg2e3eg833ag750fg6d8c2772aaf1" version="1">붉은 모자</content>
+ <content contentuid="h7c3459e9gf67egca0eg4bd3g1cacc862c2f6" version="1">환영 무기</content>
+ <content contentuid="hcc19959bga6dfg95d8g5746g0c07a4c05898" version="4">아군의 무기를 환영 무기로 바꿉니다.</content>
+ <content contentuid="hd03c9df3gc596g7349g0566g336b3a8d4195" version="2">환영 학파 위저드는 이 주문을 시전할 때 추가 효과를 얻습니다. 이 주문을 시전하는 동안은 은신 상태를 유지할 수 있습니다. 침묵 상태인 동안에도 이 주문을 시전할 수 있습니다.</content>
+ <content contentuid="he07f6df6g236cg2bd5g7291ga69bc55ecc9f" version="1">환영 무기</content>
+ <content contentuid="h7ee61842g9136g0df3gfc42g0438e550ca79" version="4">이 무기는 무장 해제될 수 없습니다. 환영에 감싸일 때, 명중 굴림에 유리 보정을 제공하고 치명타에 필요한 굴림을 1만큼 줄입니다. 명중 굴림에 실패하면 무기가 보이게 되고 명중 굴림 보너스를 잃습니다.</content>
+ <content contentuid="hc7d1e182gf32fg04acg56edga097cce4cb9f" version="1">환영 무기</content>
+ <content contentuid="ha358f7c5g894bg0f9dgeb29g90deac8adb13" version="3">이 무기는 장착 시 환영에 감싸집니다. 명중 굴림에 실패하면 1라운드 동안 이 속성을 잃습니다.</content>
+ <content contentuid="h4046e091gd8c3g7bf5g358cg7989f2cf39b7" version="2">환영 무기</content>
+ <content contentuid="h8fd5f5e6g0328g8cd8ga84bgc0f6c7cb2415" version="1">영향을 받은 개체는 무장 해제될 수 없습니다. 명중 굴림에 유리 보정이 있습니다. [1]를 굴리면 치명타를 기록합니다.</content>
+ <content contentuid="hd87c5837gded2g3a92g7b4fge503f8579fc6" version="2">환영이 깨지다</content>
+ <content contentuid="h001b46cega106g6972g04a4g049bc93b29f3" version="4">다음 턴이 시작될 때까지 당신의 무기는 더 이상 환영에 감싸여 있지 않습니다. </content>
+ <content contentuid="hdab64899g6d25ge1dcgdb42g3f68a933e288" version="1">영향을 받은 개체는 명중 굴림에 유리 보정을 받으며, 치명타에 필요한 굴림이 1만큼 감소합니다.</content>
+ <content contentuid="h23957449gfa04g297age940gf605209e0b22" version="1">영향을 받은 개체는 무장 해제할 수 없고, 명중 굴림에 유리 보정을 받으며, 치명타에 필요한 굴림이 1만큼 감소합니다.</content>
+ <content contentuid="hb729c050g403dg965eg214bgf53f4d4ad56d" version="1">이 무기는 해제할 수 없고, 명중 굴림에 유리 보정을 제공하며, 치명타에 필요한 굴림을 1만큼 줄여줍니다.</content>
+ <content contentuid="hd8feb05agc0bbga929ge321gc0d104c241c3" version="2">이 무기는 해제할 수 없습니다. 환영에 감싸일 때, 명중 굴림에 유리 보정을 제공하고 치명타에 필요한 굴림을 1만큼 줄입니다. 명중 굴림에 실패하면 무기가 보이게 되고 보너스를 잃습니다.</content>
+ <content contentuid="hcaad76d2ga298gdc01ga46fgc68ca186d131" version="1">환영 무기: 환영 학파</content>
+ <content contentuid="h4f18a3dbg423cg1a2ag3c76gda0212a09f1e" version="1">환영에 감싸일 때, 보너스 [1]를 제공합니다.</content>
+ <content contentuid="h49d915b2g6961g9381gf7ebg3e692f64ffe6" version="1">환영 무기</content>
+ <content contentuid="h8c0b2775g660aga546g9690gcbc1a288afa7" version="1">이 무기는 장착 시 환영에 감싸입니다. 명중 굴림에 실패하면 1라운드 동안 이 속성을 잃습니다.</content>
+ <content contentuid="h20e5ee78g1bffg183bgc0f9gd4afa4d20cfa" version="1">환영 무기</content>
+ <content contentuid="hd747abddgff0dgc3b9ge37cg7661fc661717" version="1">이 무기는 해제할 수 없습니다. 환영에 감싸일 때, 명중 굴림에 유리 보정을 제공하고 치명타에 필요한 굴림을 1만큼 줄입니다. 명중 굴림에 실패하면 무기가 보이게 되고 명중 굴림 보너스를 잃습니다.</content>
+ <content contentuid="hd1c424daga41cgf989g2decga457c3732909" version="1">불꽃 놀이</content>
+ <content contentuid="hc8bec32fg2a9bgf60bgd046g6c16a5b94442" version="1">불꽃 놀이</content>
+ <content contentuid="h0341fe63g410cg1bbcgc097gb6977f9223c8" version="1">불꽃 놀이</content>
+ <content contentuid="h4711ed35gaef0g548eg1d0agc50b9a068d71" version="1">불꽃 놀이</content>
+ <content contentuid="h988c68abg47a6g99f0gd796g4a544c228e40" version="1">역장 무기</content>
+ <content contentuid="h75db7b91gaf55ga8ddg6047g98c77ae1d2ea" version="1">무기에 비전의 힘을 주입합니다. 무기가 마법으로 바뀌어 공격과 피해 굴림에 +[1] 보너스를 받고 보너스 [2]를 입힙니다.</content>
+ <content contentuid="hc49016b4gc1e7gd3bcg60f4g094f64e4748f" version="1">역장 무기</content>
+ <content contentuid="hb58f3ca7gba22g844ag784dg253bd1a58e85" version="1">무기가 마법적이 되어 명중 및 피해 굴림에 +[1] 보너스를 받고 보너스 [2]를 입힙니다.</content>
+ <content contentuid="h6af979c7g4405gca5cge5f0gd68214e82c8f" version="1">맹신</content>
+ <content contentuid="haf433cecg28c2g97e8g9d12gbeef32e16338" version="4">신에 대한 경의의 표시로, 당신은 기꺼이 자신을 눈멀게 합니다. 그 대가로, 당신은 무기 공격에 추가로 [1]의 피해를 입히고 [3] 안에 있는 아군을 [2]만큼 치유하는 신성한 축복을 받습니다.</content>
+ <content contentuid="h43f64805g7216g6bbag7d3cg0d1dfb2f09e8" version="1">맹신</content>
+ <content contentuid="h39f74cf4g71f7gb733g31ddg5deea2fe2dfe" version="4">명중 굴림에 불리 보정을 받습니다. 공격과 주문의 범위가 [4]로 감소합니다. 실명한 생물에 대한 명중 굴림에는 유리 보정을 받습니다. 무기 공격은 추가로 [1]의 피해를 입히고 [3] 범위 내의 아군을 [2]만큼 치료합니다.</content>
+ <content contentuid="hc5d8aa96ga638g0e10ga36cgb42547bfd78a" version="1">신성한 일격: 광휘 (원거리)</content>
+ <content contentuid="h1ee39ea3g0601g86e7gee8fgc54af9f05b14" version="1">추가로 [1]를 입힙니다.</content>
+ <content contentuid="h26b5f950g18fbg1b91g239cgb939ccf8e51b" version="1">신성한 일격: 광휘 (원거리)</content>
+ <content contentuid="hc8331bc2g473cg2e5fg58e2g5866eaaad5f7" version="1">추가로 [1]를 입힙니다.</content>
+ <content contentuid="h8677e009gb24ag5167g740cg2460a7bc0f80" version="1">맹신</content>
+ <content contentuid="h2d97434bg57a8gd411g6c40gbd0ba8bb6d5f" version="1">[3] 범위 내의 아군을 [2]만큼 치유합니다.</content>
+ <content contentuid="h56757976g16afg9262g8b49g544a8a0ebde7" version="1">맹신</content>
+ <content contentuid="h8f359373g13e4g39d4gb990g24451b2c9c72" version="1">녹색 불꽃의 검</content>
+ <content contentuid="he1aa7370g495bg325aga66dg9996a0793305" version="1">녹색 불꽃의 검(1회)</content>
+ <content contentuid="ha2a87805g5eecg1913ge58dg74e7c81517b0" version="2">행동당 녹색 불꽃의 검를 한 번만 사용할 수 있습니다.</content>
+ <content contentuid="he2ce3ff3g6f09gf934g18e4g98014d0fa122" version="1">울리는 검(1회)</content>
+ <content contentuid="h3e81ef1ag5844g7ea3g0b5cgd369ee7246d5" version="2">행동당 1번만 울리는 검를 사용할 수 있습니다.</content>
+ <content contentuid="hf048f5d1g28c8ge1f0gd963gb03a24a7671e" version="1">%%% 비어 있는</content>
+ <content contentuid="h65e7702fgb752g5f5cg83feg48d19bcb4b11" version="1">이 대응은 치명타가 발생할 때 발생합니다.</content>
+ <content contentuid="h47765148g910dg649eg5776g467e25c1575e" version="1">이 대응은 치명타가 발생할 때 발생합니다.</content>
+ <content contentuid="hd8506ee2g97dbgde66g5c03gecfdb28645f0" version="1">공격 소마법(1회)</content>
+ <content contentuid="hfce2f1e9g150bgeb3bg556agb20c4acac483" version="2">행동당 1번만 울리는 검이나 녹색 불꽃의 검 주문을 사용할 수 있습니다.</content>
+ <content contentuid="h008a6b1ag3cdbg3e4bga14agb124a5a131a1" version="1">공격 주문은 추가 공격과 중복되지 않으며 행동당 한 번만 시전할 수 있습니다. 이 주문은 침묵 상태인 동안에도 시전할 수 있습니다.</content>
+ <content contentuid="h6e9424acg0af8g2f32g7d43g95e26be22225" version="1">혼돈의 화살</content>
+ <content contentuid="h8b1d7cb9ge767g84cag37dbg5828ea8bbb7f" version="1">무작위 피해 유형이 주입된 혼란스러운 에너지 화살을 발사합니다. 천둥은 [1]의 피해를 입히고 다른 모든 유형은 추가 효과가 있으며 [2]의 피해를 입힙니다.</content>
+ <content contentuid="h4623f3c3g7028ge444g8c41gbb99537aba3a" version="1">1.5%의 확률로 혼돈의 화살을 무료로 다시 시전할 수 있습니다.</content>
+ <content contentuid="ha673b1cfg1d91gc022g2d9bgb6b4f6090064" version="1">혼돈의 화살: 산</content>
+ <content contentuid="hf0f39debgf16cgc3fdg32e6gb83af38518ea" version="1">혼돈스러운 부식성 에너지 화살을 발사합니다. 충격 시 산성 표면을 생성합니다.</content>
+ <content contentuid="h816e41c4gf7f4g5139g1427gd3830e529b46" version="3">혼돈의 화살: 산</content>
+ <content contentuid="h1da20aeag5987g52f4gcc71ga1af76d8908a" version="1">혼돈의 화살: 냉기</content>
+ <content contentuid="h6e78e1a5ga976gdd96g20e7g27f8daf2a304" version="1">얼어붙는 에너지의 혼란스러운 화살을 발사합니다. 생물을 넘어뜨리는 얼음 표면을 생성합니다.</content>
+ <content contentuid="he90b7b79ge087gb5b3g045fg4a7fb591845d" version="1">혼돈의 화살: 화염</content>
+ <content contentuid="h93305d47g4482g6c7ag1987g38de697a44af" version="1">불타오르는 에너지의 혼란스러운 화살을 발사합니다. 충격 시 불타는 표면을 생성합니다.</content>
+ <content contentuid="h7c6f55fbga136g11adg58fbg592fff947706" version="1">혼돈의 화살: 역장</content>
+ <content contentuid="hc2315dfcg5aaag1148gd39dgc0699f809152" version="1">강력한 에너지의 혼란스러운 화살을 발사합니다. 대상을 뒤로 밀어낼 수 있습니다.[1]</content>
+ <content contentuid="hc575b67cgc912g40d3ga7eeg8bdcabc773c1" version="2">혼돈의 화살: 냉기</content>
+ <content contentuid="h1b1953fbgb721gf887g01fage70df5842107" version="2">혼돈의 화살: 화염</content>
+ <content contentuid="ha5623871g3016g44fcg4983g4cb2fa3379bb" version="2">혼돈의 화살: 역장</content>
+ <content contentuid="h28395d41gc311ge684gaf90g35f21cc74014" version="2">혼돈의 화살: 번개</content>
+ <content contentuid="h6358aa01gebcbg03ccg7ef2g62a6d51f300b" version="1">혼돈의 화살: 번개</content>
+ <content contentuid="hdef05f42g0ce8g84ceg266cg56ed52c9765e" version="1">혼돈의 화살: 독</content>
+ <content contentuid="hcba2b463g558cg9cc6g9b30g33de0bbc7f45" version="1">혼돈스러운 번개 에너지를 던집니다. 충격 시 전기 표면을 생성합니다.</content>
+ <content contentuid="he553f189gb0dcg595cg81fdge6e6bad508bf" version="1">혼돈의 화살: 독</content>
+ <content contentuid="h39ad4394gf2c6ga9a3g552eg7dfd685c3b2c" version="1">독이 있는 에너지의 혼란스러운 화살을 발사합니다. 생물을 중독시킬 수 있는 거품이 나는 표면을 생성합니다.</content>
+ <content contentuid="h77f3a8b0g2206g1f4fga99bga6ee8fa368bc" version="1">혼돈의 화살: 정신</content>
+ <content contentuid="hcce41d39g21fag6f03g3752g23d7d423accc" version="1">혼돈스러운 정신 에너지의 화살을 발사합니다. 아마도 그들을 미치게 만들 것이다.</content>
+ <content contentuid="h03be6fa9g4309gf6fdg1c3bge2be3439547d" version="1">혼돈의 화살: 정신</content>
+ <content contentuid="hb5da0d6ag56b4ge164gdb61gb92dd83a80e6" version="1">혼돈의 화살: 천둥</content>
+ <content contentuid="h88cb6c10gab81ge22eg8e01g71da45ccf962" version="1">혼돈의 화살: 천둥</content>
+ <content contentuid="h560fea44g1644gdba6gd6e3g920c7616d6b8" version="1">혼돈스럽고 우레와 같은 에너지의 화살을 던지세요.</content>
+ <content contentuid="h709cff7cg677cgfd63g4257ge34fdc8ae837" version="1">혼돈의 화살 재시전</content>
+ <content contentuid="h7b4c53a5g3751g82ddg50d1g9725aed9975b" version="1">혼돈의 화살 재시전</content>
+ <content contentuid="hb7321e5bg0a98g24b6g4cd5g4965b1d7e964" version="1">혼돈의 화살을 비용 없이 시전할 수 있습니다.</content>
+ <content contentuid="ha16d9e29g165ag17ecgd137g26ae772a10b8" version="1">혼돈의 화살 재시전</content>
+ <content contentuid="hde8efdb1geddbg7201g8a52g79a2672f7bbf" version="1">혼돈의 화살 재시전</content>
+ <content contentuid="h0eb1166ag9910g2a6bg65daga21edf2b7884" version="1">혼돈의 화살 재시전</content>
+ <content contentuid="h127d8d7dg6b5bg284eg0e31g7493b6a7ac7c" version="1">혼돈의 화살 재시전</content>
+ <content contentuid="h967d68b0gd809g9e03ga51cg1a2d9f88d051" version="1">혼돈의 화살 재시전</content>
+ <content contentuid="h056b8501gea92gea02g82fag62723379cf82" version="1">인공물 소환</content>
+ <content contentuid="hb9d8aa00gc479gd21fg514fg19e6f415ef59" version="1">진흙, 금속, 바위로 만들어진 인공물을 소환합니다.</content>
+ <content contentuid="h23e82b2bg3f6dg9d99g3017g63986ed386a7" version="1">진흙 인공물 소환</content>
+ <content contentuid="h212971ccg0cb5g92f2g0c1fgfcfa0c93fc48" version="1">보조 행동으로 희미한 빛이나 어둠 속에 숨을 수 있는 두려움의 그림자 영혼을 소환합니다.</content>
+ <content contentuid="hd5f547d2gabbagf30age9d2gd79ba80698c7" version="1">후려치기</content>
+ <content contentuid="h768c77abg4918g8a2eg9038g677440f4d842" version="1">목표물을 후려칩니다.</content>
+ <content contentuid="hf300e359g002ag8263g7038gd22104ee5fc2" version="1">광포한 후려치기</content>
+ <content contentuid="h9ef2cfa2gcb36ga817g8a90g9589a502e8b1" version="8">근처에 있는 생명체에게 피해를 입으면, 후려치기로 반격하고 광폭화 속도를 얻습니다.</content>
+ <content contentuid="hf5fde820g3979g474eg64ecg030d9fceff0c" version="1">진흙 골렘</content>
+ <content contentuid="h09828749g7122g696aga4fcgf3aa2502cbf3" version="7">진흙 골렘</content>
+ <content contentuid="he6e369d7g0318g49afgb5dcge33ec1a37b7c" version="1">바위 인공물 소환</content>
+ <content contentuid="h59b36463g5e96g166agc5d2g2dfc40cc808e" version="1">금속 인공물 소환</content>
+ <content contentuid="hc8e2394eg2a13gd41fg0403g0e006e08dfd4" version="1">광포한 후려치기</content>
+ <content contentuid="he475c8d5g9495gb7e9g67a4g62e73795f395" version="2">근처에 있는 생물에게 피해를 입으면, 후려치기로 반격합니다.</content>
+ <content contentuid="h63da3c03gf8a0ga872g3377gee91102f0fac" version="2">가열된 몸</content>
+ <content contentuid="h093be3bdge46bge408g7148g1ddcfc7d79c3" version="3">근처 생물이 근접 공격을 하면 [1]의 피해를 입힙니다.</content>
+ <content contentuid="h541ab0e6g0265g32d3g6114g8790f0cef950" version="4">금속 골렘</content>
+ <content contentuid="h4cd743a0g6e01g5c9ag18bdg9970ca7a9d4e" version="5">바위 골렘</content>
+ <content contentuid="h93c8cc88ga4cfg21d2g1926g955e0df80b3b" version="1">가열된 몸</content>
+ <content contentuid="h5255e695g3cedg312dgf582g2952a4792f75" version="1">바위의 무기력함</content>
+ <content contentuid="h23867557gcf95g0f15g71c3g43e30293b454" version="1">인공물 근처에서 턴을 시작하는 적은 대응 능력을 잃고 속도가 절반으로 줄어듭니다.</content>
+ <content contentuid="hba3eba2eg03c9gb0b5ga772ge59d6a81741a" version="1">바위의 무기력함</content>
+ <content contentuid="h39b68b4ag55b2gb2efg5a7fge69255dc8b10" version="2">대응을 취할 수 없으며 이동 속도가 절반으로 줄어듭니다.</content>
+ <content contentuid="h3dc318aeg5a72gdcabg6947gc01cc6b744fe" version="1">바위 무기력함: 오라</content>
+ <content contentuid="h39b8c4ecgca27g1064g69e1g1eac454427e5" version="3">[1] 내의 적에게 바위 무기력함 축적 효과가 적용됩니다.</content>
+ <content contentuid="h706c9c9eg56f7g9c32g3704g90bbc36b973a" version="1">바위 무기력증 축적</content>
+ <content contentuid="h2f00387cg2d70gaf99ga8e7g0af3903bb068" version="2">시전자 근처에서 턴을 시작하면 바위 무기력함 걸릴 가능성이 있습니다.</content>
+ <content contentuid="h57546254gb904gb33bgf3b4g0fd18366962a" version="1">바위 무기력 면역</content>
+ <content contentuid="hf86b1f99g6773g6d83gadffg5360046d43fe" version="1">바위 무기력증에 면역이 있습니다.</content>
+ <content contentuid="hf3bafc33g23efga5b1gfbe4g5310eec23ee3" version="2">주변 적에게 바위의 무기력함을 입히는 바위 인공물을 소환합니다.</content>
+ <content contentuid="hce226127g3372gcb51g6158g989b4e1a6658" version="3">적의 공격에 광포한 후려치기로 반격할 수 있는 점토 인공물을 소환합니다.</content>
+ <content contentuid="hdf130660g5c52g03d5g2fe3g0018a3a2ddbe" version="1">근접 공격을 가하면 적을 [1] 동안 불태우는 금속 인공물을 소환합니다.</content>
+ <content contentuid="he21648e4g1b8cgbeeag249fgc5478214a286" version="2">진흙 골렘</content>
+ <content contentuid="hba66b72dgb065g7c0cg7489g80d498d34360" version="3">진흙 골렘</content>
+ <content contentuid="h918caf51gd774g25d6g8f0cg2765dba7e45f" version="2">금속 골렘</content>
+ <content contentuid="h86c582f2gc667g6c5cg02c9gbbb7173efcf3" version="3">금속 골렘</content>
+ <content contentuid="h93fc72f5g644agee43g97ffg071261df5a8a" version="2">바위 골렘</content>
+ <content contentuid="h531969a7g1f61g46b1g33f9g9eab96908f1e" version="3">바위 골렘</content>
+ <content contentuid="hf34748c3gbb5cgb956g7e0dgb3101e7d797a" version="1">광포한 속도</content>
+ <content contentuid="h56c7afc5gfaa9g77c4gc2dagee552732036a" version="1">이동 속도가 [1] 증가합니다.</content>
+ <content contentuid="h1cbde337gab7eg5383g005bgf79054478743" version="1">점토, 금속, 바위 또는 살점으로로 이루어진 인공물을 소환합니다.</content>
+ <content contentuid="h3bef82efg3aa9g38f8g240bg540628616aae" version="1">살점 인공물 소환</content>
+ <content contentuid="h2a5a74a2ga69agf87fgfc43g7656115278d8" version="2">최대 생명력의 절반 이하로 떨어지면 용해되는 분노에 시달리는 살점 인공물의 영혼을 불러냅니다.</content>
+ <content contentuid="hf0530e0fgf9e7g4bccgaa47g9f6a7a2c6538" version="1">분노의 해소</content>
+ <content contentuid="h2857f91cgc1b8gcee2g8378gdc3824d9ad5f" version="1">분노의 해소</content>
+ <content contentuid="hfe307282g17d6g23f6g4d34g62567240815a" version="3">개체의 최대 생명력이 절반 이하로 떨어지는 피해를 입으면 용해되는 분노를 받습니다.</content>
+ <content contentuid="hf9d907acg33e1g74a8g5ecbgedf0d9873adf" version="2">매 턴 [1]를 소모합니다. 명중 굴림에 유리 보정을 받습니다. 이동 속도가 [2] 증가합니다. 비마법적 물리적 피해에 대한 저항을 얻습니다.</content>
+ <content contentuid="h60e19fc3g1216gfab0gf2efg50ae6163f711" version="2">살점 골렘</content>
+ <content contentuid="h571c6055g0401g588dg325dgde185804500b" version="1">강철 바람 일격</content>
+ <content contentuid="hcf4fc1a8g6841ga826g6c25gf8e8057ad082" version="4">바람 속으로 사라져 [1]개의 다른 대상을 공격합니다. 각 대상으로 순간이동하거나 선택한 대상으로만 순간이동할 수 있으며, 그에 관계없이 피해가 입힙니다.</content>
+ <content contentuid="h7688de9fg3575g51cfgf5feg7233a51ab5b1" version="1">불꽃놀이</content>
+ <content contentuid="haecfbf67gf077g0eddgdecbgbc11144a800f" version="1">강철 바람 일격 (강제 순간이동)</content>
+ <content contentuid="h96a2aa26g1844g4053g6027g800b2fc9635d" version="1">각 대상 옆으로 순간이동해야 합니다. 이 버전의 주문은 적에게 영향을 줄 수 있는 오라가 있는 경우에 유용합니다.</content>
+ <content contentuid="h7b9311b8g5522gfeecg17e4ga9210fb22cda" version="1">강철 바람 일격 (선택적 순간이동)</content>
+ <content contentuid="h20963d41gdae4gec75g3abdg000a57eac5f7" version="1">강제로 순간이동을 하게 되지는 않습니다. </content>
+ <content contentuid="he0adff8cg2b75g78ebg953fga8048a863701" version="1">대상에게 보너스 [1]를 부여합니다. 공격이 적중하면 대상은 폭발하는 에너지에 싸이게 되며, 대상이 기꺼이 움직이면 [2]을 부여합니다.</content>
+ <content contentuid="h9cc5b9aag6a96gfc07ga27bged0c2308bbb9" version="1">대혼돈</content>
+ <content contentuid="h3998dc07g9fdcgfea9gfce2g62aa59848c8e" version="5">자연의 분노로 가득 찬 폭풍. 해당 지역에서 턴을 시작하는 생물은 [1]를 받고 중앙으로 끌려갈 수 있습니다. 해당 지역은 험난한 지형입니다.</content>
+ <content contentuid="h37b0249bg5063g0876g0a26gabd0f66d8e8c" version="1">대혼돈</content>
+ <content contentuid="h2133d37ag38e1gc900gfd0eg8f964114ccd8" version="3">혼란스러운 폭풍 근처에 서 있습니다. 턴이 시작될 때 [1]를 받고 지역 내에 머물러 있는 한 중앙으로 끌려갈 수 있습니다. 해당 지역은 험난한 지형입니다.</content>
+ <content contentuid="ha68fa811g4ed6g2293g9416g056dde232d26" version="1">대혼돈</content>
+ <content contentuid="hd0972d7fgb7b6g36fega61cg6f79d1dd424f" version="2">이 맹렬한 폭풍 속에 있는 생물들은 폭풍 안에서 턴을 시작하면 폭풍의 중앙으로 끌려갑니다.</content>
+ <content contentuid="hff8850dbgae24g024eg76f8g875509623919" version="2">해당 지역에서 턴을 시작하는 생물은 [1]를 가져갈 수 있습니다. 해당 지역은 험난한 지형입니다.</content>
+ <content contentuid="h6ae8ec43gb349gc301g2118gaa7336a5649d" version="1">폭풍 구체</content>
+ <content contentuid="h3f9de676g3737g488bg550dgeb71c893e5d4" version="2">전기 구체를 소환합니다. 당신의 턴마다 구체의 [1] 범위 내에 있는 적에게 보조 행동으로 [2]의 충격을 줄 수 있습니다.</content>
+ <content contentuid="ha306cde1gd329g2516g9f7ag40a39298c64d" version="3">구체의 [1] 이내의 생물은 기만 판정에 불리 보정을 받으며 턴 시작 시 [2]를 받을 수 있습니다. 구체의 [1] 이내의 영역은 험난한 지형입니다.</content>
+ <content contentuid="hd1a9b9f7g5df0geaf0gb770g2a603b500eb1" version="2">폭풍 충전</content>
+ <content contentuid="h4eac9c90g43c0gce22g0deag200501de5141" version="2">폭풍권 [1] 이내에 서 있는 동안 감전 위험이 있습니다.</content>
+ <content contentuid="h99aa8c5fgbcffg1507gc19fg44d5cdc5bc5a" version="1">폭풍 구체</content>
+ <content contentuid="hf2ad3484g439dg1094g1c1bg7861a57ea117" version="2">소용돌이치는 공기의 구체가 너무 가까이 있는 적을 강타합니다. 해당 구역에서 턴을 시작하는 생물은 [1]를 받을 수 있습니다. 구체의 [2] 범위는 험난한 지형입니다.</content>
+ <content contentuid="ha8c48160gce75g7176g0152ged8cf4823dda" version="2">폭풍우</content>
+ <content contentuid="h9d2afdc2gb251g1ef2g9fccgb7e8fa449fb5" version="2">각 턴이 끝날 때마다 [1] 동안 폭풍 구체 근처에 서 있습니다.</content>
+ <content contentuid="hb9f1e129g0804g9b54g2f95ga7681f0d0602" version="2">폭풍 충전</content>
+ <content contentuid="h9f6b618dg6917g4831gc465gc89a41999607" version="1">공기 중으로 전기가 솟구쳐 나와 [1] 내의 적을 감전 상태로 만듭니다.</content>
+ <content contentuid="h945413c1ge3fagf7a2g04d6g18d58b620e18" version="4">폭풍 줄기 충격</content>
+ <content contentuid="h0cd8e7aag7bc9g46d1g5556g50a89104dc56" version="2">폭풍 구체 근처의 대상에 번개를 내려칩니다.</content>
+ <content contentuid="h6f170bbfg64e3g7313g7b6agad8578005e9a" version="4">폭풍 구체</content>
+ <content contentuid="h2501f7bcg0bc1ga864g3c15gbeaa7acf9f1b" version="1">폭풍 구체 근처에 있는 사람들에게 번개를 불러일으킬 수 있습니다.</content>
+ <content contentuid="h952d4b60g4d7dg0cb0g72b7g6e5fdcee77c1" version="3">적이 구체의 [1] 이내에 서 있으면 명중 굴림에서 유리 보정을 받습니다.</content>
+ <content contentuid="h4a194302g1969g44d5gc257g8aab47fcf899" version="1">적이 구체 안에 있으면 명중 굴림에서 유리 보정을 받습니다.</content>
+ <content contentuid="h09fa419dg0a4ag21e8g2677g1a4085503089" version="1">적이 구체 안에 있으면 명중 굴림에서 유리 보정을 받습니다.</content>
+ <content contentuid="h5694a490g0459gd5afg64a2g7899f09550de" version="2">폭풍의 안에서</content>
+ <content contentuid="hc85e8f96g8065g0e1fg0cb7g90b1c51c7831" version="1">당신 앞에 놓인 길을 정찰할 수 있는 보이지 않는 마법의 눈을 만들어보세요.</content>
+ <content contentuid="hae6d2f4eg9eeegca2dgb501g032b9cbf2900" version="1">비전의 눈</content>
+ <content contentuid="h8b468109g69dag6683g4aa1gbb4cb6dc0083" version="1">비전의 눈</content>
+ <content contentuid="h2d573a7bg0ffag7a36ga697gc563e6f85c36" version="1">황산 구체</content>
+ <content contentuid="h4afc9c53g0667gba3dg19efga7bc81c86d9f" version="2">접촉 시 폭발하는 빛나는 에메랄드빛 산성 구체를 쏘아 대상의 다음 턴이 끝날 때 해당 대상을 [1]만큼 부식시킵니다.</content>
+ <content contentuid="h1d6f3017g0d6bgab84g6f73g3f3bc4877cd4" version="2">황산 구체</content>
+ <content contentuid="hfe5803a0g9902g3a12g0243g55bd6a1684ed" version="1">턴이 끝나면 [1]를 받습니다.</content>
+ <content contentuid="h1f0cdd23g23e3g9b9dgdad4g0cf3acb01453" version="1">달빛</content>
+ <content contentuid="hcc288e4ag49b5g40d0gbe63gfd8c43c4a769" version="3">대상에게 빛의 펄스를 발사합니다. 치명타가 발생하면 대상은 반짝이는 빛을 받아 명중 굴림에 유리 보정을 받습니다. 또는 빛을 땅에 발사하여 [1] 위에 밝은 빛의 원천을 생성할 수 있습니다.</content>
+ <content contentuid="h2196832cg0580g3274geb1dg95c3e5913b70" version="1">달빛: 피해</content>
+ <content contentuid="hfd91e460gb70ag5069g89d1g319790db1608" version="3">대상에게 빛의 펄스를 발사합니다. 치명타 시 대상은 반짝이는 빛에 노출되어 명중 굴림에 유리 보정을 받습니다.</content>
+ <content contentuid="hb5a03d04g6e23gb29bg83ceg9612caccb0af" version="1">달빛: 빛</content>
+ <content contentuid="h6651a268g076dg4717g9e35ga06e7ecbf239" version="2">[1] 위에 밝은 빛의 원천을 만드세요.</content>
+ <content contentuid="h95138308g462fge037gb837g55f03820e9bc" version="1">유도 화살</content>
+ <content contentuid="hc140d66cg3385g321cga5c7g2b69ea930fe7" version="1">이 생물에 대한 다음 명중 굴림에는 유리 보정이 있습니다.</content>
+ <content contentuid="hb73b3353g6038g10bcgb2bfg9fad91d58a03" version="2">반짝이는 빛</content>
+ <content contentuid="h196f6a63gb8fagcf2dg7e10gbf21cb5a8868" version="2">이 생물을 상대로 명중 굴림을 하면 유리 보정이 생깁니다.</content>
+ <content contentuid="h1d3c52e5gb6bbg862bgb578g56027b19eaa3" version="1">달빛</content>
+ <content contentuid="h5e355436g3540gd6bag6694g69bc142f855c" version="1">반경 [1]를 밝힙니다.</content>
+ <content contentuid="h81c84b72g647fgb32fgda96g41370c302c07" version="1">달빛</content>
+ <content contentuid="h8d4c35f5g6679g0edcgf53dg39ac4ce14792" version="3">모닥불</content>
+ <content contentuid="haf1b7a97g343ageb7ag66d2g0c3ae1a0ca19" version="1">모닥불 만들기</content>
+ <content contentuid="hf4b20905ga3cfg5260g3243g2a99037e620f" version="4">[1] 내의 생명체를 태우는 모닥불을 생성합니다.</content>
+ <content contentuid="hacf2bbbagc509gae83g6fffgaf0101722c2c" version="1">모닥불</content>
+ <content contentuid="h5ee40f79gea5eg6898gffc3gf3312bcc6b30" version="1">[1] 근처의 개체를 소각합니다.</content>
+ <content contentuid="hb7953f69ga292g42c6ge438g1959f8c3bf8c" version="1">%%% 비어 있는</content>
+ <content contentuid="hd22f1779g65cegca3cg121cgfdbecf5f182f" version="2">모닥불</content>
+ <content contentuid="h2f55f289g9c63g50f7g2ae8ga124b097a4ee" version="4">모닥불에 접근하고 모닥불 근처에서 턴을 마치면 [1]를 얻습니다. 해당 지역을 벗어나면 제거됩니다.</content>
+ <content contentuid="ha9c70f6cg650egf1e6ge9fbg0a02f269ce83" version="1">레드 드래곤 소환</content>
+ <content contentuid="hc4482b2ag88f5gae20g8e3eg0f0f6532b3a2" version="3">레드 드래곤 영혼은 공포의 존재, 화염 숨결, 다중 공격을 사용할 수 있으며 적을 불태울 수도 있습니다.</content>
+ <content contentuid="h06861dedg502bg1543g905agca31ebd0b3e4" version="3">용의 영혼을 소환</content>
+ <content contentuid="hf4510028g118bg51cbg9efbg067cbba9aca0" version="5">강력한 색채 용의 영혼을 불러 도움을 받으세요. [1] 내에 있는 동안 용의 주요 요소에 대한 저항을 얻습니다.</content>
+ <content contentuid="h316ad4bbg2dc0gb33ega214g06b814d2881f" version="37">레드 드래곤의 영혼</content>
+ <content contentuid="ha3f63e54g8907g5e19g5f04g7a11d9532cb6" version="1">비행</content>
+ <content contentuid="h79412859g872dg46feg9472gece75cd9c7e3" version="1">용의 날개를 펄럭이며 날아보세요.</content>
+ <content contentuid="h0306533fge913g07d9g44b5g77d4ffe74dd4" version="1">파열</content>
+ <content contentuid="h8ce22211g1567g7868g0747g00b0403f5359" version="1">서리 손가락</content>
+ <content contentuid="h7f31bbf1gbfd2g6d48g58a0g9ba7e82b2a17" version="1">손끝에서 얼어붙는 듯한 차가운 공기가 분사됩니다.</content>
+ <content contentuid="h9f138962g7a6dgef7eg38ceg0d9db2a26d82" version="1">불의 숨결</content>
+ <content contentuid="h348a8abdgd087g1bd0g1b80g07744daa2987" version="1">불덩어리를 뿜어냅니다.</content>
+ <content contentuid="h39b07fd1g3536g5a77gd3f1g35884060c2bf" version="1">불의 숨결</content>
+ <content contentuid="hc6a76ceagae3cgbb69g2ce7gec4c6db86394" version="1">불덩어리를 뿜어냅니다.</content>
+ <content contentuid="hf8bf2bcega8cbgaae4g22fcg5a6f4da0b125" version="1">공포의 존재</content>
+ <content contentuid="he608984dg891bg50aag0656gc3f2c845c320" version="1">공포를 발산하여 적에게 두려움을 심어줍니다.</content>
+ <content contentuid="h1252322agcfcbgae9eg7bdag9da4e0e2b83b" version="2">용의 기품</content>
+ <content contentuid="h5cf04a44g0c5cg5268gb4ddg554bd7b3dd6f" version="2">드래곤 변장</content>
+ <content contentuid="hb3943d71ga5a6g8783gcab9g4eb5ce8fe896" version="2">드래곤폼으로 싸웁니다.</content>
+ <content contentuid="hb520d20ag74feg144cge89ag2c88760dfdf1" version="5">이 기능을 활성화하면, 변장한 용이 전투 중에 용의 형태로 다시 변장합니다. 전투가 끝나면 다시 변장합니다.</content>
+ <content contentuid="ha78ae3d6gf4bcg3032g3d9egec67a1040288" version="2">인간형</content>
+ <content contentuid="h5bf2099agbb73gfe92g8464gbc47af47de17" version="3">드래곤폼으로 싸우세요</content>
+ <content contentuid="h655ac5eeg27f5g6682gd6f5g8e87c99718c4" version="1">전투 시작 시 다시 용으로 변신합니다.</content>
+ <content contentuid="h7f27f192g08a4gc943g79bdg53bfa8dde1b2" version="2">용은 날아다니는 것 외에는 움직이기를 거부합니다.</content>
+ <content contentuid="h5fa0e6bag7a52g277bgc9ddgbacce67d5cfc" version="1">위장</content>
+ <content contentuid="h897c981egd748g634dg8251gd07c4ac1afe5" version="1">전투가 끝나면 위장.</content>
+ <content contentuid="h377dcfe1gb3d9g1e10g8d67g545bc4b325e4" version="1">드래곤은 변장했을 때만 파티를 따릅니다. 비활성화하지 않으면 드래곤은 전투 시작 시 드래곤 형태로 돌아갑니다.</content>
+ <content contentuid="h5922ebf9gaa59gb06fgc9cbg6b0e85afbfc9" version="5">드래곤은 비행을 통해서만 움직일 수 있습니다. 그것은 당신의 파티와 함께 정상적으로 걷는 것으로 위장할 수 있습니다. 전투 중에 그것은 위장을 깨고 드래곤 형태로 싸울 것입니다.</content>
+ <content contentuid="h8c4ba639g1582g875cg65d0g2d20f02858f7" version="2">블루 드래곤 소환</content>
+ <content contentuid="hed3ec502gb99dgdbc3g59e4gf3488796207e" version="1">레드 드래곤의 영혼을 불러내세요.</content>
+ <content contentuid="h96af71a8g7f53g969eg2a27ge50b2528e5f4" version="1">저항 공유: 레드 드래곤</content>
+ <content contentuid="hb726fb01g5c9cg8b3ag49ddg9678403b8c4b" version="3">드래곤과 [2] 거리에 있는 동안 [1]의 피해에 저항합니다.</content>
+ <content contentuid="hff3b3242g019fgf331g8d60g45107b185472" version="1">저항 공유: 레드 드래곤</content>
+ <content contentuid="h823d1e81g69bag5c9bgfecbg5439dbb066e3" version="4">이 용을 소환한 사람은 [2] 범위 내에 있는 동안 [1]의 피해에 대한 저항을 얻습니다.</content>
+ <content contentuid="h991dfddbga59eg78a4g2549g3c1e4bec636a" version="1">드래곤 소환사 소환</content>
+ <content contentuid="h589265a3g641dgdb25gef2dg93e553ac1841" version="1">저항 공유: 블루 드래곤</content>
+ <content contentuid="h4ca6cc58g28acg1ebcg6966g72fd74bd6771" version="1">저항 공유: 블루 드래곤</content>
+ <content contentuid="h12e6bb9eg2088g7bc0g27afg35f38a472931" version="1">저항 공유: 블랙 드래곤</content>
+ <content contentuid="h3f04651ag86b8g6d92gb2cfg12898864f14c" version="1">저항 공유: 블랙 드래곤</content>
+ <content contentuid="hab79a130g3b57g733dgc9dcg0c53886277cb" version="1">저항 공유: 그린 드래곤</content>
+ <content contentuid="h4a2a9fc6g72e3g9191gb4a7g9649b0b6feeb" version="1">저항 공유: 그린 드래곤</content>
+ <content contentuid="h0a0380d9gc527g2076g9cf3gccc713543e15" version="1">저항 공유: 화이트 드래곤</content>
+ <content contentuid="hbf1a7e35g70bfgcf42gfba1g678a0668ec24" version="1">저항 공유: 화이트 드래곤</content>
+ <content contentuid="hb293f9ecgca21g9ba5g1319g9a3db4cb4fcc" version="7">블루 드라코닉 스피릿</content>
+ <content contentuid="hc99309a1g12cdg3ab5g573fgfac1ff571b69" version="5">블루 드라코닉 스피릿</content>
+ <content contentuid="hcca9fa39g439dga92ag47fbg0c50236a1316" version="7">그린 드라코닉 스피릿</content>
+ <content contentuid="habb45d13g5800g88e6gd3a2gd3f59762559c" version="4">그린 드라코닉 스피릿</content>
+ <content contentuid="he9456264g3347g01a1gf394g00154f29e085" version="7">블랙 드라코닉 스피릿</content>
+ <content contentuid="h6a833465g5be4g85c2gb8d8g8e6458387715" version="7">화이트 드라코닉 스피릿</content>
+ <content contentuid="h95766b4ag3177g0e35gcbc9g4cb9bf761778" version="1">번개 숨결</content>
+ <content contentuid="h8a666160gd9c7g3cdegd35fg521d6ed0ec00" version="1">그린 드래곤 소환</content>
+ <content contentuid="h36f5b357g364cg52b9g106eg8e0c17f35801" version="1">블랙 드래곤 소환</content>
+ <content contentuid="h10c04887ga396g262cg8950g6e56a716fdce" version="1">화이트 드래곤 소환</content>
+ <content contentuid="h10896e85g16c5g5f63g1137g7f5fca060763" version="1">독의 숨결</content>
+ <content contentuid="h84255ce8g8495gd3bcgea32g7f8775340c15" version="1">산성 숨결</content>
+ <content contentuid="hf4325c3ege761g7b65gdf23ga35852175862" version="1">서리 숨결</content>
+ <content contentuid="hfe6256c7ga28ag0293g2a91ge13860a55282" version="2">블루 드래곤의 영혼은 공포의 존재, 번개 숨결, 다중 공격을 사용할 수 있으며, 적에게 충격을 줄 수도 있습니다.</content>
+ <content contentuid="hc1062ca8g52e5g072ag7923g243e1707cc4c" version="2">그린 드래곤 영혼은 공포의 존재, 독 숨결, 다중 공격을 사용할 수 있으며 적을 독살할 수도 있습니다.</content>
+ <content contentuid="hcb832338g9da6g1265g1a68ga1325c83fd5b" version="2">블랙 드래곤 영혼은 공포의 존재, 산성 숨결, 다중 공격을 사용할 수 있으며 적을 부식시킬 수도 있습니다.</content>
+ <content contentuid="h929ab220g339ag9224gc4b0g41fe4aa07930" version="2">레드 드래곤 영혼은 공포의 존재, 서리 숨결, 다중 공격을 사용할 수 있으며 적을 냉각시킬 수도 있습니다.</content>
+ <content contentuid="hf0178ab7g1dcbg522eg08ddg9a09043f04bd" version="3">레드 드래곤 영혼은 공포의 존재, 화염 숨결, 다중 공격을 사용할 수 있으며 적을 불태울 수도 있습니다.</content>
+ <content contentuid="hbee43d85g000bg6517g1b67g761ec9b879db" version="2">블루 드래곤의 영혼은 공포의 존재, 번개 숨결, 다중 공격을 사용할 수 있으며, 적에게 충격을 줄 수도 있습니다.</content>
+ <content contentuid="h21de0bacg4972gecd6g6b0cgc80585913733" version="1">그린 드래곤 영혼은 공포의 존재, 독 숨결, 다중 공격을 사용할 수 있으며 적을 독살할 수도 있습니다.</content>
+ <content contentuid="h9fdb1495g9d77g3b97g9d41g3fb83f9dd3ae" version="1">블랙 드래곤 영혼은 공포의 존재, 산성 숨결, 다중 공격을 사용할 수 있으며 적을 부식시킬 수도 있습니다.</content>
+ <content contentuid="h0c696f95g83e1g7718gb099g2982a6ad6aaf" version="1">레드 드래곤 영혼은 공포의 존재, 서리 숨결, 다중 공격을 사용할 수 있으며 적을 냉각시킬 수도 있습니다.</content>
+ <content contentuid="hab848050g335bgbd98g8461g35f1ff73f75b" version="2">인간 여성</content>
+ <content contentuid="h36703877gf842g0d6bgaee8g38312969e537" version="1">변장</content>
+ <content contentuid="h98b898a0g8774g00cbgbb07gf559ca1abf6c" version="1">모습이 완전히 바뀌었습니다.</content>
+ <content contentuid="h50d457b9g5f94g1fc8g3c8dg440be04244c1" version="2">위장하다</content>
+ <content contentuid="hab47d489gb9a4g0f61g284agd44e3495e55b" version="2">인간으로 변장합니다.</content>
+ <content contentuid="he4bdb120g9d12gad8bg37c9gbeb856675b04" version="1">변장</content>
+ <content contentuid="h54404503g54adg431cg258fg7b3ef7e35666" version="1">모습이 완전히 바뀌었습니다.</content>
+ <content contentuid="hf4753bf9gc000gdaa2gcbc8g8cec23e4133a" version="1">변장: 여성 인간</content>
+ <content contentuid="he451a7b9g3988gcf5cg464ag432fec097737" version="1">여성의 체형을 가진 인간으로 변장합니다.</content>
+ <content contentuid="h757f42f7g4c19gfcecg8a21gb319a2c0e6d8" version="1">변장: 남성 인간</content>
+ <content contentuid="ha3a07a2dg1c82gb644gcff3gae79d8cf68ba" version="1">남성적 체형을 가진 인간으로 변장합니다.</content>
+ <content contentuid="hcbd9a0d3ga7e7g1269g67c3gf914ffb98765" version="1">위장하다</content>
+ <content contentuid="hdd0c9f65gae0cg68c4g67fegf385dbe63ad6" version="1">모습이 완전히 바뀌었습니다.</content>
+ <content contentuid="h0a04786cg94d2gf070g4692gb4fbaa5d6831" version="2">변장: 트레심</content>
+ <content contentuid="h4085743ag991fg9e91g4805g49a5709930fe" version="2">자신을 트레심으로 위장합니다.</content>
+ <content contentuid="hc9a1f801gc120gc91fgc855g6fcf73b52526" version="1">변장 해제</content>
+ <content contentuid="h3ba23e1ag157cg38bbg4d4dg54181e9ce644" version="1">변장을 풀고 본래 모습으로 돌아갑니다.</content>
+ <content contentuid="he64d2789gad15g701bg3275g93f98d999f81" version="1">짐의 마력탄</content>
+ <content contentuid="hefdfb82eg88ccg3435g2db0g5e78edf00ee7" version="4">뒤틀리고, 휘파람소리가 나며, 저자극성, 글루텐 없는 마법의 다트를 [1]개 쏘아 각각 [2]를 입힙니다. 항상 목표물에 맞히는 것은 아닙니다.</content>
+ <content contentuid="h2b714b08ge4c7gf500g70ebgda531f5beb38" version="1">마력탄 빗나감</content>
+ <content contentuid="h0870b360g0cafg600fgd040g6bc987ccc487" version="1">모든 마력탄 빗나감</content>
+ <content contentuid="hbdb0c055g8f10g0e80g7511g0769ec17b988" version="1">짐의 마력탄</content>
+ <content contentuid="hf67bc7cfg0d9egae17g0f71gb24a3305d61f" version="5">뒤틀리고, 휘파람소리가 나며, 저자극성, 글루텐 없는 마법의 다트를 [1]개 쏘아 각각 [2]를 입힙니다. 항상 목표물에 맞히는 것은 아닙니다. 각 다트에 대해 D20을 굴려야 하며 그 중 하나라도 1이 나오면 모든 다트가 꺼지고 얼굴에 역화되어 [3]을 입힙니다.</content>
+ <content contentuid="h913be16fg6156g7f5fg70a6ga9d3b1719456" version="1">짐의 마력탄</content>
+ <content contentuid="h2d900a2ag070bg5a66g0f17g53e3d5f6c037" version="2">짐의 마력탄을 발사할 수 있음.</content>
+ <content contentuid="h4b0bbf02gfffag56e5gb310g113b2a641075" version="1">짐의 마법 여드름</content>
+ <content contentuid="h72d07103g08d3g2b22g7a49gf8624c63baf2" version="2">마법의 다트가 실패하고 당신의 얼굴에 역효과가 나타났습니다!</content>
+ <content contentuid="hbfdfa718ged9cg8913gfd02g95d1d9834c00" version="2">짐의 치명적인 다트</content>
+ <content contentuid="h12317695gfad4g9215g4f6eg3814870b1440" version="1">천둥 걸음</content>
+ <content contentuid="hf95034dbg6649g9febg2813g600e85b90e8e" version="3">자신과 인접한 아군 최대 1명을 볼 수 있는 장소로 순간이동시킵니다. 굉음이 울리며 당신이 떠난 공간 [1] 내에 있는 모든 생물에게 피해를 줍니다.</content>
+ <content contentuid="hc0555215g55e2g9bd2gd53eg1ace84814a79" version="2">천둥 걸음</content>
+ <content contentuid="hfcfab278g8dbdg3fe8gcbf0gff9a988af1e3" version="1">대상은 중간 크기보다 클 수 없습니다.</content>
+ <content contentuid="h43f8984dgf2fagdd65g4c7eg337782e7c53d" version="1">이 주문으로 치명타를 입히면 일반적인 추가 치명타 주사위와 더불어 추가 피해 주사위도 굴립니다.</content>
+ <content contentuid="hc97c8166g213agefa1g4839g847553746426" version="1">이 주문으로 치명타를 입히면 일반적인 추가 치명타 주사위와 더불어 추가 피해 주사위도 굴립니다.</content>
+  <content contentuid="hd4d4bbc7g1d4egc5b5g3ee1g440bc88b2fe2" version="2">감염 1</content>
+  <content contentuid="ha380f05eg66fbg161cg03cag605a3473a4fb" version="1">감염 2</content>
+  <content contentuid="h06ef7f39gd621g6c69g1f02g50a0016783f0" version="1">모일의 그림자</content>
+  <content contentuid="h069e7999ga729g065cg96deg0aabf1b4f1cc" version="13">[1] 당신을 완전히 가리는 그림자로 몸을 감싼다. 당신은 빛나는 피해에 대한 저항력을 얻고, [1] 안에서 당신을 공격하는 모든 생명체는 [2]를 받는다.</content>
+  <content contentuid="hf0f06787gd08dgd84cg8ce9g77d193be1300" version="1">모일의 그림자</content>
+  <content contentuid="hbe1a23cfg2081gc3d7g081dgcd599459e0b3" version="2">적과 너무 가까이 서 있으면 완전히 가려진 상태로 간주되지 않습니다.</content>
+  <content contentuid="hfdd54a1fg1582ge9e7gbf2dg54ffe4b4ffb8" version="1">모일의 그림자</content>
+  <content contentuid="h60f5d37egb864gbb3eg0961g700553673758" version="1">모일의 그림자</content>
+  <content contentuid="h2e9259fegdc80g7ed1g8554ga76092435470" version="1">근처 생물이 공격을 가하면 [1]을 입힙니다.</content>
+  <content contentuid="h2e2481fag488eg1495g52c7g988bc3443210" version="1">개체를 완전히 가리는 그림자에 둘러싸여 있습니다. 광휘 피해에 대한 저항력을 얻습니다.[1] 내의 개체를 공격하는 생물은 [2]를 받습니다.</content>
+  <content contentuid="haef57e14g59d9g22d7g7d03gcc764448d5e7" version="4">투명의 그림자</content>
+  <content contentuid="hfa4c5a3fge36dg6ea3ge3ddgdff9577e9baf" version="1">개체를 완전히 가리는 그림자에 둘러싸여 있습니다. 광휘 피해에 대한 저항력을 얻습니다.[1] 내의 개체를 공격하는 생물은 [2]를 받습니다.</content>
+  <content contentuid="h1cb8c4a7g9deegb77bg438bgd115bd3b7196" version="1">상급 투명성</content>
+  <content contentuid="h0b91425ag702fged09gbefegd8643c124b7a" version="1">개체는 명중 굴림에 유리 보정이 있습니다. 개체에 대한 명중 굴림에는 불리 보정이 있습니다. 아이템과 상호 작용하거나, 주문을 시전하거나, 공격할 때 개체는 투명성을 유지하기 위해 은신 판정에 성공해야 합니다. 판정은 성공할 때마다 더 어려워집니다.</content>
+  <content contentuid="h25956444g32d5gd9bcga56dg1dc9d9b50932" version="5">해당 개체는 최대 [1] 떨어진 곳까지 짙은 그림자가 스며들어 완전히 가려집니다. 광휘 피해에 대한 저항력을 얻습니다.[1] 내의 해당 개체를 공격하는 생물은 [2]를 받습니다.</content>
+  <content contentuid="hef61a5d2gb2edgf3b6g744bg60d4d0083307" version="1">개체는 명중 굴림에 유리 보정이 있습니다. 개체에 대한 명중 굴림에는 불리 보정이 있습니다. 아이템과 상호 작용하거나, 주문을 시전하거나, 공격할 때 개체는 투명성을 유지하기 위해 은신 판정에 성공해야 합니다. 판정은 성공할 때마다 더 어려워집니다.</content>
+  <content contentuid="hc0bc8976gdd8fg3c9bg7a18gc7b2a5e60f74" version="1">당신은 이 주문의 다른 모든 효과와 별도로 투명화의 그림자의 혜택을 받습니다.</content>
+  <content contentuid="h337f3eceg28ffg8cabgf780g66799bcd6463" version="1">짐의 빛나는 동전</content>
+  <content contentuid="h6172575cgd8efgad1cg9046g87df1410293f" version="4">동전을 던져 적의 주의를 산만하게 합니다. 적들은 지혜 능력 판정에 불리한 입장에 처하고 선제권 굴림에 -3 패널티를 받습니다.</content>
+  <content contentuid="h54208395g14ddg5967gf6fcg754d13245d1b" version="2">짐의 빛나는 동전: 오라</content>
+  <content contentuid="hab354437gec35g80d4g6c72ge64361d5a1b6" version="1">짐의 빛나는 동전</content>
+  <content contentuid="h8963cd9bg7ca8g564eg350fgf8ee4e576df4" version="1">짐의 빛나는 동전</content>
+  <content contentuid="h424ab99dgee47g5e5ag320eg98016992e8c2" version="5">지혜 능력 판정에 불리 보정을 받으며, 선제권 굴림에 -3의 패널티를 받습니다.</content>
+  <content contentuid="h8a651756g9268geb35g78fdgcb10242f208b" version="1">이 주문을 시전하는 동안 숨겨진 상태를 유지할 수 있습니다. 침묵 상태인 동안에도 이 주문을 시전할 수 있습니다.</content>
+  <content contentuid="h81533ea0g741ag466cgcf5agfae6b063c102" version="1">짐의 빛나는 동전</content>
+  <content contentuid="h61931cffg61a4ga6b2gd756g187ceb271197" version="1">짐의 빛나는 동전</content>
+  <content contentuid="hd4f5923cg6facg031age566g9f74dcbf14ed" version="2">수면 걸음</content>
+  <content contentuid="h6ace065fg5879g96fcgdc2ag665fdde0b197" version="4">생물에게 액체 표면 위를 무해하게 걸을 수 있는 능력을 부여합니다.</content>
+  <content contentuid="h9f2956c2ga03bg4d2bg5deag375c2e27d022" version="1">수면 걸음</content>
+  <content contentuid="h5a854855g39eega844gf8bbg1d35e52e0d76" version="1">특정 액체 표면에 대한 면역성이 있습니다.</content>
+  <content contentuid="hee715eb4g83b7g947cg46d1gf7d5a245632d" version="4">포함 항목: 산, 용암, 부식성 소금물, 진흙, 물, 심해, 흐르는 물, 전기 표면, 기름 및 하수.</content>
+  <content contentuid="hb8fb3f60g5a0bgc7c6gca8bg22a8dc997d0a" version="1">자연의 수호자</content>
+  <content contentuid="hf28658d0gefcfg04b5gbce1g616a101bdc9c" version="2">자연의 수호자: 원시 짐승</content>
+  <content contentuid="h3cc4988fg0937g6cfag57b2g11f76621e5a5" version="1">자연의 수호자: 원시 짐승</content>
+  <content contentuid="h75d554ebge390g11d2geae3g515fa64db8e7" version="1">자연의 수호자: 거대한 나무</content>
+  <content contentuid="hca9aa15ag6816g3cc1g82e1gfbea74422404" version="1">자연의 정령을 불러내 강력한 수호자로 변신합니다.</content>
+  <content contentuid="h1ac1948cg9fa5g7458g6451gbc238c39f698" version="1">몸 전체가 야수 털로 뒤덮이고 얼굴 특징이 사나워집니다. 이동 속도가 [1]만큼 증가합니다. [2]에 대해 암시야를 얻습니다. 근력 기반 명중 굴림을 유리하게 수행합니다. 근접 무기 공격은 추가로 [3]의 피해를 입힙니다.</content>
+  <content contentuid="h5a37f336g13efg9b86gdd18ged35c15d8110" version="1">자연의 수호자: 거대한 나무</content>
+  <content contentuid="h1729d34dg8732g89e1g3bebgea25ff5768c5" version="3">피부가 나무껍질로 변하고 머리카락에서 잎이 돋아나기 시작합니다.[1]을 얻습니다.건강 내성 굴림에 유리 보정을 받습니다.손재주와 지혜 기반 명중 굴림에 유리 보정을 받습니다. 당신 주변 [2] 범위는 험지로 간주됩니다.</content>
+  <content contentuid="h84895cbfgec4bg79b1ga22agdfac55919abf" version="1">이동 속도가 [1] 증가합니다. [2]에 대해 암시야를 얻습니다. 근력 기반 명중 굴림에 유리 보정을 받습니다. 근접 무기 공격은 추가로 [3]의 피해를 입힙니다.</content>
+  <content contentuid="heb8a4be4g57ceg5a9egceecg406cf9f4e069" version="2">[1]을 얻습니다. 건강 내성 굴림에 유리 보정을 받습니다. 손재주와 지혜 기반 명중 굴림에 유리 보정을 받습니다.해당 개체의 [2] 내 영역은 험지로 간주됩니다.</content>
+  <content contentuid="hcfe249f7gd3bbgd26dgd3e4gb812c8b6d11e" version="1">자연의 수호자: 원시 짐승</content>
+  <content contentuid="h45331fd2g64ffg686fgb59age59fce3614c2" version="1">소환수 무리</content>
+  <content contentuid="h51748f6dg3042g4770g2844g76d2fc6ea71d" version="1">선택한 동물 형태로 변신하는 [1]명의 파밀리어를 소환합니다.</content>
+  <content contentuid="h39428175g00c7g02e0gaef9g38976dfe2f85" version="1">소환수 무리: 고양이</content>
+  <content contentuid="ha25b4978g1ea5g3d74gdb35g9251c2f37bb7" version="1">적의 주의를 돌리기 위해 야옹 소리를 낼 수 있는 [1]마리의 고양이 소환수를 소환합니다.</content>
+  <content contentuid="h7873ec00g8578gd34dg309eg460e22b3bd08" version="1">소환수 무리: 게</content>
+  <content contentuid="h97d0ecbfg50d0g0010gcff3gec5ce8a8b4d5" version="1">적을 마비시키는 꼬집기로 적을 느리게 할 수 있는 [1]개의 게 소환수를 소환합니다.</content>
+  <content contentuid="h1dcc21f5g514eg418agd90fg07cb8f47e06c" version="1">소환수 무리: 개구리</content>
+  <content contentuid="h7af4fa01g80adg88b0g0929gd8de91a0c840" version="1">적에게 독소를 퍼뜨릴 수 있는 [1]개의 개구리 소환수를 소환합니다.</content>
+  <content contentuid="h4f084093gd67agaa1fg8699g1806c58e7c51" version="1">소환수 무리: 쥐</content>
+  <content contentuid="h4bdcce0cgd386gffcegdf23g58f04de767bd" version="1">전염성 물림으로 [1]마리의 쥐를 소환합니다.</content>
+  <content contentuid="h7a9aa1e6g0875gfd3dgb09eg48997d61d50d" version="1">소환수 무리: 까마귀</content>
+  <content contentuid="h7b60622egc5d8gd25dg4f55g258cb1f51305" version="1">부리로 적을 눈멀게 할 수 있는 [1]개의 까마귀 무리을 소환합니다.</content>
+  <content contentuid="h91debbd8g1a64gcfd1gf598ga7c5a7585ffa" version="1">소환수 무리: 거미</content>
+  <content contentuid="h7d53f1c8ga5e2g31dbg7720g233f0b3205e3" version="1">독이 있는 물기로 [1]마리의 거미 소환수를 소환합니다.</content>
+  <content contentuid="hf81dccd1g9e95gebdbgf0f2g52ecede1042a" version="1">다른 생물을 순간이동시킵니다.</content>
+  <content contentuid="h5eeb11adgfa07g26e3gc677g1662787a93a5" version="1">아군 생물은 내성 굴림을 할 필요가 없습니다.</content>
+  <content contentuid="h132ab988ga032g3ddcga85fg624320953d69" version="1">소용돌이 뒤틀림</content>
+  <content contentuid="hd646dea1ged9bgaf11gb5d7gb5c8408c6b0c" version="1">소용돌이 뒤틀림을 통해 순간이동할 수 있습니다.</content>
+  <content contentuid="h2da82ff2g57cbg2c58g7e9agfdb03740b6bc" version="1">소용돌이 뒤틀림</content>
+  <content contentuid="h59ffc594g52a8g8f08g1a69g71c3ded71493" version="2">정지한 동안 소용돌이 뒤틀림을 활성화하여 소용돌이 뒤틀림에 걸린 생물을 순간이동시킬 수 있습니다.</content>
+  <content contentuid="h701f9c2eg0bf1g5425g3318g92be44add6c9" version="1">소용돌이 뒤틀림</content>
+  <content contentuid="hfae54cf7g8c4agb47cgdbc9gfe4e44a69b8e" version="1">다른 생물을 순간이동 시킵니다. 정지해 있는 동안 소용돌이 뒤틀린 대상을 최대 [1] 떨어진 곳까지 순간이동 시키는 포털을 열 수 있습니다.</content>
+  <content contentuid="h7f4e3ce9g4998gce09g1a47g95cc84ed9590" version="2">아군 생물은 내성 굴림 여부와 관계없이 항상 영향을 받습니다.</content>
+  <content contentuid="hf6608f11g34adg1bd1gda74g78bb2e1350f0" version="3">신속의 사격(주 무기)</content>
+  <content contentuid="ha4b3357cg99b6g94b5g7002g5870ef25d6c5" version="2">장착한 무기로 원거리 공격을 두 번 가합니다.</content>
+  <content contentuid="h3a9a3adbg890cg68e1ge312gc5a5b34e2687" version="4">신속의 사격(보조 무기)</content>
+  <content contentuid="h9ba4709fga945g0f58g63f5ga30fafa41207" version="1">신속의 화살통</content>
+  <content contentuid="h5aeaac72g5d73gd6a7g63ffg849fba270c81" version="2">화살통에 마법을 부여하여 발사하는 화살이나 볼트를 빠르게 다시 채웁니다. 각 턴마다 보조 행동을 사용하여 화살통을을 사용하는 무기로 두 번의 공격을 할 수 있습니다.</content>
+  <content contentuid="h12071d67g6a60g60e2gfb8ag1c049171c04e" version="1">신속의 화살통</content>
+  <content contentuid="hbb69d308g9bd3g7210g9608g7137f40bbd42" version="2">신속의 사격(쌍수수)</content>
+  <content contentuid="h5af6b036gf10dg3d5cg7b00gee10f28ba368" version="1">보조 무기를 사용해 원거리 공격을 두 번 가합니다.</content>
+  <content contentuid="h46b934fcg599ag4ff7g5225g07be9dd94146" version="1">주 무기와 보조 무기를 모두 사용해 원거리 공격을 한 번씩 실시합니다.</content>
+  <content contentuid="hbddd059dg1634g5b41g1487g0be68129f480" version="1">두 공격을 모두 시작하려면 원거리 무기를 양손으로 휘두르셔야 합니다. 이 공격은 두 공격 모두에 보조 행동 1개만 소모합니다.</content>
+  <content contentuid="h484909f5gbac8g8833gfe61gd16095d51ecc" version="1">이 공격은 두 공격 모두에 보조 행동을 1개만 소모합니다.</content>
+  <content contentuid="h2142f169gdc50g6ab6ga043g68db7eefcbb6" version="1">두 공격을 모두 시작하려면 보조 무기 원거리 무기를 사용해야 합니다. 이 공격은 두 공격 모두에 대해 보조 행동 1개만 소모합니다.</content>
+  <content contentuid="h7946d671g7648g1284g0d85gb946689009b7" version="20">치유의 영혼</content>
+  <content contentuid="h539156ecgf83fg7809gd618gb4d33cc02b03" version="1">치유의 영혼</content>
+  <content contentuid="h6310b579g2c84g1861ga552g49c3435e1140" version="1">영향을 받은 개체는 모든 피해에 면역이 됩니다.</content>
+  <content contentuid="h2aba6ce4g15cdgfcf3gc4eagd451e82051ab" version="3">영혼의 치유</content>
+  <content contentuid="h6bfd9659g9deeg9204g976fgac5a0f984608" version="1">사정거리 내로 들어오는 생물을 치료합니다.</content>
+  <content contentuid="h7149b5e5g3678g2bbbgf2b2g4d7e94a46786" version="3">영혼의 치유</content>
+  <content contentuid="h7a75a35egc246g1458g6291gde9d37675026" version="3">사정거리 내로 들어오는 생물을 치료합니다.</content>
+  <content contentuid="h3089bd5eg37b1g313fg0345g740686a9d4ed" version="1">치유의 영혼</content>
+  <content contentuid="h5fad5ce2g18afg34b0gc488g6089dcc55089" version="5">상처 입은 자를 달래기 위해 자연의 정령을 불러냅니다. 각 생물은 턴당 한 번만 치료될 수 있습니다. [2]번 치료한 후 만료됩니다.</content>
+  <content contentuid="h20531850gab4dg1906g7ee1ged6e703c001a" version="2">영혼의 치유</content>
+  <content contentuid="h50f40109gb53ag5ac1gd41fg135750575463" version="1">최근 치유의 영혼에 의해 치유되었으며, 이번 턴에 같은 영혼에 의해 다시 치유받을 수 없습니다.</content>
+  <content contentuid="h1e56bd68g0915g2ad1g2318gf1c29efc7f64" version="1">치유의 영혼</content>
+  <content contentuid="h45d180a7g68b5g313bgd3cag30b28e08cc60" version="2">남은 치유 횟수.</content>
+  <content contentuid="h199d309cg29ebg5aa4g4783g3546acdb3056" version="1">비무장 일격</content>
+  <content contentuid="h1328e69ag74c7gf446g2a36g743b02538d62" version="1">맨주먹으로 표적을 공격합니다.</content>
+  <content contentuid="hb148e9f1gff49g8cf2g4571gd63f58d75de4" version="1">치유의 영혼</content>
+  <content contentuid="h81f85df5ga792g57a4g9366ga27f096377d8" version="1">대상 생물을 치료합니다.</content>
+  <content contentuid="h91bac419g2da1g3b7eg4da9gf071e83d81ec" version="1">치유의 영혼으로 치유되다.</content>
+  <content contentuid="h4085b5a7g8f9egc171gd39bg16e0a980b81c" version="2">영혼이 치유되다</content>
+  <content contentuid="hedafb4f5g6451g144bgbb5cga1db10dbb13b" version="2">최근 치유의 영혼에 의해 치유되었으며, 이번 턴에 다시 치유를 받을 수 없습니다.</content>
+  <content contentuid="hc520355fg1533gee6bg5dc7ge397a9a52721" version="1">신속의 화살통(마법 탄약)</content>
+  <content contentuid="h4bc6f82bg41f4g43b2g54b2g0c4f981474e9" version="2">이 기능을 활성화하면, 한 번의 보조 행동으로 마법 탄약을 두 번 발사할 수 있습니다.</content>
+  <content contentuid="hc52925acg1ad7g46c4g1065g2e1285a99c2f" version="2">영혼의 치유</content>
+  <content contentuid="h7c4273eeg37b4gbb7bg689cg4089c7704c8e" version="1">대상 생물을 치료합니다.</content>
+  <content contentuid="h7e393eb5gb812gbd50g839bga92d6ef5465e" version="1">자연의 정령에게 접근하면 대응 시 치유 효과가 발생합니다.</content>
+  <content contentuid="hdfe1244ege021ged38g71dbg4392d9d3af13" version="1">사정거리 내로 들어오는 생물을 치료합니다.</content>
+  <content contentuid="h07e405f8g8046g29d3g3b34g53b837fb6b4f" version="1">사정거리 내로 들어오는 생물을 치료합니다.</content>
+  <content contentuid="hcc10c3aag9e85ga7e9gc62ag7cd13226f4a1" version="1">사정거리 내로 들어오는 생물을 치료합니다.</content>
+  <content contentuid="h401bd820g418bge83ag0ab7g4e7aa1e5e751" version="1">사정거리 내로 들어오는 생물을 치료합니다.</content>
+  <content contentuid="hcda3e1fdg61bfg73a3g9b62g9f044eed797c" version="1">민첩함의 선물 (의식)</content>
+  <content contentuid="h8d401bc4gf852gc519g39e7g398cb093bce1" version="1">선제권에 +[1] 보너스를 얻지만 대응을 취할 수 없습니다.</content>
+  <content contentuid="h292a606cgced3gd32dg0adfg3ea52f10f14f" version="1">민첩함의 선물 (의식)</content>
+  <content contentuid="h3ba2592fg7763gc8dcg771dg1677d30b45f8" version="1">생물에게 선제권에 +[1] 보너스를 부여하지만 대응을 보이지 못하게 합니다.</content>
+  <content contentuid="h68483d40g3eabgae24g0b60g7b64c88b6f02" version="1">영향을 받은 생물은 효과를 해제할 수 있습니다.</content>
+  <content contentuid="h844c700egf2e9gc34eged52g1737f43e40d4" version="1">민첩함의 선물(의식)을 취소합니다.</content>
+  <content contentuid="h06863b4cg45ccg05bcg3cd1g027b58f39074" version="1">민첩성의 선물(의식)을 해제하고 대응을 취할 수 있는 능력을 회복합니다.</content>
+  <content contentuid="hd7d3d381gd1a1g6037gcd5fg04253bd2549c" version="1">민첩함의 선물</content>
+  <content contentuid="ha64dcca0ge226g5df7gca98gb9a279dee1c6" version="1">생물에게 선제권에 +[1] 보너스를 부여합니다.</content>
+  <content contentuid="h362f6bb0gd106g56fdgacaage815dd9cd268" version="1">이것을 의식으로 사용하면 대상이 아무런 대응을 보이지 않게 할 수 있습니다.</content>
+  <content contentuid="h98a60fc4g5c88ga90fg90edg65d979592d6a" version="1">이것을 의식으로 사용하면 대상이 아무런 대응을 보이지 않게 할 수 있습니다.</content>
+  <content contentuid="h9b256442g2d35g827dg124dgfb54a55ca99a" version="1">민첩함의 선물</content>
+  <content contentuid="h1904805bgfff9g25dfg711bg3bb047037135" version="1">생물에게 선제권에 +[1] 보너스를 부여합니다.</content>
+  <content contentuid="h06c6a99fga809g7c39g47dfg6459bf9a2e36" version="1">GFB_테스트_2</content>
+  <content contentuid="h1dbbe012ga93fgac7eg8fe5g389dd1e100c0" version="1">요술</content>
+  <content contentuid="h5c8dccaag720cg9253g7c85gda2454b1cb3a" version="2">흙을 씻어내고, 횃불을 밝히고, 불을 식힐 수 있는 작은 마법을 부립니다.</content>
+  <content contentuid="h7c32b9a3g2f80g485fgf14agbced0f66cc3a" version="2">요술: 조명</content>
+  <content contentuid="hd45b7db3g41fegcafaga4c2g0751add2f39d" version="2">요술: 청결</content>
+  <content contentuid="h422c64d1g90efgaa22gb115ga94e77d80800" version="1">요술: 소화</content>
+  <content contentuid="h95a469deg0228g5940ga1f9g91afdadf95c2" version="1">요술: 점화화</content>
+  <content contentuid="h174e5f7bg1aa2g65f3g73cfgcb17d96bb11d" version="29">올가미 덫</content>
+  <content contentuid="h1342221cg1f6ag04d9ga943g937a8aaf150c" version="28">의심치 않는 표적을 제지하기 위해 기다리는 숨겨진 함정.</content>
+  <content contentuid="h029e2dc7g065egf3c1g2852g485858304a4d" version="1">올가미 덫</content>
+  <content contentuid="h53f78c04gbea2g6460g2f06g06be9551f2d9" version="6">[1] 범위 내를 지나가는 적을 포획하는 마법의 함정을 설치합니다. 활성화되면 함정 근처의 모든 생물은 넘어지고 구속됩니다.</content>
+  <content contentuid="h98220b47g1939g4ecdg71a4g245caf572a17" version="1">마법을 이용해 생물을 깨끗이 합니다.</content>
+  <content contentuid="he0c0c916g0c0agb2a2g33f7g92ceb685a6ed" version="3">불꽃을 끄고 화상을 제거합니다.</content>
+  <content contentuid="hddcf2ce8g086ag32ecga581g75d0af8eecf9" version="1">횃불을 불태우거나 끄십시오. 가연성 표면에 불을 붙이는 데에도 사용할 수 있습니다.</content>
+  <content contentuid="hff8001c0g93cfg68ecg6269gc214d0b2f740" version="1">올가미 덫</content>
+  <content contentuid="h21606075g6c45gefdcg1dd0ga53acc32c567" version="1">이 마법의 함정은 그 위를 지나가는 모든 적을 제지합니다.</content>
+  <content contentuid="h20e6ea87gbe5ag534cg5864ge8a9204770ce" version="2">올가미 덫</content>
+  <content contentuid="h945b8134g5edbg392bga97cg53628ff3e727" version="3">적이 밟으면 올가미가 작동하여 적을 구속합니다.</content>
+  <content contentuid="h6581e1bag49f6g4859gbe2ag6b5fec3413cb" version="5">올가미 덫</content>
+  <content contentuid="h13b5de67gd673gb348g47b5g913d6584e270" version="1">올가미 덫</content>
+  <content contentuid="h97f2b6a0g2114gec54gda44g7b59a38a6d81" version="1">올가미는 적이 밟으면 작동하여 범위 내의 모든 개체를 가두어 둡니다.</content>
+  <content contentuid="hf232ffbag05f2g7a92g9a97g6aea6c71f4d1" version="1">함정에 걸림</content>
+  <content contentuid="hd4ee134ag9232g74f4g33ebg139ede411743" version="5">지옥의 통제</content>
+  <content contentuid="h3d084c3dg7dddg915bg634cg75083e49818d" version="1">드래곤의 숨결</content>
+  <content contentuid="hb1c2eb94g7e2bg16c5g2574gf74c5ca2ef6d" version="2">한 생물에게 색채 용의 숨결을 뿜어내는 능력을 부여합니다.</content>
+  <content contentuid="h7fd4c3dfg47b6gf0bbg0a20gfb2810bab6ed" version="1">불의 숨결</content>
+  <content contentuid="h93ca5e50g1a06g70d0g0e41gd644cadf751e" version="1">불덩어리를 뿜어냅니다.</content>
+  <content contentuid="h068ab446g478agcbcbg75edg747e479291ba" version="1">드래곤의 숨결</content>
+  <content contentuid="h26e799eeg444cg0d41g4cd4g3b58eff423e0" version="1">산성 호흡</content>
+  <content contentuid="h42563d7dg02d9gc87egab33g88570f82566d" version="1">산 원뿔을 토해냅니다.</content>
+  <content contentuid="hb7cb61a4g3b1agd5c1g6863g3ef86aabb1ed" version="1">프로스트 브레스</content>
+  <content contentuid="hdb41717fg980dga195g236cg5f31cacf8b58" version="1">번개 숨결</content>
+  <content contentuid="h75db8c15g2e01gfda5gd074g09282291d3c1" version="1">독의 숨결</content>
+  <content contentuid="h2a1f249eg2301g29c7g41c7gae094229cc92" version="2">드래곤의 숨결: 산성</content>
+  <content contentuid="h4c70bc39g63a4g1a93g8c09g37d43cda38ab" version="1">용의 숨결을 뿜어낼 수 있는 능력을 얻습니다.</content>
+  <content contentuid="h53edf2d1gbbf8gf6e4g75c6ga43640dd29dd" version="1">드래곤의 숨결: 불</content>
+  <content contentuid="h8422cfc6g37cdg5478ga36ega22c8aa7296e" version="2">드래곤의 숨결: 프로스트</content>
+  <content contentuid="h6fb7a4acgb4e9gbe18gcf75gdb7de9596139" version="1">드래곤의 숨결: 번개</content>
+  <content contentuid="h34f728b3g5757g32ccgb5e8g46fdaac52def" version="1">드래곤의 숨결: 독</content>
+  <content contentuid="hf82907c8g08edgeeb3g0836g9d0c217836e5" version="1">막시밀리안의 흙의 손아귀</content>
+  <content contentuid="h662244b4g9057gb074g62ddgcab2826c7f2f" version="1">막시밀리안의 흙 잡기</content>
+  <content contentuid="h1d9df22agcf32g924dgc7e1g332780a553a3" version="1">막시밀리안의 흙의 짝사랑</content>
+  <content contentuid="h8a51844fg7a43g4412g3661g1a659143470c" version="1">흙의 손아귀</content>
+  <content contentuid="hec291d24g5db3gf595gfc8eg83acc1c26e14" version="1">흙의 손아귀</content>
+  <content contentuid="h06488c53g1838g0819gd101g747b5aaf9c3f" version="1">막시밀리안의 흙의 손아귀</content>
+  <content contentuid="h315d0661g4413g7d0dg3bb4g997afd67f334" version="2">그 생물을 잡아서 제지합니다.</content>
+  <content contentuid="h7bdfbde6gf4b0g1d63g74a6g4edba2c17815" version="1">흙으로 된 손이 잡은 대상으로부터 너무 멀리 떨어지면 잡기가 느슨해집니다.</content>
+  <content contentuid="hc2db5d21g44e1g4c58gc72cg35cde9794546" version="2">압축된 흙으로 만들어진 흙손을 소환해 적을 붙잡아 짓밟습니다.</content>
+  <content contentuid="hce3de987gdbfdga905g7445g64d82cf51cd2" version="1">붙잡힌 생물을 으깨버립니다다.</content>
+  <content contentuid="h9a269cd3g8b2cgdb12g2f52ga9d088ebaf3c" version="1">영향을 받은 개체는 움직일 수 없습니다. 명중 굴림은 유리 보정이 있고, 명중 굴림과 민첩성 내성 굴림는 불리 보정이 있습니다.</content>
+  <content contentuid="h74af8a1fg6d8dgd7c9g1b04g7d18f5c6cfef" version="1">지옥의 통제</content>
+  <content contentuid="h7695878ag193fg9a4bgd90cg2b6b6bee97e7" version="2">소환수: 까마귀</content>
+  <content contentuid="h7e0c8958g3807ge51cg4923gd6b88006cb46" version="1">소환수</content>
+  <content contentuid="h08c1117eg26d8gcf05g4b2cgdc53fb5da90a" version="3">짐승의 영혼을 불러 도움을 요청합니다.</content>
+  <content contentuid="h986334abgd087gcceag0227gf4f4ee514ae4" version="2">소환수: 늑대</content>
+  <content contentuid="h742f5cb8gfa7cgace6g9788g47983a79b4c3" version="2">소환수: 개구리</content>
+  <content contentuid="hffd4cd9ag436egb261g6f34g7ae91c048bfb" version="1">큰 나무 망치</content>
+  <content contentuid="hb19a0b5dgeaf1g3d4dg7ab3g56a90b45e650" version="5">늑대 영혼</content>
+  <content contentuid="hc5414b0bg327agf16cgf5d1g57ee09df02fb" version="11">개구리 영혼</content>
+  <content contentuid="h37dfcb83g89d6gddf8g562fg9325af270d87" version="4">까마귀 영혼을 소환합니다. 곡예 비행을 가지고 있으며 부리로 적을 실명시킬 수 있습니다.</content>
+  <content contentuid="h86c45f21gc736g018eg2bd2gaff3c7bccce9" version="4">늑대 영혼을 소환합니다. 무리 전술을 가지고 있으며 적에게 돌진할 수 있습니다.</content>
+  <content contentuid="h22c416f9g2228gc2bbgf709g2acbffcc2ec6" version="4">개구리 영혼을 소환합니다. 무리 전술을 가지고 있으며 독소로 덮여 있습니다.</content>
+  <content contentuid="hf01174b8g349dg0716gd04fg00958bbbe140" version="1">곡예 비행</content>
+  <content contentuid="hf62788ebgd3d6g790agb3bcg2fb55e26d6ce" version="1">기회 공격을 유발하지 않습니다.</content>
+  <content contentuid="hb13b5b6fge999g3369geeaegd43397bb0a16" version="1">곡예 비행</content>
+  <content contentuid="h7ca0d42bga706g5f76g8ca1g11886990c483" version="1">독소</content>
+  <content contentuid="h7e6971b2g9bf0g1414g670fg06b36097f2cd" version="4">근처의 적에게 [1]의 피해를 입히고, 적을 중독시킬 수 있습니다.</content>
+  <content contentuid="h221c21dfg73d2gec9agd334g2b52d0ca4789" version="1">독소</content>
+  <content contentuid="he28666f3g1d2agc508g3be4g3ccbd4ace590" version="1">요금</content>
+  <content contentuid="h9895347cg56a3ge5e8g7724g0bf57e662af1" version="1">앞으로 돌진하며 경로상의 모든 적을 공격하고, 적을 쓰러뜨릴 가능성이 있습니다.</content>
+  <content contentuid="h77d5fc6agb737gfc50g5e9ag8c94c8d7bf5d" version="2">까마귀 영혼</content>
+  <content contentuid="h5722e37ag0f83g318eg4ae2gc32d41a8ff78" version="1">개구리 영혼을 소환합니다. 무리 전술을 가지고 있으며 독소로 덮여 있습니다.</content>
+  <content contentuid="hbdd8a130g989fg3417g11f8gf46bccef5a80" version="1">개구리 영혼을 소환합니다. 무리 전술을 가지고 있으며 독소로 덮여 있습니다.</content>
+  <content contentuid="hdc70609dg2277g1a53g0cc3g232600c8ab74" version="1">개구리 영혼을 소환합니다. 무리 전술을 가지고 있으며 독소로 덮여 있습니다.</content>
+  <content contentuid="ha171addbg91d5g4d4eg73abg0872c1b632d1" version="1">늑대 영혼을 소환합니다. 무리 전술을 가지고 있으며 적에게 돌진할 수 있습니다.</content>
+  <content contentuid="hcfd93398g4b3cg6333g33b9ge9955158e861" version="1">늑대 영혼을 소환합니다. 무리 전술을 가지고 있으며 적에게 돌진할 수 있습니다.</content>
+  <content contentuid="h32360438gfa1dg976dgb405gf4fceade4601" version="1">늑대 영혼을 소환합니다. 무리 전술을 가지고 있으며 적에게 돌진할 수 있습니다.</content>
+  <content contentuid="hda334f9bgc1a1g7022g486egdec235d20d4a" version="1">넘어진 상태, 실명 상태 또는 취한 상태의 대상에게 여러 차례 공격을 가합니다.</content>
+  <content contentuid="h112cf00dg5077g6ec7g7a0eg23eaad05ce76" version="2">대상에 여러 공격을 가합니다. 대상은 엎드려 있거나, 눈이 멀었거나, 취했거나, 최대 생명력의 절반 미만이어야 합니다.</content>
+  <content contentuid="h42cb5dfag05c5gba2aga90fgc47feb6ce638" version="3">추가 공격은 손재주 내성 굴림에 적용됩니다.</content>
+  <content contentuid="h83250222g054ag40cbgb756g4d40aaae179c" version="1">목표 생물을 파괴합니다.</content>
+  <content contentuid="h2308cceeg491bg2b97g2aa8gbb802a48de87" version="1">늑대의 영혼</content>
+  <content contentuid="h31de0f70gbfceg363fg9f19gf7410f76d324" version="1">늑대의 영혼</content>
+  <content contentuid="hce1395a1g60aagee20gb9d0gc46ae51f6461" version="1">늑대의 영혼</content>
+  <content contentuid="h3e12d4cbgee16gdb3cg6734g362a7f5d8ccd" version="1">늑대의 영혼</content>
+  <content contentuid="hea9bde79gddc1g54edg0da2g08b15bc59ba1" version="1">까마귀 영혼</content>
+  <content contentuid="h1c21f8c4g7993ga61age5daga917cb7ba80f" version="1">까마귀 영혼</content>
+  <content contentuid="h26996c82g6de3g0fc4gb70cg317b37c43569" version="1">까마귀 영혼</content>
+  <content contentuid="h09807570g6a22g9886g6435gf6f1ff31b3c9" version="1">까마귀 영혼</content>
+  <content contentuid="h6a66c101g9779g22b8g5653gdc3653beb042" version="1">까마귀 영혼을 소환합니다. 곡예 비행을 가지고 있으며 부리로 적을 실명시킬 수 있습니다.</content>
+  <content contentuid="h57819601gfe82g20d0g8cbeg7e6f9bcf2ffc" version="1">까마귀 영혼을 소환합니다. 곡예 비행을 가지고 있으며 부리로 적을 실명시킬 수 있습니다.</content>
+  <content contentuid="h707ff0d3gcd6egb0bcg0038g1344728473e4" version="1">까마귀 영혼을 소환합니다. 곡예 비행을 가지고 있으며 부리로 적을 실명시킬 수 있습니다.</content>
+  <content contentuid="h1034a55fg4abcgfa34gae39g4dba975bcab2" version="1">상처처 광선</content>
+  <content contentuid="h29fa1fc2g7fafg201bg23c1g1cfa492ce6cb" version="2">정신 피해를 입히는 눈 광선을 발사합니다.</content>
+  <content contentuid="h375cd28eg661bg6311g7d03ge7c105b5a9a1" version="1">공포 광선</content>
+  <content contentuid="h7e56a96eg5f0cg8ed8g488ag7f848b82a51c" version="1">목표물을 놀라게 하는 눈 광선을 발사합니다.</content>
+  <content contentuid="h14d41c88gf67fg472fgc97egf843d66f625d" version="1">공포 광선</content>
+  <content contentuid="hbd7e2726g98c9g7a2ag36cdg3d10999ed583" version="1">목표물을 놀라게 하는 눈 광선을 발사합니다.</content>
+  <content contentuid="h7cd50b41g5993g2849g1306gc14d56a1da70" version="1">마비 광선</content>
+  <content contentuid="hea1f8374g0516geed0g03abg6cab73f4c0f9" version="1">대상을 마비시키는 눈 광선을 발사합니다.</content>
+  <content contentuid="h1b4332f2g6786g993bg4b36gd39df3598661" version="1">혼란 광선</content>
+  <content contentuid="h2979616bg3c3cg49c5gbd9bg9648c068d526" version="1">대상을 혼란스럽게 하는 눈 광선을 발사합니다.</content>
+  <content contentuid="ha1df2d1dg8f94ga80ag38d3g6705ecc04b54" version="3">비홀더의 영혼</content>
+  <content contentuid="ha609ce75ga0f3gf085g30b8gb230300ed099" version="1">이형체 소환</content>
+  <content contentuid="ha3f8b805g5ce3ge49ag4bbegdb39c9e9c518" version="2">비홀더나 은신자의 변종 영혼혼을 불러옵니다.</content>
+  <content contentuid="h40a4a36fg2b8dgab41g4904g89b98fbbd134" version="2">이형체 소환: 비홀더</content>
+  <content contentuid="h18228036g9c2dg43c8g1bdeg53805a13f4b0" version="5">비홀더 영혼을 소환합니다. 눈 광선은 상처, 공포, 마비, 혼란을 일으킬 수 있습니다.</content>
+  <content contentuid="h6baf5718g4966g56ccgf832gcceef14a8ab5" version="1">깨물기</content>
+  <content contentuid="ha4d55033g29d4g89cag7691gb99ce195b7cf" version="1">목표물을 물어뜯습니다.</content>
+  <content contentuid="hc762c3f1gbf02g85eag19e2gb16b4926b26b" version="5">은신자 영혼</content>
+  <content contentuid="he4ef0f67g2d81g4ecagb1bdga399365a9c02" version="2">대상에게 벌어진 상처와 출혈을 유발하는 여러 공격을 가합니다. 대상은 공포에 질려 있거나 최대 생명력의 절반 미만이어야 합니다.</content>
+  <content contentuid="hd348f7d6g9f85g22e1g7b4dg65acf6b77f87" version="1">다중 공격</content>
+  <content contentuid="h3f7d9a91g094ag5ab5g37a2g7f54bad34969" version="1">소환의 괴수: 은신자</content>
+  <content contentuid="hc5a20024gbffeg557ag5dfag982b76203b02" version="3">은신자 영혼을 소환합니다. 환영을 소환하고, 공포를 유발하고, 다중 공격을 할 수 있습니다.</content>
+  <content contentuid="he2045714g59eeg7681gdbdfgee13c708e926" version="1">신음 소리</content>
+  <content contentuid="h0e1a8191g12fagf570g1582g8da82352c511" version="1">날카로운 신음소리를 내며 주변 생물을 놀라게 합니다.</content>
+  <content contentuid="h79e0ac9dgf5cdgbf5cg4fa5gff935612340a" version="3">환영 복제</content>
+  <content contentuid="h246e5968g3c52gf0d5g7e6bg4270c557f2af" version="4">공격자의 주의를 산만하게 하는 자신의 환영 복제본 3개를 만듭니다. 복제본 하나당 방어도가 3씩 증가합니다. 환영이 하나 이상 활성화되어 있는 동안 모든 내성 굴림에 유리 보정이 있습니다.</content>
+  <content contentuid="hc7b3a903g56ffg99ddgcd1bg802950071094" version="6">공격을 성공적으로 회피할 때마다 중복된 환영 중 하나가 사라집니다. 밝은 빛은 환영이 소환되는 것을 방지하고 활성화된 환영을 모두 제거합니다.</content>
+  <content contentuid="hf8708e49g7eddg0045g8a85g8f7d48e9b226" version="3">환영: 내성 굴림</content>
+  <content contentuid="hffbedb78g7746g8948g50d6g60d5f9b6eadc" version="1">환영</content>
+  <content contentuid="h75abc8ffg2283g3ce4gc7d6g37b058c65b3c" version="4">환영은 공격자의 주의를 끌어 은신자의 방어도를 3만큼 증가시킵니다. 환영이 하나라도 활성화되어 있는 동안 모든 내성 굴림에 유리 보정을 받습니다. 은신자가 공격을 성공적으로 회피하면 이미지 중 하나가 사라집니다. 밝은 빛은 환영이 소환되는 것을 방지하고 활성화된 환영을 모두 제거합니다.</content>
+  <content contentuid="h392a9bfbg32f7g7b4eg7f00g8ad74c04f94c" version="1">두 번째 환영</content>
+  <content contentuid="h3d52d8e2g36d4gbdecg9426gcc0ad2e2850b" version="1">세 번째 환영</content>
+  <content contentuid="h1d4b2c4bg561cgb03cg463bga421d53516ad" version="1">환영이 하나 이상 활성화되어 있는 동안 모든 내성 굴림에 유리 보정을 받습니다.</content>
+  <content contentuid="h96cad309g905dge925gfc0ag9e4847f42272" version="2">환영의 모호함</content>
+  <content contentuid="hfa3cc5a6g6bbagfb81g5643g505f82922a9d" version="1">비홀더 영혼을 소환합니다. 눈 광선은 상처, 공포, 마비, 혼란을 일으킬 수 있습니다.</content>
+  <content contentuid="h9ab216ecg4867g6a34g7235g0a41ff92b437" version="1">비홀더 영혼을 소환합니다. 눈 광선은 상처, 공포, 마비, 혼란을 일으킬 수 있습니다.</content>
+  <content contentuid="h14e3eb14g8b43ga1cag82c7ga22ade66b734" version="1">은신자 영혼을 소환합니다. 환영을 소환하고, 공포를 유발하고, 다중 공격을 할 수 있습니다.</content>
+  <content contentuid="h02f86216g5205ga07eg1c7cg8fcc7cad37a3" version="1">은신자 영혼을 소환합니다. 환영을 소환하고, 공포를 유발하고, 다중 공격을 할 수 있습니다.</content>
+  <content contentuid="h51b52e26g70b0gaca7ge44dg27fd01d89ce7" version="1">상급 악마 소환</content>
+  <content contentuid="h75f9ef28g1447g5982g6621gb1a7838ec99a" version="2">심연에서 강력한 악마를 소환합니다.</content>
+  <content contentuid="hce17af43g97c1g9718gbc59ge3e2fc7032e3" version="10">브록</content>
+  <content contentuid="hf12bca9bg5a64g45a8g68f7ge2787914e91b" version="2">발톱</content>
+  <content contentuid="h312c1e68g0564gbff9ge88dgfb31352cff8b" version="1">목표물을 향해 돌진하여 뒤로 밀어내다[1].</content>
+  <content contentuid="h7be3d247g1386gaceegce74gb610a28f26f8" version="4">엎드려 있거나 기절한 대상을 향해 공격을 두 번 가합니다.</content>
+  <content contentuid="he5630896gf899g1e4bga3bdg0f3e56da9e30" version="1">끔찍한 비명</content>
+  <content contentuid="hd36bf755g045egc576g5600gce6ab07f6ba9" version="3">주변 생물을 기절시키는 끔찍한 비명을 냅니다.</content>
+  <content contentuid="he51e8d2eg06a8gcc93g0058g62d4a014e6e1" version="1">어둠 속의 메아리</content>
+  <content contentuid="h5944a387gfb3eg647cg84adg36f567f17a45" version="1">포자</content>
+  <content contentuid="h51cddcf8gca41g13f3ge221g50e885822d5b" version="1">독성 포자를 배출합니다.</content>
+  <content contentuid="h1d6427e1g0a64gfd13g515egac493e9f7541" version="1">다중 공격</content>
+  <content contentuid="h0e5c4a43g68bag05bbg75f5g8391cd74fa01" version="1">화염 또는 냉기 피해에 보너스를 줍니다.방어도가 1 증가합니다.화염 또는 냉기 피해에 대한 저항력을 부여합니다.반경 [1] 내에 밝은 빛을 뿌립니다.</content>
+  <content contentuid="h8b912986g14e7g5186gff59g23845f70f342" version="1">방어도가 1 증가합니다.화염 피해에 대한 저항력이 부여됩니다.반경 [1] 내에 밝은 빛을 뿌립니다.</content>
+  <content contentuid="h90c2bf92g86a4g249fgbd7fg9010f0d6c6ae" version="1">보너스 [1]을 입히는 +[2]의 마법의 싸늘한 단검을 소환합니다.</content>
+  <content contentuid="hc132962cgc4b8gc087g3af9gccf4060e22ea" version="1">방어도가 1 증가합니다.냉기 피해에 대한 저항력이 부여됩니다.반경 [1] 내에 밝은 빛을 뿌립니다.</content>
+  <content contentuid="h95c7a92dge973g49efgd4c8g4a4f6343ef96" version="2">악마는 비명 소리에 영향을 받지 않습니다.</content>
+  <content contentuid="hd12955b3g9250g4bd7g8f75g1f191bcfb7df" version="1">상급 소환: 브록</content>
+  <content contentuid="h8814b56ag811bge518g75d5gaf48a252bf94" version="1">악마의 영향</content>
+  <content contentuid="h5664965bg5ca9g4a6bg8d6fg761f9c84fea7" version="3">[1] 내에 소환된 모든 상위 악마를 악마의 노예로 복종시킵니다.</content>
+  <content contentuid="hc6725f9egb4f8g7ec6g4ca3g6a10a54845e3" version="1">악마의 예속</content>
+  <content contentuid="hd46b02dbg45e0gd9fbga429gf1de7d8d9a2f" version="2">소환자에게 복종해야 합니다.</content>
+  <content contentuid="h45be61e4gd32cg9b44gb788g46d6b70e8a0d" version="2">심연의 혼돈</content>
+  <content contentuid="ha5e69d3egd412gff75g50d9g39fa3ea4e50d" version="6">악마의 예속에서 벗어나면 모든 생명체에게 적대감을 품습니다.</content>
+  <content contentuid="hf312cc90ga719g02dagc4ceg312da9781ae7" version="1">심연의 광기</content>
+  <content contentuid="h17435aa7g402cge407gf9d9gaa17a903f05a" version="1">모든 대상에게 적대적입니다.</content>
+  <content contentuid="ha4199d52g4154g553dg0442g5892644d5b30" version="1">심연의 혼돈</content>
+  <content contentuid="h8f4c034ege859g5e8ag6343gf147ef042217" version="3">매 턴 매력 내성 굴림에 통과해야 하며, 통과하지 못하면 모든 대상에게 적대적이 됩니다.</content>
+  <content contentuid="h2cd36bf4g7af9g9823gb24cga73809910446" version="2">악마를 조종하려면 주문에 집중해야 합니다. 그렇지 않으면 악마가 당신을 상대로 돌아설 것입니다.</content>
+  <content contentuid="he46b318bgb8e3gd96bg3220g903fc8928e47" version="2">포자, 끔찍한 비명, 다중 공격을 사용할 수 있는 심연에서 브록을 소환합니다.</content>
+  <content contentuid="h4d68d8beg0171g015dgfd61ge4dd7fdd7b68" version="1">브록 포자</content>
+  <content contentuid="h0cd28a46g72c7ga333gb1c9g51e0ae6f3700" version="1">매 턴 [1]을 차지합니다. 명중 굴림과 능력 판정에 불리한 입장에 처합니다.</content>
+  <content contentuid="hea77de0dgaaeega9e7g7135gfa2d9b95fba0" version="1">%%% 비어 있는</content>
+  <content contentuid="hb2f56d09g854agac49g6189g13d3b1cc1028" version="1">브록</content>
+  <content contentuid="h0ece60f6g5f25g783bg3c06g0dbc3b7313f5" version="1">브록</content>
+  <content contentuid="h6a3f5ba6g137bge9a1gb31dg41475ba638b2" version="4">메레곤</content>
+  <content contentuid="h0310602bgd8d0gf5c7g391dg6c42db8b641e" version="1">사악한 캠비온을 소환하여 당신과 함께 싸우게 합니다. 악마의 매력, 배수의 키스, 불의 광선을 시전할 수 있습니다.</content>
+  <content contentuid="h44442ce9g226cgbe17g0594g57f399bd4e51" version="1">지옥의 부름: 캠비온</content>
+  <content contentuid="hfa8bb0dag5e88g3152gca2agbc974bbab8b1" version="6">[1] 마리곤을 소환하여 당신과 함께 싸우게 합니다. 그들은 지옥 군단이며 추가 공격력을 가지고 있습니다. 그들의 공격은 화염 취약 효과를 줍니다.</content>
+  <content contentuid="hadc5d789g09abgfd5agd69fg996ea64f694c" version="1">지옥의 부름: 메레곤 군단</content>
+  <content contentuid="h6e63e7fcg45a4g04eeg6dffge584397e09ae" version="1">지옥의 군단</content>
+  <content contentuid="h93d40964g3e28g846dgf70ega86bc2db63de" version="1">당신은 하나이며, 군단이며, 개성이나 개성이 없습니다. 오직 싸우기 위해 태어났습니다. [1] 이내에 인어의 가면을 쓴 다른 생물이 있는 경우, 근력이 1만큼 증가하고 주변 가면 하나당 지능, 지혜, 매력가 1만큼 감소합니다.</content>
+  <content contentuid="h2761d4b1ge199g1c16g9bc1g009980992dbb" version="1">브록 윙스</content>
+  <content contentuid="hf77e8bf7g2935gc7c9g9144g013bf8d71b12" version="1">정신 쐐기</content>
+  <content contentuid="hdb053bceg9b81g52d0g1790gd504ca8dbacb" version="1">대상의 마음을 침략하여 그들이 보이지 않게 되는 것을 막습니다.</content>
+  <content contentuid="hc159383dg2495g83adgc1f3g9431838a6f85" version="1">공격 소마법 도우미</content>
+  <content contentuid="h754963fegd776g67cdgd2a7g088f6931b6ec" version="1">강력한 주문 시전</content>
+  <content contentuid="h9d1d5247g0b10g7a3ag2de7g12d502bd600a" version="1">당신의 신은 당신에게 더욱 강렬한 힘을 허락합니다. 당신은 클레릭 주문으로 입히는 피해에 지혜 보정치를 추가할 수 있습니다.</content>
+  <content contentuid="h19e73e34gae72g1eeag1502g6073afb93de5" version="1">이 주문은 침묵 상태일 때도 시전할 수 있습니다.</content>
+  <content contentuid="hdbbd80c3ge954ga657ge9e7g64925daad188" version="3">토렌셜 슬램</content>
+  <content contentuid="h7ddd9e65g25e8g5794g5b23gce4110a0f898" version="1">적에게 돌진하여 충격 지점 주변에 물웅덩이를 생성합니다.</content>
+  <content contentuid="h99695496ge6e1gc3edg377fge9e2148b5a51" version="2">천둥의 슬램</content>
+  <content contentuid="h2663aad6g4bc8g0059g172egd5e1da61439c" version="2">귀청이 터질 듯한 바람으로 목표물을 때려 뒤로 밀어낸다[1].</content>
+  <content contentuid="h4b68cb6fg5198g27d0gaa8dg07788c680998" version="1">흙이 막힌 슬램</content>
+  <content contentuid="h7df9cae1ga68eg9732gae4dg40eab4c940b4" version="1">적을 산사태로 쓰러뜨릴 만큼 강력한 힘으로 때리고, 그 자리에 진흙 잔여물을 남깁니다.</content>
+  <content contentuid="ha294d52bgadedg950cge1acg285b5c2bce0e" version="1">스몰더링 슬램</content>
+  <content contentuid="hc421cb1ag43dbg1602g8554g1793bb949666" version="2">용광로의 밝은 핵과 같은 열기로 적을 강타하여 타오르는 불길에 휩싸이게 합니다.</content>
+  <content contentuid="h385d5c42g0d91gd4f0gbf55g7fea97c2e794" version="1">생물 위에 내려앉아 충전된 휘두르기로 공격합니다.</content>
+  <content contentuid="h8c55ef53g9bb8g1c77g8c2agec6a234489aa" version="1">충격을 받은 대상은 두 배의 피해를 입습니다.</content>
+  <content contentuid="h57a87f49gd6d2gcca7g7b94g2261aeb2d6dc" version="1">다중 공격</content>
+  <content contentuid="h0307e690gfc22gd449g2889g3ea869381049" version="1">생명체 위로 내려가 지각의 힘으로 파괴합니다.</content>
+  <content contentuid="hff84cb16gabd7gf34dg29a1g86b8965c7719" version="1">넘어진 대상은 두 배의 피해를 입습니다.</content>
+  <content contentuid="h74ad4754g14cfg28b4gfc8cgee040c4190c5" version="1">다중 공격</content>
+  <content contentuid="h4738f3b7g291dgf0cbg5dd7gd014df701a20" version="1">생명체 위에 내려와 수많은 원시적 불꽃으로 그을려 버립니다.</content>
+  <content contentuid="h85dce874g6d0cg5c1bgc237g615e7a9185f8" version="1">불타는 표적은 두 배의 피해를 입습니다.</content>
+  <content contentuid="h7967c171gaffdgf494g5341g3fda942e76c9" version="1">다중 공격</content>
+  <content contentuid="h2151c3c0g8fefg7c48g9ab1g602ed1fa1ac6" version="3">생물 위에 내려앉아 쏟아지는 공격을 퍼붓습니다.</content>
+  <content contentuid="hf0f837ffg9c41g8db9g064fg757ecd13293b" version="1">냉각된 대상은 두 배의 피해를 입습니다.</content>
+  <content contentuid="h59f646c8gd31agb608g8624g471529fd1895" version="1">다중 공격</content>
+  <content contentuid="h484ee165g2f6fg4b6bg7d13g5a442cc2f6ed" version="1">정령 소환</content>
+  <content contentuid="h7049e07cge6d3g0914gfbd4ge42af5ee66ab" version="2">공기, 땅, 불, 물의 원소 정령을 불러냅니다.</content>
+  <content contentuid="h90d987acgfc49gfafeg40ceg0c878cb4f76b" version="2">정령 소환: 공기 원소 영혼</content>
+  <content contentuid="hda543c68g4da3g06d2g7a6fg0bf01603092d" version="1">공기의 정령은 천둥의 강타와 다중 공격을 사용할 수 있습니다.</content>
+  <content contentuid="hb579f73eg43c3gd0cfg4682gfbd486def817" version="2">정령 소환: 대지 원소 영혼</content>
+  <content contentuid="ha3888c67g9538gf9f3g0590g43874cb49d79" version="2">땅의 정령은 흙막이 강타와 다중 공격을 사용할 수 있습니다.</content>
+  <content contentuid="h5db4e078g4395g388bg2154gae0a9021b6e7" version="2">정령 소환: 불의 원소 영혼</content>
+  <content contentuid="hac28ba4bg5462g8c98ge77ag670af4702b59" version="1">불의 정령은 연기 뿜기와 다중 공격을 사용할 수 있습니다.</content>
+  <content contentuid="h0265a548g36e9g0621gd824g6384eb617b48" version="2">정령 소환: 물의 정령</content>
+  <content contentuid="h83da5f1dgee06g80f3gec9dg546762d8ca83" version="2">물의 정령은 폭풍 강타와 다중 공격을 사용할 수 있습니다.</content>
+  <content contentuid="h04077ee2g9b03g6b5bgb96bgb19feed5d953" version="5">공기의 정령</content>
+  <content contentuid="he097891dga7f1g9ff3g1d48g0efbd0c6c876" version="5">땅의 정령</content>
+  <content contentuid="hd2078729g711egc4f0gbb8eg1a3285f69938" version="2">불의 정령</content>
+  <content contentuid="h603eaed0gfc6dg1235g525dg145d41b86385" version="2">물의 정령</content>
+  <content contentuid="hc94e00cagdab1gae54g6aa2gf56389f3e198" version="3">땅의 정령</content>
+  <content contentuid="h463ecab9gec38g8f1dg18c3g27f5fbd8c05d" version="3">땅의 정령</content>
+  <content contentuid="h1e581111ge55eg81ddg7324gaf41f086fa21" version="1">공기의 정령은 천둥의 강타와 다중 공격을 사용할 수 있습니다.</content>
+  <content contentuid="hbab14b37g2ecdg99b6g9071g5781cadbde79" version="1">땅의 정령은 흙막이 강타와 다중 공격을 사용할 수 있습니다.</content>
+  <content contentuid="h6a306693gfda6g4742gd233g8fc6e742f612" version="1">불의 정령은 연기 뿜기와 다중 공격을 사용할 수 있습니다.</content>
+  <content contentuid="h2790cd9ag022fg10fag6325ge5d8031997e1" version="2">물의 정령은 폭풍 강타와 다중 공격을 사용할 수 있습니다.</content>
+  <content contentuid="h61515ac9g8b14gc8e7gd12fg923ed2adfdb6" version="1">테스트 와풀</content>
+  <content contentuid="h84b1fa8dgee0eg7fbcgf3a2g57d87e3533c8" version="1">%%% 비어 있는</content>
+  <content contentuid="h87b46b25g543agd172g14acg4b6f9172ffd8" version="1">물 제어: 소용돌이</content>
+  <content contentuid="h96245d99gfc87gfe2dgceaag44dabe95ca64" version="2">[1]을 사용합니다.</content>
+  <content contentuid="h81a0aa09gd453gc7f7g3e97gd3e607a427d7" version="1">물 제어: 소용돌이</content>
+  <content contentuid="hb14239c2gf5fcg97b4g2645g0a8807513aca" version="2">생물을 중앙으로 끌어당기는 소용돌이. 안에 있는 사람은 턴마다 [1]을 얻습니다.</content>
+  <content contentuid="h8935524ag75cfg41b0g9904gc096b1539780" version="1">물 조절</content>
+  <content contentuid="h5fea8034g42d5g8be5ge976gd36777fed469" version="5">대상 위치 [1] 내의 물 흐름을 제어합니다. 생물을 중앙으로 끌어들이는 소용돌이를 생성할 수 있습니다.</content>
+  <content contentuid="he65a6d32g4c7egc04dg7b41g0d17b7fdb730" version="3">물 제어: 소용돌이</content>
+  <content contentuid="h747fb583g46c2gea15gd2a8ge6fcbc47d368" version="6">물속을 소용돌이로 바꾸어 생물을 중심으로 끌어당깁니다.</content>
+  <content contentuid="h57f25e7agcc62gd5f3gb4d1ge3b2c75e0cfa" version="1">물 제어: 소용돌이</content>
+  <content contentuid="h21249e5cg9d3ag309bg6dceg0f2b70fa5258" version="2">턴당 [1] 소모. 해당 지역을 벗어나면 제거됩니다.</content>
+  <content contentuid="he2474498gab85gbebag6e01ga76cfc12d562" version="1">물 조절</content>
+  <content contentuid="h0ea1f7bbgaa5cgc681ga735g893812ddb739" version="1">수역을 통제하는 데 집중함.</content>
+  <content contentuid="h15981c1bge955gdd34gc577g791f0847725d" version="1">소용돌이</content>
+  <content contentuid="hbef1567bgd1dcg795dgb8edg5805e1db49fb" version="1">돌모양</content>
+  <content contentuid="h840aa3e4gc8degb6c5gd24cgf867583c0307" version="4">돌을 원하는 형태로 조각합니다. 다음을 할 수 있습니다: 돌 갑옷 만들기, 돌로 변한 생물 부수기, 문과 용기 봉인.</content>
+  <content contentuid="h32de9987g8ffbg8516gbfdbg722f2a4df85a" version="1">암석 조각: 갑옷</content>
+  <content contentuid="hee8b129cg47b4ged36gb9a8g11eb7bca88b2" version="1">대상을 탄력 있는 바위 갑옷으로 가두세요: 방어도를 15 + 민첩성 보정치로 증가시킵니다. 대상은 또한 관통 피해에 대한 저항력과 타격 피해에 취약해지고, 은신 판정에 불리 보정을 갖습니다.</content>
+  <content contentuid="hdd5e8b1dg17acgfa24gaf0ag41bf47f1a04d" version="1">암석 조각 : 부서짐</content>
+  <content contentuid="hb1972ebfge9cbgfa85g8489gb38427482764" version="4">돌화된 생물을 먼지로 변환하여 파괴합니다. [1]이 대상의 생명력을 0으로 줄이면 부서지기 쉬운 재로 분해됩니다.</content>
+  <content contentuid="h4e2d4da1gd1d4g51afgcad5g7898a5555fcc" version="1">암석 조각 : 자물쇠</content>
+  <content contentuid="h0f5ef588ge3dfgb545ga36egded948c30f0f" version="1">마법의 돌로 문이나 용기를 봉인합니다. 더 이상 잠금 해제하거나 노크로 열 수 없습니다.</content>
+  <content contentuid="h775f70f5gbeefg4f8dg1a23g572d310cf2da" version="1">바위 갑옷</content>
+  <content contentuid="h9c09523fgffb3gd0beg24a1g92d077bd2e95" version="2">기본 방어도는 15입니다. 관통에 저항이 있고 타격 피해에 취약하며 은신 판정에 불리합니다.</content>
+  <content contentuid="hbec68d25gc0dfg477ag1e5aga9c9e68737c1" version="1">부정한 기운의 범람</content>
+  <content contentuid="hdc61f872g8356gb461g6234gfc177a0e46fe" version="7">대상 생물에게 부정적인 에너지 리본을 보냅니다. 이 주문으로 죽은 생물은 다음 턴 시작 시 당신의 조종 하에 있는 좀비로 일어납니다. 언데드 생물은 피해를 입지 않으며 대신 [1]의 절반을 얻습니다.</content>
+  <content contentuid="h28eecd4cgacb1g2c82ge6e1g5c91ecbe64d5" version="1">부정한 기운의 범람</content>
+  <content contentuid="h8800408cg075fgf237gda1eg4d40de49bb2a" version="1">바위 자물쇠</content>
+  <content contentuid="h51460e0cgad0bg5636g9631g3bc58e7f7e44" version="1">흙 마법으로 잠김. 잠금 해제나 노크를 사용해도 열 수 없음.</content>
+  <content contentuid="hc22cb5e7gffc9gadc3gb73ag45a59eb68914" version="1">%%% 비어 있는</content>
+  <content contentuid="hd5bc4bedg6563g737bg2996gc7b0f54b8675" version="1">바위 자물쇠 해제</content>
+  <content contentuid="h7e3750dfg1574g2a4eg5bc1gb70c0c5e8487" version="2">문이나 용기에서 암석 조각: 잠금 장치를 제거합니다.</content>
+  <content contentuid="h4ea55caeg68e7g5ae9g16d4gabe9b609fc98" version="1">부정한 기운의 범람</content>
+  <content contentuid="hfb828442g4f63g3e7egabd9gb60b4e57124d" version="2">다음 턴이 시작될 때 좀비로 다시 살아납니다.</content>
+  <content contentuid="h8f09c8fdge31eg122eg9fb7gd5af16538f5c" version="3">[1]의 절반에 해당하는 임시 생명력을 얻습니다.</content>
+  <content contentuid="h07682259gd99eg6400g927ageb690e619299" version="1">그림자 검</content>
+  <content contentuid="h0fb0637agfaafga99bg0faagd0c7f669884a" version="1">이 블레이드를 사용하면 가볍게 또는 완전히 가려진 대상에 대한 명중 굴림에 유리 보정을 받습니다.</content>
+  <content contentuid="h13c994f8gbc58g454egd72fg5edc08627943" version="1">%%% 비어 있는</content>
+  <content contentuid="h4c58440eg7054g3b10gd36fg054016e2e29b" version="2">미스트라의 울리는 검: 암습</content>
+  <content contentuid="h89f7afeagf533g9ff7ga8bdg974f7baa98f3" version="2">미스트라의 울리는 검</content>
+  <content contentuid="h5afb1a45gc8d9g8139g0493g2784ac2f9d91" version="1">대상에게 보너스 [1]을 부여합니다. 공격이 적중하면 대상은 폭발하는 에너지에 싸이게 되며, 대상이 기꺼이 움직이면 [2]을 부여합니다.</content>
+  <content contentuid="h3fc201fdg63edgd575gd42egcb4a388b6863" version="3">블레이드 주문은 추가 공격과 중복되지 않습니다. 이 주문은 침묵 상태일 때에도 시전할 수 있습니다. 적중 시 피해 보너스는 0에서 시작하여 5레벨마다 [1]씩 증가합니다.</content>
+  <content contentuid="h5368dce2g230eg9c14g05f3g2d9af4bb5a9d" version="6">블레이드 주문은 추가 공격과 중복되지 않습니다. 이 주문은 침묵 상태일 때에도 시전할 수 있습니다. 적중 시 피해 보너스는 0에서 시작하여 레벨 5마다 [1]씩 증가합니다. 암습(근접) 능력이 필요합니다.</content>
+  <content contentuid="h6635a7d0g91e1g297fgf7cfg929de38fe693" version="1">녹색 불꽃의 검</content>
+  <content contentuid="ha4cdfc4bg15f5g51acge41bg0fb0bc89f8af" version="1">대상에게 공격하여 보너스 [1]을 줍니다. 공격이 적중하고 당신이 움직이지 않으면, 당신은 녹색 불꽃을 퍼뜨려 근처의 다른 생물을 [2]만큼 태울 수 있습니다.</content>
+  <content contentuid="h05942864gdd1eg1002g28c8gb5813d0d10dd" version="3">블레이드 주문은 추가 공격과 중복되지 않습니다. 이 주문은 침묵 상태일 때에도 시전할 수 있습니다. 적중 시 피해 보너스는 0에서 시작하여 5레벨마다 [1]씩 증가합니다.</content>
+  <content contentuid="ha747e514g1e1cg7d33gb80cg2ebf07816046" version="1">녹색 불꽃의 검: 암습</content>
+  <content contentuid="hf58edb98gcef1gb507g9f98g6cf5d3b5699b" version="6">블레이드 주문은 추가 공격과 중복되지 않습니다. 이 주문은 침묵 상태일 때에도 시전할 수 있습니다. 적중 시 피해 보너스는 0에서 시작하여 레벨 5마다 [1]씩 증가합니다. 암습(근접) 능력이 필요합니다.</content>
+  <content contentuid="hbf746594g9d4ag0cc9g62e8gf9be59c77283" version="5">올가미 덫</content>
+  <content contentuid="h30c41c4bgee4fg734dg941cg0e6aa815ba25" version="5">의심치 않는 표적을 제지하기 위해 기다리는 숨겨진 함정.</content>
+  <content contentuid="hf13b59d6gf172g65fbg9af1g67210cc8325b" version="2">물 형성: 얼음 덩이</content>
+  <content contentuid="h4528a77dg447egad73g5202gd5bfab8c9918" version="4">물 표면 위에 올라갈 수 있는 얼음 덩이를 만듭니다.</content>
+  <content contentuid="hfce997f9gb493g0ba4g0bfag777ed8bf2f8c" version="1">물의 모양: 동결</content>
+  <content contentuid="hbfd77a6eg7714g377dg7de5g40072ec3ded9" version="1">물 표면을 얼립니다.</content>
+  <content contentuid="h7e183f2cg22ebgb85dg0ccag4b59ea660a59" version="1">물 형성</content>
+  <content contentuid="h4e55fbc3g6429gf3eag2048gd7a58da19b21" version="3">원하는 대로 물을 조작할 수 있습니다. 물 표면을 얼음으로 바꾸거나, 상승 가능한 얼음 덩이를 만들 수 있습니다.</content>
+  <content contentuid="h0f412b8ag88a1ge8f3gbb13g6a0393f6d640" version="1">페이 소환: 분노</content>
+  <content contentuid="h416f6c41g848ag0101g6fecg771d35d2f7ac" version="5">페이의 일격으로 점멸견 영혼을 소환합니다. 그녀는 물기, 다중 공격, 페이의 걸음: 분노를 시전할 수 있습니다.</content>
+  <content contentuid="h744c2d2dg3033g6957g7027g675e61cce70a" version="1">페이 소환</content>
+  <content contentuid="h15e51dbfgce56g85dagcc5agf819768d5f9c" version="2">특정 기분을 구현하는 요정 영혼을 소환합니다: 분노, 명랑, 교활함.</content>
+  <content contentuid="h516f6e7fg3658gdab2g808fgfbe6ba19cb99" version="2">페이의 걸음: 분노</content>
+  <content contentuid="h5c7fc540g461fg0a1fgcfdbgd91d76e40c09" version="4">생물에 여러 번 공격을 가합니다. 대상은 매혹되거나, 실명되거나, 최대 생명력의 절반보다 적어야 합니다.</content>
+  <content contentuid="h0437554ag84e3g5c31g94cdg60342fbc57c4" version="1">분노함함</content>
+  <content contentuid="h29ac7f1bgf2afgc1bbg5447g150c5810dd8d" version="1">다음 명중 굴림에 유리 보정을 받습니다.</content>
+  <content contentuid="hef59b2c1g39c5g8704g014agd3d3ae5a2198" version="9">블링크 독 영혼</content>
+  <content contentuid="hf0210a93g54a9g252age6fbg9ba45cc772aa" version="2">페이 소환: 기쁨</content>
+  <content contentuid="h18073c42g6d13g012fgd01agbd00700cc93b" version="7">페이의 일격으로 히죽거리는 고양이 영혼을 소환합니다. 그녀는 휩쓸기, 다중 공격을 사용할 수 있으며 페이의 걸음: 명랑을 시전할 수 있습니다.</content>
+  <content contentuid="hedeadc10gb7e7g2e04g77feg6562e4e1b8d2" version="1">페이 소환: 교활</content>
+  <content contentuid="haad6cb8dg14cdg3248g34a7g0a809fef65d6" version="10">단검과 페이의 일격으로 픽시 영혼을 소환합니다. 그녀는 다중 공격을 할 수 있고 페이의 걸음: 교활을 시전할 수 있습니다.</content>
+  <content contentuid="hd3b27469g38cfg7f08gfa7cgfe3cfcbf2df7" version="3">은빛 안개에 둘러싸인 요정은 눈에 보이는 빈 공간으로 순간이동하며 분노에 사로잡힙니다.</content>
+  <content contentuid="h1492a051gf9eegab7bgc94agdd8fbe0eb230" version="1">추가 공격은 손재주 내성 굴림에 적용됩니다.</content>
+  <content contentuid="hf09ce3a8g5e65g02c4gf7a0g4b8e6d38719f" version="1">페이의 걸음: 쾌활함</content>
+  <content contentuid="h2bebaa71g009fg58aag0975g1cc37a6b4f2e" version="4">은빛 안개에 둘러싸인 요정은 눈에 보이는 빈 공간으로 순간이동하고 기쁨에 넘칩니다.</content>
+  <content contentuid="h2d12b420g86d6g5ba1g92fcg2022c8b19a3f" version="1">페이의 걸음: 교활</content>
+  <content contentuid="h98851008g5424g57dcg8fccg83f301499ad8" version="3">은빛 안개에 둘러싸인 요정은 눈에 보이는 빈 공간으로 순간이동하고 교활한 상태가 됩니다.</content>
+  <content contentuid="he9cdb248g0a21gdf45gc0c1gb9f25dc2d84e" version="1">명랑함</content>
+  <content contentuid="h61722d2cge9f6g0ad9g9143gdd7ed027c8d1" version="5">이번 턴이 끝날 때까지, 이 생물은 즐거운 매력을 시전할 수 있습니다.</content>
+  <content contentuid="haa3f1056gf3f4gca82gfd8ag8195d4cc2eb9" version="1">교활함함</content>
+  <content contentuid="hd99989c0gc3b6g3a56gb0e8g0dc89ec3c957" version="1">다음 명중 굴림에 유리 보정을 받습니다.</content>
+  <content contentuid="h2267b3f8g1d92gf61bg2bb8g48c7215ef034" version="4">이번 턴이 끝날 때까지, 이 생물은 교활한 어둠을 시전할 수 있습니다.</content>
+  <content contentuid="h9b8089bbgb194g814cgf764g02f0cee52e9f" version="9">히죽거리는 고양이</content>
+  <content contentuid="h260986eag21c5g57a6ga731g7921dc4b3cc0" version="1">쾌활한 매력</content>
+  <content contentuid="h1bc52e54gc66agfc83ge6adgf87ca66c708d" version="1">생물을 매혹하여 공격하지 못하게 합니다. 대화에서 매력 판정에 유리해집니다.</content>
+  <content contentuid="h807d01e8ge797gb998ga33bgdd9bc471b7ca" version="1">적은 매혹당하는 것에 대한 내성 굴림에 유리 보정을 받습니다.</content>
+  <content contentuid="hd9bdc938g805agc65fgafa1gbaabf6eb5e44" version="1">인간형 매혹</content>
+  <content contentuid="h07e7a02fgcb3dg11a3g6eb5gc7b69a284321" version="1">인간형 생물을 매혹하여 공격하지 못하게 합니다. 대화에서 매력 판정에서 이점을 얻습니다.</content>
+  <content contentuid="h51e673c2g8b19g0e38ga406g89e91117f2f7" version="1">적은 매혹당하는 것에 대한 내성 굴림에 유리 보정을 받습니다.</content>
+  <content contentuid="haa839c9bg5fa2g962fg18f6g1fc17477a332" version="1">까다로운 어둠</content>
+  <content contentuid="h8c99e0f2g42f6g9e6egfd64gcfc828d1ff38" version="1">생물을 매혹하여 공격하지 못하게 합니다. 대화에서 매력 판정에 유리해집니다.</content>
+  <content contentuid="hb5003ab4g2f75gff55gc992gfdfe8f1effc0" version="1">%%% 비어 있는</content>
+  <content contentuid="hd8e56029gb6bag960fg2fb6gb01bcf4e42f2" version="1">%%% 비어 있는</content>
+  <content contentuid="hd38060f9g2dffgfa95gc603gf41398395d0b" version="2">유쾌한 매력: 소환사</content>
+  <content contentuid="h9972a40dg4a52g8f85gc426gf5e3cc2fa238" version="5">당신의 미스풀 페이가 적을 매혹하면, 당신도 그 생물을 매혹하여 당신을 공격하지 못하게 막을 수 있습니다.</content>
+  <content contentuid="h4449e3f8g120ag0e62ga536ge20d1af66c5d" version="1">%%% 비어 있는</content>
+  <content contentuid="h52862361g1dd6gc5b0gf5f9g517cbc7c9478" version="1">페이의 일격</content>
+  <content contentuid="hefb12dc9g74ccg3939g51f5g92aef8d8bead" version="2">비무장 및 무기 공격은 보너스를 줍니다[1].</content>
+  <content contentuid="h3efa92f5g2726gb5bfg2cccg27ec86be1332" version="1">생물에 여러 번 공격을 가합니다. 대상은 매혹되었거나 최대 생명력의 절반 미만이어야 합니다.</content>
+  <content contentuid="hb7051393gc35cga097g3aa4ge70caef48dda" version="1">추가 공격은 손재주 내성 굴림에 적용됩니다.</content>
+  <content contentuid="hcad7bbdaga413gd558g5df7g98a10f1379be" version="1">생물에 여러 번 공격을 가합니다. 대상은 매혹되거나, 실명되거나, 최대 생명력의 절반보다 적어야 합니다.</content>
+  <content contentuid="h284a3b13gaec6g7a9cgba69g2f62c3c23bcc" version="1">강타</content>
+  <content contentuid="h94aa72e4gc45fgaa2fgc811g6983eae499d1" version="1">상급 속임수의 어둠</content>
+  <content contentuid="hc401b738gf129g0022g2d2ag4d0e2de7b46b" version="1">은빛 안개에 둘러싸인 요정은 눈에 보이는 빈 공간으로 순간이동하고 기쁨에 넘칩니다.</content>
+  <content contentuid="h097904c4ga0b1g85fegba7bg0091545110ad" version="1">상급 기쁨의 매력</content>
+  <content contentuid="he1090148g50bdg6137g31cegcfaa3463e02b" version="1">두 생물을 매혹하여 그들이 당신을 공격하지 못하게 막습니다. 대화에서 매력 판정에서 이점을 얻습니다.</content>
+  <content contentuid="h662f90dbgad1cg19fcgfee2g1af0b4020658" version="1">은빛 안개에 둘러싸인 요정은 눈에 보이는 빈 공간으로 순간이동하고 교교활함이 됩니다.</content>
+  <content contentuid="h5ba97afag80bcg5b96g6aa0gcdba7f25e050" version="1">이번 턴이 끝날 때까지, 이 생물은 상급 기쁨의 매력을 시전할 수 있습니다.</content>
+  <content contentuid="ha629df74g4428gdc8egb970g68a4fcf446f3" version="1">이번 턴이 끝날 때까지, 이 생물은 상급 교활한 어둠을 시전할 수 있습니다.</content>
+  <content contentuid="h75d8c3f7ga79ag3ffcg1591g281e36c1b9b9" version="1">상급 페이의 걸음: 명랑랑</content>
+  <content contentuid="hb843cfe4g8878g7b21g4d97gc4acdd68ed9a" version="1">상급 페이의 걸음: 교활</content>
+  <content contentuid="hef98c10bg43cbg8037g8248gfc4999bf9a9e" version="1">상급 페이의 걸음: 분노</content>
+  <content contentuid="h091eef66g1a03g7affg38e3g9f7a1189a6c2" version="1">은빛 안개에 둘러싸인 요정은 눈에 보이는 빈 공간으로 순간이동하며 분노에 사로잡힙니다.</content>
+  <content contentuid="h8d4a8f89gb3ffg9165g53c0g6e1e469a0913" version="2">보너스[1]를 제공하고 다음 명중 굴림에 유리 보정을 받습니다.</content>
+  <content contentuid="h945551b5g7fa7gc903gdae7g8599d607f26b" version="1">페이의 일격으로 점멸견 영혼을 소환합니다. 그녀는 물기, 다중 공격, 상급 페이의 걸음: 분노를 시전할 수 있습니다.</content>
+  <content contentuid="hd949d67cg58b8g263ag72f5gaad3f49dbce7" version="1">페이의 일격으로 점멸견 영혼을 소환합니다. 그녀는 물기, 다중 공격, 상급 페이의 걸음: 분노를 시전할 수 있습니다.</content>
+  <content contentuid="h7f628f18gf3fcg28b9gda91g63a531b2765f" version="1">페이의 일격으로 히죽거리는 고양이 영혼을 소환합니다. 그녀는 휩쓸기, 다중 공격을 사용할 수 있으며 상급 페이의 걸음: 명랑을 시전할 수 있습니다.</content>
+  <content contentuid="h5067e279g536cgc36fg14cbgb7de5ce2f4b3" version="1">페이의 일격으로 히죽거리는 고양이 영혼을 소환합니다. 그녀는 휩쓸기, 다중 공격을 사용할 수 있으며 상급 페이의 걸음: 명랑을 시전할 수 있습니다.</content>
+  <content contentuid="hfc312bd8g48f8g1e57g7355ga56c6530880f" version="1">단검과 페이의 일격으로 픽시 영혼을 소환합니다. 그녀는 다중 공격을 할 수 있고, 상급 페이의 걸음: 교활을 시전할 수 있습니다.</content>
+  <content contentuid="h4825bc04g5820g9c46g1312g7414ce9da0c0" version="1">단검과 페이의 일격으로 픽시 영혼을 소환합니다. 그녀는 다중 공격을 할 수 있고, 상급 페이의 걸음: 교활을 시전할 수 있습니다.</content>
+  <content contentuid="h6be7eedbg9517g8171g33a8gae76d02dff71" version="1">깨물다</content>
+  <content contentuid="h28fd6a83gc8bbg7388gaacbg44a2b50507bf" version="1">목표물을 물다.</content>
+  <content contentuid="h3cfa571cg43fdgfa29g8c90gddedbb008f07" version="3">드림 슬립 테크니컬</content>
+  <content contentuid="h959b211cge4cfg0defga104g13a5d60ab5a1" version="1">%%% 비어 있는</content>
+  <content contentuid="h2a8e82d9ga6abg0359g96b9g2bcbccd28911" version="1">만약 대상이 내성 굴림에 성공하면, 잠들지 않고 대신 즉시 절반의 정신 피해를 입습니다.</content>
+  <content contentuid="he1b3bd53g9332gb4aeg3ee1g0b72ed1aad22" version="1">악몽</content>
+  <content contentuid="h1d19a8a7gbfacg916cgaa2dg5f545e177ce3" version="1">잠자는 생물은 움직이거나 행동할 수 없습니다.게다가 생물은 자동으로 힘과 민첩성 내성 굴림에 실패하고, 이에 대한 명중 굴림에는 유리 보정이 있으며, 공격자가 생물의 [1] 이내에 있는 경우 생물을 공격하는 모든 공격은 치명타입니다.피해를 입거나 도움을 받으면 제거됩니다.깨어난 후 이 생물은 [2]를 입습니다.</content>
+  <content contentuid="hd8e84622g34d7ge9c8g3d3ag2018adac536a" version="1">대상의 영혼을 강타하여 깨어났을 때 정신적 피해를 입히는 마법의 잠에 빠뜨립니다.</content>
+  <content contentuid="h33dc7bf5gf522g1f54gfd6ag72311d89a4d2" version="1">만약 대상이 내성 굴림에 성공하면, 잠들지 않고 대신 즉시 절반의 정신 피해를 입습니다.</content>
+  <content contentuid="h2fc7c5a6g054cg7ae2ge1d8ga360f0fde162" version="1">대상의 영혼을 공격하여 마법의 잠에 빠지게 하고, 깨어났을 때 초능력 피해를 입힙니다.</content>
+  <content contentuid="ha5863f8ag8a81gab00g22dbgb9a00294848d" version="1">죽음의 무도</content>
+  <content contentuid="h23ff74e9g3d09g444bg7033g2aa13eb16530" version="1">어둠의 힘이 손가락 사이로 튀어나와 5개의 시체를 언데드 하수인으로 만듭니다.</content>
+  <content contentuid="h54c17fe4gc135gd00agdc6fgb99425f60aa7" version="1">근접 전투에 특화된 좀비 5마리를 만듭니다.</content>
+  <content contentuid="h13f103e3g33f5g0906g463dg47c8151994b1" version="1">근접 전투에 특화된 좀비 5마리를 만듭니다.</content>
+  <content contentuid="hd994d4c1g1517gd7cegd758g25b98f60f99c" version="1">죽음의 무도</content>
+  <content contentuid="he3348ab6g74b8g36ffg12f5g13c9d08d3540" version="4">어둠의 힘이 손가락 사이로 튀어나와 여러 마리의 언데드 좀비나 스켈레톤을 되살립니다.</content>
+  <content contentuid="h192ef507gca6bgd2c2gd586g6c45568b7de4" version="3">근접 전투에 특화된 [1]명의 좀비를 생성하여 적에게 중첩되는 저주를 걸 수 있습니다.</content>
+  <content contentuid="h287beb51gdec2ga6efgbefcg46a5cc0b3ed6" version="1">죽음의 무도: 좀비 떼</content>
+  <content contentuid="hc453bcedg6a84gb636g1632g6126997d46fd" version="3">원거리 전투에 특화된 [1]개의 해골을 생성하여 적에게 중첩되는 저주를 걸 수 있습니다.</content>
+  <content contentuid="h5b83194cgec42gf89fge4eeg3a1fecaf921f" version="1">죽음의 무도: 스켈레톤 크루</content>
+  <content contentuid="he86b997eg5be9g89f2g7d41gcbf447acfd70" version="2">무시무시한 일격</content>
+  <content contentuid="h5d22787eg2e56ge6e5g598bgdef07efa7e5d" version="5">명중 굴림에 +[1] 보너스를 부여하고 적에게 중첩되는 저주를 부여합니다.</content>
+  <content contentuid="h0dd49f9ag42ddg9d64g46d6g05ed90e53194" version="2">무시무시한 저주</content>
+  <content contentuid="hd6736eb8gabb1g8716g32b8gbd7ebc0af451" version="8">죽음의 무도 언데드의 공격은 이 대상에게 중첩당 보너스 [1]을 입힙니다.</content>
+  <content contentuid="h45ca5d6eg041eg9691g8d16gbda008a9a20b" version="2">무시무시한 저주</content>
+  <content contentuid="h4f30af9cgba75gfc6agcb9eg9f05ad7f24bc" version="1">투석기</content>
+  <content contentuid="h7ba501d3g1fd4g2ed8gb377gfd31c2642520" version="1">목표물에 가벼운 물체를 던집니다.</content>
+  <content contentuid="hce1993d9g8431g8518gac40g6ad18a56b73a" version="1">최대 중량은 5kg / 10lb입니다. 던진 무기도 일반적인 피해를 입힙니다. 침묵 상태인 동안에도 이 주문을 시전할 수 있습니다.</content>
+  <content contentuid="ha535605agdb3fg2ef6gf8ccgfa33fdbc43e0" version="1">언데드 생물의 공격은 중첩당 보너스 [1]을 입힙니다.</content>
+  <content contentuid="hcc91b053gbc60gf1d2g15ccg1e6282eeced5" version="2">무시무시한 저주</content>
+  <content contentuid="h74303bb9g78d2g8178g176eg8d12f16f3c80" version="1">공격 시 적에게 중첩되는 저주를 걸 수 있습니다.</content>
+  <content contentuid="heddba06eg89d0gfcf9g1448g3429ae762bc6" version="1">탐욕을 부추기다: 대상이 되다</content>
+  <content contentuid="h9165c6c6g2724g6556g484cgb3639198480f" version="1">근처에 있는 최대 [1]마리의 생물을 매료시켜 평화롭게 당신에게 다가오도록 합니다.</content>
+  <content contentuid="h868f711eg1f42gb169g3b5bgde533405a74a" version="1">탐욕을 부추기다</content>
+  <content contentuid="hfe6bd48agc23dg4e10gc6bfgbd1153a60990" version="1">근처의 모든 적들을 매혹시켜 평화롭게 당신에게 다가오도록 합니다.</content>
+</contentList>

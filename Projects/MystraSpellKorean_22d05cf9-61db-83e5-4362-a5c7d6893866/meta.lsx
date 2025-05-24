@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="22d05cf9-61db-83e5-4362-a5c7d6893866"/>
+            <attribute id="Name" type="LSString" value="Mystra&apos;s Spells Korean"/>
+            <attribute id="UUID" type="LSString" value="f837154c-d7b4-d20d-811c-7bd3f77aaf45"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
