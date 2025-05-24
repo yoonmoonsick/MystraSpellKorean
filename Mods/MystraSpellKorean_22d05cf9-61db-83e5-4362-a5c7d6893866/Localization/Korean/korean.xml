@@ -2,7 +2,7 @@
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <content contentuid="h041de896gbb39ge13agabffgcc5189add816" version="1">화염의 손길</content>
  <content contentuid="h76528c19g20c0ge9f3g5cafg497d4489505f" version="1">화염의 힘으로 적을 공격합니다. 해당 범위 내의 모든 대상은 [1]의 피해를 입고 시전자는 [2]의 생명력을 회복합니다.</content>
- <content contentuid="haefd685egb98eg32d7g0285g47f976134d96" version="1">라를로크의 하급 흡수</content>
+ <content contentuid="haefd685egb98eg32d7g0285g47f976134d96" version="1">랄록의 하급 흡수</content>
  <content contentuid="h0a580d62gba20g9ad5g17b7g836eca2f3f45" version="2">대상의 생명력을 추출하고 생명력을 절반만큼 회복합니다.</content>
  <content contentuid="hacd2cea9gddc8g1fa0gcf65g125cce547c28" version="1">죽음의 경종</content>
  <content contentuid="h3270014dga1a6g5b0agd805g966b0d27e657" version="4">대상이 최대 생명력의 절반 이하인 경우 [2]의 피해를 입히고 그렇지 않은 경우 [1]의 피해를 입힙니다.</content>
